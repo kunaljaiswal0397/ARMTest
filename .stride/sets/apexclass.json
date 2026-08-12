@@ -1,0 +1,19 @@
+{
+  "slug": "apexclass",
+  "name": "apexclass",
+  "createdAt": "2026-08-12T12:19:03.193Z",
+  "updatedAt": "2026-08-12T12:19:03.193Z",
+  "version": 1,
+  "lanes": {
+    "metadata": {
+      "components": [
+        {
+          "type": "ApexClass",
+          "fullName": "TestDeployment"
+        }
+      ]
+    }
+  },
+  "branch": "feature/apexclass",
+  "baseBranch": "main"
+}
