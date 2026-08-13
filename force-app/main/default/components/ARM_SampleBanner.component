@@ -1,0 +1,13 @@
+<apex:component >
+    <apex:attribute name="heading" type="String" required="true"
+        description="Text rendered as the banner heading." />
+    <apex:attribute name="subheading" type="String" required="false"
+        description="Optional supporting line under the heading." />
+
+    <div style="padding:1rem;border:1px solid #d8dde6;border-radius:4px;background:#f4f6f9;">
+        <h1 style="font-size:1.25rem;margin:0;">{!heading}</h1>
+        <apex:outputPanel rendered="{!NOT(ISBLANK(subheading))}" layout="block">
+            <p style="margin:0.25rem 0 0;color:#54698d;">{!subheading}</p>
+        </apex:outputPanel>
+    </div>
+</apex:component>

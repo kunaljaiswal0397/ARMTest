@@ -1,0 +1,8 @@
+%dw 2.0
+output application/json
+var multiplier = 2
+---
+{
+    source: "ARM_SampleTransformTwo",
+    doubled: [1, 2, 3] map ((item) -> item * multiplier)
+}
