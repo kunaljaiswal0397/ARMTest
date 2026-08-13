@@ -1,0 +1,7 @@
+%dw 2.0
+output application/json
+---
+{
+    source: "ARM_SampleTransformOne",
+    message: "Hello from ARM sample DataWeave transform one."
+}
