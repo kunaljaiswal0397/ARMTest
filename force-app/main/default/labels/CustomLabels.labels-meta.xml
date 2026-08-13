@@ -5,7 +5,7 @@
         <categories>ARM,Sample</categories>
         <language>en_US</language>
         <protected>false</protected>
-        <shortDescription>ARM Sample Label One</shortDescription>
+        <shortDescription>ARM Sample Label Onee</shortDescription>
         <value>Hello from ARM sample label one.</value>
     </labels>
     <labels>
@@ -13,7 +13,7 @@
         <categories>ARM,Sample</categories>
         <language>en_US</language>
         <protected>false</protected>
-        <shortDescription>ARM Sample Label Two</shortDescription>
+        <shortDescription>ARM Sample Label Twoo</shortDescription>
         <value>Hello from ARM sample label two.</value>
     </labels>
 </CustomLabels>
