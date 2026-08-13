@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ApexEmailNotifications xmlns="http://soap.sforce.com/2006/04/metadata">
+    <apexEmailNotification>
+        <email>arm.sample.one@example.com</email>
+    </apexEmailNotification>
+    <apexEmailNotification>
+        <email>arm.sample.two@example.com</email>
+    </apexEmailNotification>
+</ApexEmailNotifications>

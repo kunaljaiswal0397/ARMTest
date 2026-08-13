@@ -1,0 +1,75 @@
+{
+  "slug": "apex-code",
+  "name": "Apex&Code",
+  "createdAt": "2026-08-13T11:38:14.365Z",
+  "updatedAt": "2026-08-13T11:38:14.365Z",
+  "version": 1,
+  "lanes": {
+    "metadata": {
+      "components": [
+        {
+          "type": "ApexClass",
+          "fullName": "ARM_SampleService"
+        },
+        {
+          "type": "ApexClass",
+          "fullName": "ARM_SampleServiceTest"
+        },
+        {
+          "type": "ApexComponent",
+          "fullName": "ARM_SampleFooter"
+        },
+        {
+          "type": "ApexComponent",
+          "fullName": "ARM_SampleBanner"
+        },
+        {
+          "type": "ApexEmailNotifications",
+          "fullName": "apexEmailNotifications"
+        },
+        {
+          "type": "ApexPage",
+          "fullName": "ARM_SamplePageOne"
+        },
+        {
+          "type": "ApexTestSuite",
+          "fullName": "ARM_SampleSuiteOne"
+        },
+        {
+          "type": "ApexTestSuite",
+          "fullName": "ARM_SampleSuiteTwo"
+        },
+        {
+          "type": "ApexTrigger",
+          "fullName": "ARM_SampleAccountTrigger"
+        },
+        {
+          "type": "ApexTrigger",
+          "fullName": "ARM_SampleContactTrigger"
+        },
+        {
+          "type": "CustomLabels",
+          "fullName": "CustomLabels"
+        },
+        {
+          "type": "DataWeaveResource",
+          "fullName": "ARM_SampleTransformTwo"
+        },
+        {
+          "type": "DataWeaveResource",
+          "fullName": "ARM_SampleTransformOne"
+        },
+        {
+          "type": "StaticResource",
+          "fullName": "ARM_SampleConfig"
+        },
+        {
+          "type": "StaticResource",
+          "fullName": "ARM_SampleImage"
+        }
+      ]
+    }
+  },
+  "branch": "feature/apex-code",
+  "baseBranch": "main"
+}
