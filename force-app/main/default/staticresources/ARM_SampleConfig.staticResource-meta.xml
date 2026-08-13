@@ -1,0 +1,10 @@
+{
+  "name": "ARM_SampleConfig",
+  "purpose": "Sample static resource for ARM metadata testing",
+  "version": 1,
+  "settings": {
+    "retryCount": 3,
+    "enabled": true,
+    "channels": ["email", "chatter"]
+  }
+}
