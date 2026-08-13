@@ -1,0 +1,12 @@
+<apex:page showHeader="true" sidebar="false" applyHtmlTag="true"
+    title="ARM Sample Page Two">
+
+    <c:ARM_SampleBanner heading="ARM Samplee Page Two" />
+
+    <apex:pageBlock title="Static resource reference">
+        <apex:image url="{!URLFOR($Resource.ARM_SampleImage)}" width="48" height="48"
+            alt="ARM sample static resource" />
+    </apex:pageBlock>
+
+    <c:ARM_SampleFooter />
+</apex:page>

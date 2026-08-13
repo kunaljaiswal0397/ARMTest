@@ -16,7 +16,7 @@ private class ARM_SampleServiceTest {
 
     @isTest
     static void greetFallsBackWhenBlank() {
-        Assert.areEqual('Hello, World!', ARM_SampleService.greet('   '));
+        Assert.areEqual('Hello, World!!!', ARM_SampleService.greet('   '));
         Assert.areEqual('Hello, World!', ARM_SampleService.greet(null));
     }
 

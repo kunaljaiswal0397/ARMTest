@@ -9,7 +9,7 @@ public with sharing class ARM_SampleService {
      */
     public static String greet(String name) {
         String target = String.isBlank(name) ? DEFAULT_TARGET : name.trim();
-        return 'Hello, ' + target + '!';
+        return 'Hello Mr., ' + target + '!';
     }
 
     /**
