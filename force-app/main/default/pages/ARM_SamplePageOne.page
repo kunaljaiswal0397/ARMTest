@@ -1,0 +1,12 @@
+<apex:page showHeader="true" sidebar="false" applyHtmlTag="true"
+    title="ARM Sample Page One">
+
+    <c:ARM_SampleBanner heading="ARM Sample Page One"
+        subheading="Demonstrates  pages that depends on a Visualforce component." />
+
+    <apex:pageBlock title="Greeting">
+        <apex:outputText value="{!$Label.ARM_Sample_Label_One}" />
+    </apex:pageBlock>
+
+    <c:ARM_SampleFooter owner="ARM Source Org" />
+</apex:page>

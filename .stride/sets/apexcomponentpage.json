@@ -1,0 +1,67 @@
+{
+  "slug": "apexcomponentpage",
+  "name": "ApexComponentPage",
+  "createdAt": "2026-08-13T12:36:29.495Z",
+  "updatedAt": "2026-08-13T12:36:29.495Z",
+  "version": 1,
+  "lanes": {
+    "metadata": {
+      "components": [
+        {
+          "type": "ApexClass",
+          "fullName": "ARM_SampleServiceTest"
+        },
+        {
+          "type": "ApexClass",
+          "fullName": "ARM_SampleService"
+        },
+        {
+          "type": "ApexComponent",
+          "fullName": "ARM_SampleBanner"
+        },
+        {
+          "type": "ApexComponent",
+          "fullName": "ARM_SampleFooter"
+        },
+        {
+          "type": "ApexPage",
+          "fullName": "ARM_SamplePageTwo"
+        },
+        {
+          "type": "ApexPage",
+          "fullName": "ARM_SamplePageOne"
+        },
+        {
+          "type": "ApexTestSuite",
+          "fullName": "ARM_SampleSuiteTwo"
+        },
+        {
+          "type": "ApexTestSuite",
+          "fullName": "ARM_SampleSuiteOne"
+        },
+        {
+          "type": "ApexTrigger",
+          "fullName": "ARM_SampleContactTrigger"
+        },
+        {
+          "type": "ApexTrigger",
+          "fullName": "ARM_SampleAccountTrigger"
+        },
+        {
+          "type": "CustomLabels",
+          "fullName": "CustomLabels"
+        },
+        {
+          "type": "StaticResource",
+          "fullName": "ARM_SampleImage"
+        },
+        {
+          "type": "StaticResource",
+          "fullName": "ARM_SampleConfig"
+        }
+      ]
+    }
+  },
+  "branch": "feature/apexcomponentpage",
+  "baseBranch": "main"
+}
