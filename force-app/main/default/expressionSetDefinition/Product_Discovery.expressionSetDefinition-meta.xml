@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ExpressionSetDefinition xmlns="http://soap.sforce.com/2006/04/metadata">
+    <contextDefinitions>COMProductDiscoveryExt</contextDefinitions>
+    <label>Product Discovery</label>
+    <processType>Bre</processType>
+    <template>false</template>
+    <versions>
+        <fullName>Laptop_Bundle_Test_Pricing_Procedure_V1</fullName>
+        <expressionSetDefinition>Product_Discovery</expressionSetDefinition>
+        <label>Product Discovery V2</label>
+        <processType>Bre</processType>
+        <rank>3</rank>
+        <shouldShowExplExternally>false</shouldShowExplExternally>
+        <startDate>2026-08-17T18:31:22.000Z</startDate>
+        <status>Active</status>
+        <steps>
+            <actionType>AssignParameterValues</actionType>
+            <assignment>
+                <assignedParameter>test</assignedParameter>
+                <expression>TODAY ( )</expression>
+            </assignment>
+            <label>Calculation</label>
+            <name>Calculation</name>
+            <resultIncluded>false</resultIncluded>
+            <sequenceNumber>1</sequenceNumber>
+            <shouldExposExecPathMsgOnly>true</shouldExposExecPathMsgOnly>
+            <shouldExposeConditionDetails>false</shouldExposeConditionDetails>
+            <shouldShowExplExternally>false</shouldShowExplExternally>
+            <stepType>BusinessKnowledgeModel</stepType>
+        </steps>
+        <variables>
+            <collection>false</collection>
+            <dataType>Date</dataType>
+            <decimalPlaces>2</decimalPlaces>
+            <description>test</description>
+            <input>false</input>
+            <name>test</name>
+            <output>false</output>
+            <type>Variable</type>
+        </variables>
+        <versionNumber>2</versionNumber>
+    </versions>
+    <versions>
+        <fullName>Product_Discovery_Product_Discovery_V30</fullName>
+        <expressionSetDefinition>Product_Discovery</expressionSetDefinition>
+        <label>Product Discovery V3</label>
+        <processType>Bre</processType>
+        <rank>4</rank>
+        <shouldShowExplExternally>false</shouldShowExplExternally>
+        <startDate>2026-08-17T18:31:22.000Z</startDate>
+        <status>Active</status>
+        <steps>
+            <actionType>AssignParameterValues</actionType>
+            <assignment>
+                <assignedParameter>test</assignedParameter>
+                <expression>TODAY ( )</expression>
+            </assignment>
+            <label>Calculation</label>
+            <name>Calculation</name>
+            <resultIncluded>false</resultIncluded>
+            <sequenceNumber>1</sequenceNumber>
+            <shouldExposExecPathMsgOnly>true</shouldExposExecPathMsgOnly>
+            <shouldExposeConditionDetails>false</shouldExposeConditionDetails>
+            <shouldShowExplExternally>false</shouldShowExplExternally>
+            <stepType>BusinessKnowledgeModel</stepType>
+        </steps>
+        <variables>
+            <collection>false</collection>
+            <dataType>Date</dataType>
+            <decimalPlaces>2</decimalPlaces>
+            <description>test</description>
+            <input>false</input>
+            <name>test</name>
+            <output>false</output>
+            <type>Variable</type>
+        </variables>
+        <versionNumber>4</versionNumber>
+    </versions>
+</ExpressionSetDefinition>
