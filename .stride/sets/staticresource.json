@@ -1,0 +1,19 @@
+{
+  "slug": "staticresource",
+  "name": "staticresource",
+  "createdAt": "2026-08-17T10:48:34.552Z",
+  "updatedAt": "2026-08-17T10:48:34.552Z",
+  "version": 1,
+  "lanes": {
+    "metadata": {
+      "components": [
+        {
+          "type": "StaticResource",
+          "fullName": "ARM_SampleImage"
+        }
+      ]
+    }
+  },
+  "branch": "feature/staticresource",
+  "baseBranch": "main"
+}
