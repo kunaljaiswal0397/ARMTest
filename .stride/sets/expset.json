@@ -1,0 +1,36 @@
+{
+  "slug": "expset",
+  "name": "expset",
+  "createdAt": "2026-08-17T19:04:39.683Z",
+  "updatedAt": "2026-08-17T19:04:39.683Z",
+  "version": 1,
+  "lanes": {
+    "metadata": {
+      "components": [
+        {
+          "type": "ExpressionSetDefinition",
+          "fullName": "Product_Discovery"
+        }
+      ]
+    },
+    "pricing": {
+      "procedures": [
+        {
+          "esdDeveloperName": "Default_Discovery_Procedure",
+          "usageType": "PricingDiscovery",
+          "version": 2
+        }
+      ]
+    },
+    "decisionTables": {
+      "tables": [
+        {
+          "developerName": "Location_Pricing",
+          "sourceObject": "Price_List_Entry__c"
+        }
+      ]
+    }
+  },
+  "branch": "feature/expset",
+  "baseBranch": "main"
+}
