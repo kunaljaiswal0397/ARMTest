@@ -1,0 +1,47 @@
+{
+  "slug": "apexclasscodedeployment",
+  "name": "ApexClassCodeDeployment",
+  "createdAt": "2026-08-17T10:30:11.045Z",
+  "updatedAt": "2026-08-17T10:30:11.045Z",
+  "version": 1,
+  "lanes": {
+    "metadata": {
+      "components": [
+        {
+          "type": "ApexClass",
+          "fullName": "ARM_SampleService"
+        },
+        {
+          "type": "ApexClass",
+          "fullName": "ARM_SampleServiceTest"
+        },
+        {
+          "type": "ApexComponent",
+          "fullName": "ARM_SampleFooter"
+        },
+        {
+          "type": "ApexComponent",
+          "fullName": "ARM_SampleBanner"
+        },
+        {
+          "type": "ApexPage",
+          "fullName": "ARM_SamplePageOne"
+        },
+        {
+          "type": "ApexPage",
+          "fullName": "ARM_SamplePageTwo"
+        },
+        {
+          "type": "ApexTrigger",
+          "fullName": "ARM_SampleAccountTrigger"
+        },
+        {
+          "type": "ApexTrigger",
+          "fullName": "ARM_SampleContactTrigger"
+        }
+      ]
+    }
+  },
+  "branch": "feature/apexclasscodedeployment",
+  "baseBranch": "main"
+}
