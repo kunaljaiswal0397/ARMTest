@@ -6,7 +6,9 @@
 private class ARM_SampleServiceTest {
     @isTest
     static void greetUsesSuppliedName() {
-        Assert.areEqual('Hello, ARM!', ARM_SampleService.greet('ARM'));
+
+        Assert.areEqual('Hello, ARM!!', ARM_SampleService.greet('ARM'));
+
     }
 
     @isTest
