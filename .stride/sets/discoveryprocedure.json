@@ -1,0 +1,36 @@
+{
+  "slug": "discoveryprocedure",
+  "name": "discoveryprocedure",
+  "createdAt": "2026-08-17T18:12:44.964Z",
+  "updatedAt": "2026-08-17T18:12:44.964Z",
+  "version": 1,
+  "lanes": {
+    "metadata": {
+      "components": [
+        {
+          "type": "ContextDefinition",
+          "fullName": "COMProductDiscoveryExt"
+        }
+      ]
+    },
+    "pricing": {
+      "procedures": [
+        {
+          "esdDeveloperName": "Default_Discovery_Procedure",
+          "usageType": "PricingDiscovery",
+          "version": 2
+        }
+      ]
+    },
+    "decisionTables": {
+      "tables": [
+        {
+          "developerName": "Location_Pricing",
+          "sourceObject": "Price_List_Entry__c"
+        }
+      ]
+    }
+  },
+  "branch": "feature/discoveryprocedure",
+  "baseBranch": "main"
+}
