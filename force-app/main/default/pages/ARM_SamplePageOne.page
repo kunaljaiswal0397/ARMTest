@@ -2,7 +2,9 @@
     title="ARM Sample Page One">
 
     <c:ARM_SampleBanner heading="ARM Sample Page One"
+
         subheading="Demonstrates  pages that depends on a Visualforce component !!." />
+
 
     <apex:pageBlock title="Greeting">
         <apex:outputText value="{!$Label.ARM_Sample_Label_One}" />
