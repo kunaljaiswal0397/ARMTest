@@ -2,6 +2,7 @@
  * Sample service class used to exercise ARM metadata retrieval and deployment.
  */
 public with sharing class ARM_SampleService {
+
     private static final String DEFAULT_TARGET = 'Hello World !!!!';
 
     /**
