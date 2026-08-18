@@ -1,0 +1,40 @@
+{
+  "slug": "contextdefinition",
+  "name": "contextdefinition",
+  "createdAt": "2026-08-18T09:51:12.977Z",
+  "updatedAt": "2026-08-18T09:51:12.977Z",
+  "version": 1,
+  "lanes": {
+    "metadata": {
+      "components": [
+        {
+          "type": "ContextDefinition",
+          "fullName": "COMProductDiscoveryExt"
+        },
+        {
+          "type": "ExpressionSetDefinitionVersion",
+          "fullName": "Product_Discovery_Product_Discovery_V30"
+        }
+      ]
+    },
+    "pricing": {
+      "procedures": [
+        {
+          "esdDeveloperName": "Default_Discovery_Procedure",
+          "usageType": "PricingDiscovery",
+          "version": 2
+        }
+      ]
+    },
+    "decisionTables": {
+      "tables": [
+        {
+          "developerName": "Location_Pricing",
+          "sourceObject": "Price_List_Entry__c"
+        }
+      ]
+    }
+  },
+  "branch": "feature/contextdefinition",
+  "baseBranch": "main"
+}
