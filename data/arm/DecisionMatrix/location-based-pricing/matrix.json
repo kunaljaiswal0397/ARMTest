@@ -1,0 +1,13 @@
+{
+  "uniqueName": "Location_Based_Pricing",
+  "sourceVersion": {
+    "rank": 1,
+    "versionNumber": 1
+  },
+  "rowCount": 2,
+  "capturedAt": "2026-08-18T10:13:14.070Z",
+  "rowSelection": {
+    "mode": "all"
+  },
+  "deployMode": "delta"
+}
