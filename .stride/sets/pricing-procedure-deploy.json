@@ -1,0 +1,36 @@
+{
+  "slug": "pricing-procedure-deploy",
+  "name": "pricing-procedure-deploy",
+  "createdAt": "2026-08-20T09:57:22.256Z",
+  "updatedAt": "2026-08-20T09:57:22.256Z",
+  "version": 1,
+  "lanes": {
+    "metadata": {
+      "components": [
+        {
+          "type": "ExpressionSetDefinitionVersion",
+          "fullName": "Rev_Mgmt_Default_Pricing_Procedure2_CLONE_V3_V1"
+        }
+      ]
+    },
+    "pricing": {
+      "procedures": [
+        {
+          "esdDeveloperName": "Rev_Mgmt_Default_Pricing_Procedure2_CLONE_V3",
+          "usageType": "DefaultPricing",
+          "version": 1
+        }
+      ]
+    },
+    "decisionTables": {
+      "tables": [
+        {
+          "developerName": "Location_Pricing",
+          "sourceObject": "Price_List_Entry__c"
+        }
+      ]
+    }
+  },
+  "branch": "feature/pricing-procedure-deploy",
+  "baseBranch": "main"
+}
