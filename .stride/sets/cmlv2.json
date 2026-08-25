@@ -1,0 +1,31 @@
+{
+  "slug": "cmlv2",
+  "name": "cmlv2",
+  "createdAt": "2026-08-25T15:10:37.024Z",
+  "updatedAt": "2026-08-25T15:10:37.024Z",
+  "version": 1,
+  "lanes": {
+    "metadata": {
+      "components": [
+        {
+          "type": "ContextDefinition",
+          "fullName": "RevSalesTransactionContext"
+        },
+        {
+          "type": "CustomObject",
+          "fullName": "OrderItem"
+        }
+      ]
+    },
+    "decisionTables": {
+      "tables": [
+        {
+          "developerName": "Location_Pricing",
+          "sourceObject": "Price_List_Entry__c"
+        }
+      ]
+    }
+  },
+  "branch": "feature/cmlv2",
+  "baseBranch": "main"
+}
