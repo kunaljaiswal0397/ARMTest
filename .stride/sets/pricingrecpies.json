@@ -1,0 +1,36 @@
+{
+  "slug": "pricingrecpies",
+  "name": "pricingrecpies",
+  "createdAt": "2026-08-21T08:39:39.787Z",
+  "updatedAt": "2026-08-21T08:39:39.787Z",
+  "version": 1,
+  "lanes": {
+    "metadata": {
+      "components": [
+        {
+          "type": "PricingRecipe",
+          "fullName": "NGPDefaultRecipe"
+        }
+      ]
+    },
+    "pricing": {
+      "procedures": [
+        {
+          "esdDeveloperName": "Rev_Mgmt_Default_Pricing_Procedure2_New",
+          "usageType": "DefaultPricing",
+          "version": 1
+        }
+      ]
+    },
+    "decisionTables": {
+      "tables": [
+        {
+          "developerName": "Location_Pricing",
+          "sourceObject": "Price_List_Entry__c"
+        }
+      ]
+    }
+  },
+  "branch": "feature/pricingrecpies",
+  "baseBranch": "main"
+}

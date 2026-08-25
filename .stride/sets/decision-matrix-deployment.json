@@ -1,0 +1,40 @@
+{
+  "slug": "decision-matrix-deployment",
+  "name": "decision-matrix-deployment",
+  "createdAt": "2026-08-18T10:50:09.261Z",
+  "updatedAt": "2026-08-18T10:50:09.261Z",
+  "version": 1,
+  "lanes": {
+    "metadata": {
+      "components": [
+        {
+          "type": "DecisionMatrixDefinitionVersion",
+          "fullName": "Location_Based_Pricing_V1"
+        },
+        {
+          "type": "DecisionMatrixDefinition",
+          "fullName": "Location_Based_Pricing"
+        }
+      ]
+    },
+    "pricing": {
+      "procedures": [
+        {
+          "esdDeveloperName": "Default_Discovery_Procedure",
+          "usageType": "PricingDiscovery",
+          "version": 2
+        }
+      ]
+    },
+    "decisionTables": {
+      "tables": [
+        {
+          "developerName": "Location_Pricing",
+          "sourceObject": "Price_List_Entry__c"
+        }
+      ]
+    }
+  },
+  "branch": "feature/decision-matrix-deployment",
+  "baseBranch": "main"
+}

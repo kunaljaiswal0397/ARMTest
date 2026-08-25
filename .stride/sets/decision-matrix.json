@@ -1,0 +1,44 @@
+{
+  "slug": "decision-matrix",
+  "name": "decision-matrix",
+  "createdAt": "2026-08-18T10:12:40.771Z",
+  "updatedAt": "2026-08-18T10:12:40.771Z",
+  "version": 1,
+  "lanes": {
+    "metadata": {
+      "components": [
+        {
+          "type": "ContextDefinition",
+          "fullName": "COMProductDiscoveryTestingExt"
+        },
+        {
+          "type": "DecisionMatrixDefinition",
+          "fullName": "Location_Based_Pricing"
+        },
+        {
+          "type": "DecisionMatrixDefinitionVersion",
+          "fullName": "Location_Based_Pricing_V1"
+        }
+      ]
+    },
+    "pricing": {
+      "procedures": [
+        {
+          "esdDeveloperName": "Default_Discovery_Procedure",
+          "usageType": "PricingDiscovery",
+          "version": 2
+        }
+      ]
+    },
+    "decisionTables": {
+      "tables": [
+        {
+          "developerName": "Location_Pricing",
+          "sourceObject": "Price_List_Entry__c"
+        }
+      ]
+    }
+  },
+  "branch": "feature/decision-matrix",
+  "baseBranch": "main"
+}
