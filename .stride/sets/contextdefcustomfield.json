@@ -17,24 +17,6 @@
         }
       ]
     },
-    "cml": {
-      "versions": [
-        {
-          "esdDeveloperName": "PCMConstraintModel",
-          "developerName": "PCMConstraintModel_V1",
-          "version": 1
-        }
-      ]
-    },
-    "decisionTables": {
-      "tables": [
-        {
-          "developerName": "Location_Pricing",
-          "sourceObject": "Price_List_Entry__c"
-        }
-      ]
-    }
-  },
   "branch": "feature/contextdefcustomfield",
   "baseBranch": "main"
 }
