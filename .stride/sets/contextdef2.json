@@ -1,0 +1,27 @@
+{
+  "slug": "contextdef2",
+  "name": "contextdef2",
+  "createdAt": "2026-08-27T09:27:08.687Z",
+  "updatedAt": "2026-08-27T09:27:08.687Z",
+  "version": 1,
+  "lanes": {
+    "metadata": {
+      "components": [
+        {
+          "type": "ContextDefinition",
+          "fullName": "RevSalesTransactionContext"
+        }
+      ]
+    },
+    "decisionTables": {
+      "tables": [
+        {
+          "developerName": "Location_Pricing",
+          "sourceObject": "Price_List_Entry__c"
+        }
+      ]
+    }
+  },
+  "branch": "feature/contextdef2",
+  "baseBranch": "main"
+}
