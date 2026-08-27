@@ -1,0 +1,27 @@
+{
+  "slug": "orderitemfields",
+  "name": "orderitemfields",
+  "createdAt": "2026-08-27T09:15:55.667Z",
+  "updatedAt": "2026-08-27T09:15:55.667Z",
+  "version": 1,
+  "lanes": {
+    "metadata": {
+      "components": [
+        {
+          "type": "CustomObject",
+          "fullName": "OrderItem"
+        }
+      ]
+    },
+    "decisionTables": {
+      "tables": [
+        {
+          "developerName": "Location_Pricing",
+          "sourceObject": "Price_List_Entry__c"
+        }
+      ]
+    }
+  },
+  "branch": "feature/orderitemfields",
+  "baseBranch": "main"
+}
