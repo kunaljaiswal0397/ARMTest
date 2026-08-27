@@ -137,9 +137,9 @@
         <type>Lookup</type>
     </fields>
     <fields>
-        <fullName>ConstraintEngineNodeStatus__c</fullName>
+        <fullName>Constraint_Engine_Node_Status__c</fullName>
         <externalId>false</externalId>
-        <label>ConstraintEngineNodeStatus</label>
+        <label>Constraint Engine Node Status</label>
         <length>32768</length>
         <trackHistory>false</trackHistory>
         <type>LongTextArea</type>
