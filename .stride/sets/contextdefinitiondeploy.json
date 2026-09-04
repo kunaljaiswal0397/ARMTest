@@ -1,0 +1,19 @@
+{
+  "slug": "contextdefinitiondeploy",
+  "name": "contextdefinitiondeploy",
+  "createdAt": "2026-09-04T11:29:25.158Z",
+  "updatedAt": "2026-09-04T11:29:25.158Z",
+  "version": 1,
+  "lanes": {
+    "metadata": {
+      "components": [
+        {
+          "type": "ContextDefinition",
+          "fullName": "SalesTransactionCnxt"
+        }
+      ]
+    }
+  },
+  "branch": "feature/contextdefinitiondeploy",
+  "baseBranch": "main"
+}
