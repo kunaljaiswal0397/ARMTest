@@ -1,37 +1,16 @@
 {
   "slug": "cmldeploy",
   "name": "CMLDeploy",
-  "createdAt": "2026-08-25T09:01:54.828Z",
-  "updatedAt": "2026-08-25T09:01:54.828Z",
+  "createdAt": "2026-09-04T08:49:35.231Z",
+  "updatedAt": "2026-09-04T08:49:35.231Z",
   "version": 1,
   "lanes": {
-    "metadata": {
-      "components": [
-        {
-          "type": "ContextDefinition",
-          "fullName": "RevSalesTransactionContext"
-        },
-        {
-          "type": "CustomObject",
-          "fullName": "OrderItem"
-        }
-      ]
-    },
     "cml": {
       "versions": [
         {
           "esdDeveloperName": "PCMConstraintModel",
           "developerName": "PCMConstraintModel_V1",
           "version": 1
-        }
-      ]
-    },
-    "pricing": {
-      "procedures": [
-        {
-          "esdDeveloperName": "Default_Discovery_Procedure_CLONE",
-          "usageType": "PricingDiscovery",
-          "version": 2
         }
       ]
     },
