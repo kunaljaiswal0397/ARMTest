@@ -1,0 +1,19 @@
+{
+  "slug": "apexclasstestv2",
+  "name": "apexclasstestv2",
+  "createdAt": "2026-09-04T10:57:42.580Z",
+  "updatedAt": "2026-09-04T10:57:42.580Z",
+  "version": 1,
+  "lanes": {
+    "metadata": {
+      "components": [
+        {
+          "type": "ApexClass",
+          "fullName": "ARM_SampleService"
+        }
+      ]
+    }
+  },
+  "branch": "feature/apexclasstestv2",
+  "baseBranch": "main"
+}
