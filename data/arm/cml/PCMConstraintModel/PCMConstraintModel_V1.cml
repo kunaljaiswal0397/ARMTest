@@ -1,0 +1,19 @@
+// PCMConstraintModel V1 - sample constraint model
+// Emits an informational message based on line item count.
+@(virtual = true)
+type PCMSampleModel {
+    @(sourceContextNode = "SalesTransaction.SalesTransactionItem")
+    relation lineItems : PCMSampleItem[0..100];
+
+    int lineItemCount = [0..100];
+
+    constraint(lineItemCount == lineItems[PCMSampleItem]);
+
+    message(lineItemCount > 3, "PCMConstraintModel V1: this quote has %d line items.", lineItemCount, "Info");
+
+}
+
+type PCMSampleItem {
+    int quantity = [1..999];
+
+}
