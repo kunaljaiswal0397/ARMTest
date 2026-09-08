@@ -1,0 +1,23 @@
+{
+  "slug": "cxtdefdeploy",
+  "name": "cxtdefdeploy",
+  "createdAt": "2026-09-08T10:30:45.039Z",
+  "updatedAt": "2026-09-08T10:30:45.039Z",
+  "version": 1,
+  "lanes": {
+    "metadata": {
+      "components": [
+        {
+          "type": "ContextDefinition",
+          "fullName": "SalestransactionCxt"
+        }
+      ]
+    }
+  },
+  "branch": "feature/cxtdefdeploy",
+  "baseBranch": "main",
+  "writtenPaths": [
+    ".stride/sets/cxtdefdeploy.json",
+    "force-app/main/default/contextDefinitions/SalestransactionCxt.contextDefinition-meta.xml"
+  ]
+}
