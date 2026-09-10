@@ -1,0 +1,34 @@
+{
+  "developerName": "PCMConstraintModel_V1",
+  "esdDeveloperName": "PCMConstraintModel",
+  "versionNumber": 1,
+  "expressionSet": {
+    "apiName": "PCMConstraintModel",
+    "name": "PCMConstraintModel",
+    "description": null,
+    "interfaceSourceType": "Constraint",
+    "resourceInitializationType": "Off",
+    "usageType": "Constraint"
+  },
+  "contextDefinitionApiName": "RevSalesTransactionContext",
+  "constraints": [
+    {
+      "refKind": "product",
+      "naturalKey": "DS001",
+      "constraintModelTag": "PCMSampleItem",
+      "constraintModelTagType": "Type"
+    },
+    {
+      "refKind": "product",
+      "naturalKey": "LB001",
+      "constraintModelTag": "PCMSampleInfoType",
+      "constraintModelTagType": "Type"
+    },
+    {
+      "refKind": "product",
+      "naturalKey": "LB001",
+      "constraintModelTag": "PCMSampleInfoType",
+      "constraintModelTagType": "Type"
+    }
+  ]
+}
