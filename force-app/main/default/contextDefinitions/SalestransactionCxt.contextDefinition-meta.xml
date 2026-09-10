@@ -27486,9 +27486,9 @@
             <title>AssetActionSrcPriceAdjustment__std</title>
             <transposable>false</transposable>
         </contextNodes>
-        <isActive>false</isActive>
+        <isActive>true</isActive>
         <startDate>2026-09-04 08:46:36</startDate>
-        <versionNumber>2</versionNumber>
+        <versionNumber>3</versionNumber>
     </contextDefinitionVersions>
     <contextTtl>10</contextTtl>
     <hasSystemTags>false</hasSystemTags>
@@ -27497,6 +27497,6 @@
     <isProtected>false</isProtected>
     <isTransformationEnabled>false</isTransformationEnabled>
     <masterLabel>SalestransactionCxt</masterLabel>
-    <releaseVersion>262.14.13</releaseVersion>
+    <releaseVersion>262.14.14</releaseVersion>
     <title>SalestransactionCxt</title>
 </ContextDefinition>
