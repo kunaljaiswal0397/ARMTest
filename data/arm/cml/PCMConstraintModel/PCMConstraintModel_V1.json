@@ -17,6 +17,18 @@
       "naturalKey": "DS001",
       "constraintModelTag": "PCMSampleItem",
       "constraintModelTagType": "Type"
+    },
+    {
+      "refKind": "product",
+      "naturalKey": "LB001",
+      "constraintModelTag": "PCMSampleInfoType",
+      "constraintModelTagType": "Type"
+    },
+    {
+      "refKind": "product",
+      "naturalKey": "LB001",
+      "constraintModelTag": "PCMSampleInfoType",
+      "constraintModelTagType": "Type"
     }
   ]
 }

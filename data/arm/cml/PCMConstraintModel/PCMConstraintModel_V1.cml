@@ -9,7 +9,7 @@ type PCMSampleModel {
 
     constraint(lineItemCount == lineItems[PCMSampleItem]);
 
-    message(lineItemCount > 3, "PCMConstraintModel V1: this quote has %d line items.", lineItemCount, "Info");
+    message(lineItemCount > 3, "PCMConstraintModel V1: this quote has %d line items Test for the deployment.", lineItemCount, "Info");
 
 }
 
@@ -17,3 +17,5 @@ type PCMSampleItem {
     int quantity = [1..999];
 
 }
+
+type PCMSampleInfoType : PCMSampleModel;
