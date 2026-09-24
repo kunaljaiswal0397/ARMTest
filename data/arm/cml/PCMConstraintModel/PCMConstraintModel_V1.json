@@ -20,6 +20,12 @@
     },
     {
       "refKind": "product",
+      "naturalKey": "H001",
+      "constraintModelTag": "PCMProduct",
+      "constraintModelTagType": "Type"
+    },
+    {
+      "refKind": "product",
       "naturalKey": "LB001",
       "constraintModelTag": "PCMSampleInfoType",
       "constraintModelTagType": "Type"
