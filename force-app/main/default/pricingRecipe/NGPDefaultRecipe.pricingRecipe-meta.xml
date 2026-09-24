@@ -89,4 +89,16 @@
         </pricingProcedureOutputMapList>
         <pricingRecipe>NGPDefaultRecipe</pricingRecipe>
     </pricingRecipeTableMapping>
+    <pricingRecipeTableMapping>
+        <isInternal>false</isInternal>
+        <lookupTableDeveloperName>Location_Based_Pricing</lookupTableDeveloperName>
+        <pricingComponentType>LISTPRICE</pricingComponentType>
+        <pricingProcedureOutputMapList>
+            <fieldName>UnitPrice</fieldName>
+            <isPricingRecipeActive>false</isPricingRecipeActive>
+            <outputFieldName>0lJd20000005uKw</outputFieldName>
+            <outputType>UnitPrice</outputType>
+        </pricingProcedureOutputMapList>
+        <pricingRecipe>NGPDefaultRecipe</pricingRecipe>
+    </pricingRecipeTableMapping>
 </PricingRecipe>
