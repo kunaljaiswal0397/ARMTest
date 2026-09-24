@@ -19,3 +19,5 @@ type PCMSampleItem {
 }
 
 type PCMSampleInfoType : PCMSampleModel;
+
+type PCMProduct : PCMSampleModel;
