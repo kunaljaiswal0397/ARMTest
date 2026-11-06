@@ -1,0 +1,13 @@
+{
+  "globalKey": "8fb600f9-f80e-416f-a197-b81710f6d9bd",
+  "object": "AttributePicklist",
+  "record": {
+    "Code": "STR001",
+    "DataType": "Text",
+    "Description": null,
+    "GlobalKey__c": "8fb600f9-f80e-416f-a197-b81710f6d9bd",
+    "Name": "Storage Picklist",
+    "Status": "Active",
+    "UnitOfMeasure": null
+  }
+}

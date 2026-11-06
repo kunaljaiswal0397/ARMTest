@@ -1,0 +1,16 @@
+{
+  "globalKey": "717fffb0-e598-4b07-bf07-8879567da3c0",
+  "object": "AttributePicklistValue",
+  "record": {
+    "Abbreviation": null,
+    "Code": "1080p Built-in Display",
+    "DisplayValue": "1080p Built-in Display",
+    "GlobalKey__c": "717fffb0-e598-4b07-bf07-8879567da3c0",
+    "IsDefault": true,
+    "Name": "1080p Built-in Display",
+    "Picklist.GlobalKey__c": "3086042d-5aca-40c6-925c-937d57b1ac8c",
+    "Sequence": 1,
+    "Status": "Active",
+    "Value": "1080p Built-in Display"
+  }
+}

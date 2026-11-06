@@ -1,0 +1,12 @@
+{
+  "globalKey": "0ea2b135-9db4-4e0d-9eb7-ec9205358dee",
+  "object": "RateAdjustmentByTier",
+  "record": {
+    "AdjustmentType": "Percentage",
+    "AdjustmentValue": -2,
+    "GlobalKey__c": "0ea2b135-9db4-4e0d-9eb7-ec9205358dee",
+    "LowerBound": 100,
+    "RateCardEntry.GlobalKey__c": "65ca3283-2490-4096-a103-520cd9dfd798",
+    "UpperBound": null
+  }
+}

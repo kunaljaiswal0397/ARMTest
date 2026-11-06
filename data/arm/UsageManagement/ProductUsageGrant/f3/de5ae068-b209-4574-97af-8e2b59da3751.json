@@ -1,0 +1,24 @@
+{
+  "globalKey": "de5ae068-b209-4574-97af-8e2b59da3751",
+  "object": "ProductUsageGrant",
+  "record": {
+    "DrawdownOrder": "ExpiringFirst",
+    "EffectiveEndDate": null,
+    "EffectiveStartDate": "2025-01-01T08:00:00.000+0000",
+    "GlobalKey__c": "de5ae068-b209-4574-97af-8e2b59da3751",
+    "Label": "API Grant",
+    "OverageChargeable": "Yes",
+    "ProductSellingModel": null,
+    "ProductUsageResource.GlobalKey__c": "6cb67379-fbfb-4268-a245-679904c12586",
+    "Quantity": 1000,
+    "RenewalPolicy": null,
+    "RolloverPolicy": null,
+    "Status": "Active",
+    "Type": "Grant",
+    "UnitOfMeasure.GlobalKey__c": "f41959f7-7965-42dc-8c6d-34eb0afe33b8",
+    "UnitOfMeasureClass.GlobalKey__c": "cd76cd76-1bee-45de-9fd6-4e46c9e646e9",
+    "UsageDefinitionProduct.GlobalKey__c": "ddabee8e-7452-4f8f-8a45-9cc5f369c89d",
+    "ValidityPeriodTerm": null,
+    "ValidityPeriodUnit": "None"
+  }
+}

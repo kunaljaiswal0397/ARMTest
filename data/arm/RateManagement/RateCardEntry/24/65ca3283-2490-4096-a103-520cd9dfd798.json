@@ -1,0 +1,17 @@
+{
+  "globalKey": "65ca3283-2490-4096-a103-520cd9dfd798",
+  "object": "RateCardEntry",
+  "record": {
+    "EffectiveFrom": "2025-01-01T08:00:00.000+0000",
+    "EffectiveTo": null,
+    "GlobalKey__c": "65ca3283-2490-4096-a103-520cd9dfd798",
+    "Product.GlobalKey__c": "dd51a791-57b4-4b3b-af52-9c76ccd20ad3",
+    "ProductSellingModel.Name": "Term Based - Yearly",
+    "Rate": null,
+    "RateCard.GlobalKey__c": "8d039ec0-6fb7-46b4-a05b-d23bf0241511",
+    "RateNegotiation": "Negotiable",
+    "RateUnitOfMeasure.GlobalKey__c": "7243c671-b16e-4dc3-86e1-b61b66ddd27a",
+    "Status": "Active",
+    "UsageResource.GlobalKey__c": "07da5740-d005-4e59-93af-a445551c0c18"
+  }
+}
