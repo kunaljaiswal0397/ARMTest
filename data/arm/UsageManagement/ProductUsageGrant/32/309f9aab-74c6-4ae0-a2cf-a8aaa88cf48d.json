@@ -1,0 +1,24 @@
+{
+  "globalKey": "309f9aab-74c6-4ae0-a2cf-a8aaa88cf48d",
+  "object": "ProductUsageGrant",
+  "record": {
+    "DrawdownOrder": "ExpiringFirst",
+    "EffectiveEndDate": null,
+    "EffectiveStartDate": "2025-01-01T08:00:00.000+0000",
+    "GlobalKey__c": "309f9aab-74c6-4ae0-a2cf-a8aaa88cf48d",
+    "Label": "Transfer Grant",
+    "OverageChargeable": "Yes",
+    "ProductSellingModel": null,
+    "ProductUsageResource.GlobalKey__c": "6aedf677-f0a0-4b1d-9bdd-10264b175362",
+    "Quantity": 500,
+    "RenewalPolicy": null,
+    "RolloverPolicy": null,
+    "Status": "Active",
+    "Type": "Grant",
+    "UnitOfMeasure.GlobalKey__c": "3d180861-6a5f-448f-a977-e74279a36e63",
+    "UnitOfMeasureClass.GlobalKey__c": "ca48e193-fb91-4cce-8cfd-4d02facdf84e",
+    "UsageDefinitionProduct.GlobalKey__c": "ddabee8e-7452-4f8f-8a45-9cc5f369c89d",
+    "ValidityPeriodTerm": null,
+    "ValidityPeriodUnit": "None"
+  }
+}

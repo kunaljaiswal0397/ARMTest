@@ -1,0 +1,13 @@
+{
+  "globalKey": "bf9ebe9e-083a-4eec-b179-d2970f92858d",
+  "object": "AttributePicklist",
+  "record": {
+    "Code": "MEM001",
+    "DataType": "Text",
+    "Description": null,
+    "GlobalKey__c": "bf9ebe9e-083a-4eec-b179-d2970f92858d",
+    "Name": "Memory Picklist",
+    "Status": "Active",
+    "UnitOfMeasure": null
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "globalKey": "3086042d-5aca-40c6-925c-937d57b1ac8c",
+  "object": "AttributePicklist",
+  "record": {
+    "Code": "DIS001",
+    "DataType": "Text",
+    "Description": null,
+    "GlobalKey__c": "3086042d-5aca-40c6-925c-937d57b1ac8c",
+    "Name": "Display Picklist",
+    "Status": "Active",
+    "UnitOfMeasure": null
+  }
+}

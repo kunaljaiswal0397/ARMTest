@@ -1,0 +1,21 @@
+{
+  "globalKey": "4c19febb-9516-498f-a424-1a88c979e6e4",
+  "object": "AttributeDefinition",
+  "record": {
+    "Code": null,
+    "DataType": "Picklist",
+    "DefaultHelpText": null,
+    "DefaultValue": null,
+    "Description": null,
+    "DeveloperName": "Storage",
+    "GlobalKey__c": "4c19febb-9516-498f-a424-1a88c979e6e4",
+    "IsActive": true,
+    "IsRequired": true,
+    "Label": "Storage",
+    "Name": "Storage",
+    "Picklist.GlobalKey__c": "8fb600f9-f80e-416f-a197-b81710f6d9bd",
+    "SourceSystemIdentifier": null,
+    "UnitOfMeasure": null,
+    "ValueDescription": null
+  }
+}

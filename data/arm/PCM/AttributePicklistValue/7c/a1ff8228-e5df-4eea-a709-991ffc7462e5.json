@@ -1,0 +1,16 @@
+{
+  "globalKey": "a1ff8228-e5df-4eea-a709-991ffc7462e5",
+  "object": "AttributePicklistValue",
+  "record": {
+    "Abbreviation": null,
+    "Code": "SSD Hard Drive 512GB",
+    "DisplayValue": "SSD Hard Drive 512GB",
+    "GlobalKey__c": "a1ff8228-e5df-4eea-a709-991ffc7462e5",
+    "IsDefault": false,
+    "Name": "SSD Hard Drive 512GB",
+    "Picklist.GlobalKey__c": "8fb600f9-f80e-416f-a197-b81710f6d9bd",
+    "Sequence": 2,
+    "Status": "Active",
+    "Value": "SSD Hard Drive 512GB"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "globalKey": "58ea53da-be7b-4a4b-b8a3-c9e061d60b5c",
+  "object": "AttributePicklistValue",
+  "record": {
+    "Abbreviation": null,
+    "Code": "4k Built-in Display",
+    "DisplayValue": "4k Built-in Display",
+    "GlobalKey__c": "58ea53da-be7b-4a4b-b8a3-c9e061d60b5c",
+    "IsDefault": false,
+    "Name": "4k Built-in Display",
+    "Picklist.GlobalKey__c": "3086042d-5aca-40c6-925c-937d57b1ac8c",
+    "Sequence": 3,
+    "Status": "Active",
+    "Value": "4k Built-in Display"
+  }
+}
