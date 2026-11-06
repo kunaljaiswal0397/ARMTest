@@ -1,0 +1,56 @@
+{
+  "developerName": "Location_Pricing",
+  "metadata": {
+    "collectOperator": "None",
+    "conditionCriteria": "1",
+    "conditionType": "All",
+    "dataSourceType": "SingleSobject",
+    "dataSpaceName": null,
+    "decisionTableParameters": [
+      {
+        "dataType": "String",
+        "decimalScale": null,
+        "domainObject": null,
+        "fieldName": "Unit_Price__c",
+        "fieldPath": "Unit_Price__c",
+        "isGroupByField": false,
+        "isPriorityField": null,
+        "isRequired": false,
+        "length": null,
+        "operator": null,
+        "sequence": null,
+        "sortType": null,
+        "usage": "OUTPUT"
+      },
+      {
+        "dataType": "String",
+        "decimalScale": null,
+        "domainObject": null,
+        "fieldName": "Location__c",
+        "fieldPath": "Location__c",
+        "isGroupByField": false,
+        "isPriorityField": null,
+        "isRequired": true,
+        "length": null,
+        "operator": "Equals",
+        "sequence": 1,
+        "sortType": null,
+        "usage": "INPUT"
+      }
+    ],
+    "decisionTableSourceCriterias": [],
+    "description": null,
+    "doesConsiderNullValue": false,
+    "dtRowLevelOverrideType": "None",
+    "executionType": null,
+    "filterResultBy": "OutputOrder",
+    "isIncrementalSyncEnabled": false,
+    "isVersioned": false,
+    "setupName": "Location Pricing",
+    "sourceConditionLogic": null,
+    "sourceObject": "Price_List_Entry__c",
+    "status": "Active",
+    "type": "LowVolume",
+    "usageType": "DefaultPricing"
+  }
+}
