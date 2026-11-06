@@ -1,0 +1,442 @@
+{
+  "component": "raa-00000001",
+  "componentGlobalKey": "DT-RABA-1",
+  "componentObject": "RateAdjustmentByAttribute",
+  "edges": [
+    {
+      "direction": "forward",
+      "field": "AttributeBasedAdjRuleId",
+      "from": "AttributeAdjustmentCondition:DT-AAC-1",
+      "required": true,
+      "to": "AttributeBasedAdjRule:DT-ABAR-1"
+    },
+    {
+      "direction": "reverse",
+      "field": "AttributeBasedAdjRuleId",
+      "from": "AttributeAdjustmentCondition:DT-AAC-1",
+      "required": true,
+      "to": "AttributeBasedAdjRule:DT-ABAR-1"
+    },
+    {
+      "direction": "forward",
+      "field": "AttributeDefinitionId",
+      "from": "AttributeAdjustmentCondition:DT-AAC-1",
+      "required": true,
+      "to": "AttributeDefinition:48559fd2-1e60-4c54-90e0-077c32fabb3e"
+    },
+    {
+      "direction": "forward",
+      "field": "AttributeBasedAdjRuleId",
+      "from": "AttributeAdjustmentCondition:DT-AAC-2",
+      "required": true,
+      "to": "AttributeBasedAdjRule:DT-ABAR-2"
+    },
+    {
+      "direction": "reverse",
+      "field": "AttributeBasedAdjRuleId",
+      "from": "AttributeAdjustmentCondition:DT-AAC-2",
+      "required": true,
+      "to": "AttributeBasedAdjRule:DT-ABAR-2"
+    },
+    {
+      "direction": "forward",
+      "field": "AttributeDefinitionId",
+      "from": "AttributeAdjustmentCondition:DT-AAC-2",
+      "required": true,
+      "to": "AttributeDefinition:48559fd2-1e60-4c54-90e0-077c32fabb3e"
+    },
+    {
+      "direction": "forward",
+      "field": "AttributeCategoryId",
+      "from": "AttributeCategoryAttribute:3b6e524a-2aef-4b31-b725-85f9f9924699",
+      "required": true,
+      "to": "AttributeCategory:28685a1d-67e4-4091-9709-80c71e5eaec5"
+    },
+    {
+      "direction": "reverse",
+      "field": "AttributeCategoryId",
+      "from": "AttributeCategoryAttribute:3b6e524a-2aef-4b31-b725-85f9f9924699",
+      "required": true,
+      "to": "AttributeCategory:28685a1d-67e4-4091-9709-80c71e5eaec5"
+    },
+    {
+      "direction": "forward",
+      "field": "AttributeDefinitionId",
+      "from": "AttributeCategoryAttribute:3b6e524a-2aef-4b31-b725-85f9f9924699",
+      "required": true,
+      "to": "AttributeDefinition:48559fd2-1e60-4c54-90e0-077c32fabb3e"
+    },
+    {
+      "direction": "forward",
+      "field": "PicklistId",
+      "from": "AttributeDefinition:48559fd2-1e60-4c54-90e0-077c32fabb3e",
+      "required": false,
+      "to": "AttributePicklist:35013429-65f7-4e18-ab76-2b6ab3682814"
+    },
+    {
+      "direction": "forward",
+      "field": "PicklistId",
+      "from": "AttributePicklistValue:06625385-4840-4f36-b3cf-0c8696d74fa4",
+      "required": true,
+      "to": "AttributePicklist:35013429-65f7-4e18-ab76-2b6ab3682814"
+    },
+    {
+      "direction": "reverse",
+      "field": "PicklistId",
+      "from": "AttributePicklistValue:06625385-4840-4f36-b3cf-0c8696d74fa4",
+      "required": true,
+      "to": "AttributePicklist:35013429-65f7-4e18-ab76-2b6ab3682814"
+    },
+    {
+      "direction": "forward",
+      "field": "PicklistId",
+      "from": "AttributePicklistValue:aa2015f8-ceca-46d4-9ca2-e23f8f001229",
+      "required": true,
+      "to": "AttributePicklist:35013429-65f7-4e18-ab76-2b6ab3682814"
+    },
+    {
+      "direction": "reverse",
+      "field": "PicklistId",
+      "from": "AttributePicklistValue:aa2015f8-ceca-46d4-9ca2-e23f8f001229",
+      "required": true,
+      "to": "AttributePicklist:35013429-65f7-4e18-ab76-2b6ab3682814"
+    },
+    {
+      "direction": "forward",
+      "field": "AttributeCategoryId",
+      "from": "ProductAttributeDefinition:bdcfc286-f8f4-4267-ae00-0bfdd7de2632",
+      "required": false,
+      "to": "AttributeCategory:28685a1d-67e4-4091-9709-80c71e5eaec5"
+    },
+    {
+      "direction": "forward",
+      "field": "AttributeDefinitionId",
+      "from": "ProductAttributeDefinition:bdcfc286-f8f4-4267-ae00-0bfdd7de2632",
+      "required": true,
+      "to": "AttributeDefinition:48559fd2-1e60-4c54-90e0-077c32fabb3e"
+    },
+    {
+      "direction": "forward",
+      "field": "ProductClassificationAttributeId",
+      "from": "ProductAttributeDefinition:bdcfc286-f8f4-4267-ae00-0bfdd7de2632",
+      "required": true,
+      "to": "ProductClassificationAttr:fd08fb23-7cb8-4c06-b497-921453e0e915"
+    },
+    {
+      "direction": "forward",
+      "field": "AttributeCategoryId",
+      "from": "ProductClassificationAttr:fd08fb23-7cb8-4c06-b497-921453e0e915",
+      "required": false,
+      "to": "AttributeCategory:28685a1d-67e4-4091-9709-80c71e5eaec5"
+    },
+    {
+      "direction": "forward",
+      "field": "AttributeDefinitionId",
+      "from": "ProductClassificationAttr:fd08fb23-7cb8-4c06-b497-921453e0e915",
+      "required": true,
+      "to": "AttributeDefinition:48559fd2-1e60-4c54-90e0-077c32fabb3e"
+    },
+    {
+      "direction": "forward",
+      "field": "AttributeBasedAdjRuleId",
+      "from": "RateAdjustmentByAttribute:DT-RABA-1",
+      "required": false,
+      "to": "AttributeBasedAdjRule:DT-ABAR-1"
+    },
+    {
+      "direction": "forward",
+      "field": "RateCardEntryId",
+      "from": "RateAdjustmentByAttribute:DT-RABA-1",
+      "required": true,
+      "to": "RateCardEntry:DT-RCE-ATTR-1"
+    },
+    {
+      "direction": "reverse",
+      "field": "RateCardEntryId",
+      "from": "RateAdjustmentByAttribute:DT-RABA-1",
+      "required": true,
+      "to": "RateCardEntry:DT-RCE-ATTR-1"
+    },
+    {
+      "direction": "forward",
+      "field": "UsageResourceId",
+      "from": "RateAdjustmentByAttribute:DT-RABA-1",
+      "required": false,
+      "to": "UsageResource:DT-UR-ATTR-1"
+    },
+    {
+      "direction": "forward",
+      "field": "AttributeBasedAdjRuleId",
+      "from": "RateAdjustmentByAttribute:DT-RABA-2",
+      "required": false,
+      "to": "AttributeBasedAdjRule:DT-ABAR-2"
+    },
+    {
+      "direction": "forward",
+      "field": "RateCardEntryId",
+      "from": "RateAdjustmentByAttribute:DT-RABA-2",
+      "required": true,
+      "to": "RateCardEntry:DT-RCE-ATTR-1"
+    },
+    {
+      "direction": "reverse",
+      "field": "RateCardEntryId",
+      "from": "RateAdjustmentByAttribute:DT-RABA-2",
+      "required": true,
+      "to": "RateCardEntry:DT-RCE-ATTR-1"
+    },
+    {
+      "direction": "forward",
+      "field": "UsageResourceId",
+      "from": "RateAdjustmentByAttribute:DT-RABA-2",
+      "required": false,
+      "to": "UsageResource:DT-UR-ATTR-1"
+    },
+    {
+      "direction": "forward",
+      "field": "UsageResourceId",
+      "from": "RateCardEntry:DT-RCE-ATTR-1",
+      "required": false,
+      "to": "UsageResource:DT-UR-ATTR-1"
+    }
+  ],
+  "leaves": [
+    {
+      "fromGlobalKey": "2793b0ab-8a1d-40ac-9ee4-15822dbe33fb",
+      "fromObject": "PricebookEntry",
+      "reason": "byName",
+      "ref": "Standard Price Book",
+      "targetObject": "Pricebook2"
+    },
+    {
+      "fromGlobalKey": "2793b0ab-8a1d-40ac-9ee4-15822dbe33fb",
+      "fromObject": "PricebookEntry",
+      "reason": "byName",
+      "ref": "Term Based - Yearly",
+      "targetObject": "ProductSellingModel"
+    },
+    {
+      "fromGlobalKey": "56d2b7eb-fb95-42ff-92bd-6e587b760577",
+      "fromObject": "PricebookEntry",
+      "reason": "byName",
+      "ref": "Standard Price Book",
+      "targetObject": "Pricebook2"
+    },
+    {
+      "fromGlobalKey": "56d2b7eb-fb95-42ff-92bd-6e587b760577",
+      "fromObject": "PricebookEntry",
+      "reason": "byName",
+      "ref": "Term Based - Monthly",
+      "targetObject": "ProductSellingModel"
+    },
+    {
+      "fromGlobalKey": "b6d49059-0841-4b4d-be33-bff5b4de1d97",
+      "fromObject": "PricebookEntry",
+      "reason": "byName",
+      "ref": "Standard Price Book",
+      "targetObject": "Pricebook2"
+    },
+    {
+      "fromGlobalKey": "b6d49059-0841-4b4d-be33-bff5b4de1d97",
+      "fromObject": "PricebookEntry",
+      "reason": "byName",
+      "ref": "Term Based - Monthly",
+      "targetObject": "ProductSellingModel"
+    },
+    {
+      "fromGlobalKey": "1a4b233e-a933-497e-9b14-709f943a4fc4",
+      "fromObject": "PriceBookRateCard",
+      "reason": "byName",
+      "ref": "Standard Price Book",
+      "targetObject": "Pricebook2"
+    },
+    {
+      "fromGlobalKey": "4b870a95-db1d-497f-9337-ad0dd5665210",
+      "fromObject": "Product2",
+      "reason": "recordType",
+      "ref": "Commercial"
+    },
+    {
+      "fromGlobalKey": "dd51a791-57b4-4b3b-af52-9c76ccd20ad3",
+      "fromObject": "Product2",
+      "reason": "recordType",
+      "ref": "Commercial"
+    },
+    {
+      "fromGlobalKey": "ddabee8e-7452-4f8f-8a45-9cc5f369c89d",
+      "fromObject": "Product2",
+      "reason": "recordType",
+      "ref": "Commercial"
+    },
+    {
+      "fromGlobalKey": "0b9847b3-a0f7-4fa4-9267-6f58e7658aea",
+      "fromObject": "ProductUsageResource",
+      "reason": "unkeyed-required",
+      "ref": "TokenResourceId",
+      "targetObject": "UsageResource"
+    },
+    {
+      "fromGlobalKey": "2a9dd8df-f295-4e61-8dbd-c4ce6f944385",
+      "fromObject": "ProductUsageResource",
+      "reason": "unkeyed-required",
+      "ref": "TokenResourceId",
+      "targetObject": "UsageResource"
+    },
+    {
+      "fromGlobalKey": "45fac64a-47a8-407e-afe2-85486466acc2",
+      "fromObject": "ProductUsageResource",
+      "reason": "unkeyed-required",
+      "ref": "TokenResourceId",
+      "targetObject": "UsageResource"
+    },
+    {
+      "fromGlobalKey": "6aedf677-f0a0-4b1d-9bdd-10264b175362",
+      "fromObject": "ProductUsageResource",
+      "reason": "unkeyed-required",
+      "ref": "TokenResourceId",
+      "targetObject": "UsageResource"
+    },
+    {
+      "fromGlobalKey": "6cb67379-fbfb-4268-a245-679904c12586",
+      "fromObject": "ProductUsageResource",
+      "reason": "unkeyed-required",
+      "ref": "TokenResourceId",
+      "targetObject": "UsageResource"
+    },
+    {
+      "fromGlobalKey": "DT-RABA-1",
+      "fromObject": "RateAdjustmentByAttribute",
+      "reason": "byName",
+      "ref": "Term Based - Monthly",
+      "targetObject": "ProductSellingModel"
+    },
+    {
+      "fromGlobalKey": "DT-RABA-2",
+      "fromObject": "RateAdjustmentByAttribute",
+      "reason": "byName",
+      "ref": "Term Based - Monthly",
+      "targetObject": "ProductSellingModel"
+    },
+    {
+      "fromGlobalKey": "1b56e14b-4090-4ed5-9382-fb06fd9e1f3a",
+      "fromObject": "RateCardEntry",
+      "reason": "byName",
+      "ref": "Term Based - Monthly",
+      "targetObject": "ProductSellingModel"
+    },
+    {
+      "fromGlobalKey": "DT-RCE-ATTR-1",
+      "fromObject": "RateCardEntry",
+      "reason": "byName",
+      "ref": "Term Based - Monthly",
+      "targetObject": "ProductSellingModel"
+    }
+  ],
+  "nodes": [
+    {
+      "displayLabel": "DeployTest_Support_Premium ↔ Support Level ↔ Support",
+      "globalKey": "DT-AAC-1",
+      "label": "00000018",
+      "object": "AttributeAdjustmentCondition"
+    },
+    {
+      "displayLabel": "DeployTest_Support_PremiumPlus ↔ Support Level ↔ Support",
+      "globalKey": "DT-AAC-2",
+      "label": "00000019",
+      "object": "AttributeAdjustmentCondition"
+    },
+    {
+      "globalKey": "DT-ABAR-1",
+      "label": "DeployTest_Support_Premium",
+      "object": "AttributeBasedAdjRule"
+    },
+    {
+      "globalKey": "DT-ABAR-2",
+      "label": "DeployTest_Support_PremiumPlus",
+      "object": "AttributeBasedAdjRule"
+    },
+    {
+      "globalKey": "28685a1d-67e4-4091-9709-80c71e5eaec5",
+      "label": "Support",
+      "object": "AttributeCategory"
+    },
+    {
+      "displayLabel": "Support ↔ Support Level",
+      "globalKey": "3b6e524a-2aef-4b31-b725-85f9f9924699",
+      "label": "ACA-0000005",
+      "object": "AttributeCategoryAttribute"
+    },
+    {
+      "globalKey": "48559fd2-1e60-4c54-90e0-077c32fabb3e",
+      "label": "Support Level",
+      "object": "AttributeDefinition"
+    },
+    {
+      "globalKey": "35013429-65f7-4e18-ab76-2b6ab3682814",
+      "label": "Support Level Picklist",
+      "object": "AttributePicklist"
+    },
+    {
+      "globalKey": "06625385-4840-4f36-b3cf-0c8696d74fa4",
+      "label": "Premium Plus Support",
+      "object": "AttributePicklistValue"
+    },
+    {
+      "globalKey": "aa2015f8-ceca-46d4-9ca2-e23f8f001229",
+      "label": "Premium Support",
+      "object": "AttributePicklistValue"
+    },
+    {
+      "globalKey": "bdcfc286-f8f4-4267-ae00-0bfdd7de2632",
+      "label": "Support Level",
+      "object": "ProductAttributeDefinition"
+    },
+    {
+      "globalKey": "fd08fb23-7cb8-4c06-b497-921453e0e915",
+      "label": "Support Level",
+      "object": "ProductClassificationAttr"
+    },
+    {
+      "displayLabel": "RCE-00000013 ↔ DeployTest_Support_Premium ↔ DeployTest Attribute Rate Card ↔ DeployTest Support Usage ↔ API Access Premium ↔ USD",
+      "globalKey": "DT-RABA-1",
+      "label": "RAA-00000001",
+      "object": "RateAdjustmentByAttribute"
+    },
+    {
+      "displayLabel": "RCE-00000013 ↔ DeployTest_Support_PremiumPlus ↔ DeployTest Attribute Rate Card ↔ DeployTest Support Usage ↔ API Access Premium ↔ USD",
+      "globalKey": "DT-RABA-2",
+      "label": "RAA-00000002",
+      "object": "RateAdjustmentByAttribute"
+    },
+    {
+      "displayLabel": "DeployTest Attribute Rate Card ↔ USD ↔ Currency ↔ DeployTest Support Usage ↔ API Access Premium ↔ Support ↔ Data ↔ GB",
+      "globalKey": "DT-RCE-ATTR-1",
+      "label": "RCE-00000013",
+      "object": "RateCardEntry"
+    },
+    {
+      "globalKey": "DT-UR-ATTR-1",
+      "label": "DeployTest Support Usage",
+      "object": "UsageResource"
+    }
+  ],
+  "replaceScopeWindows": [
+    {
+      "complete": [
+        "28685a1d-67e4-4091-9709-80c71e5eaec5"
+      ],
+      "object": "AttributeCategoryAttribute",
+      "viaField": "AttributeCategoryId"
+    }
+  ],
+  "roots": [
+    {
+      "globalKey": "DT-RABA-1",
+      "object": "RateAdjustmentByAttribute"
+    },
+    {
+      "globalKey": "DT-RABA-2",
+      "object": "RateAdjustmentByAttribute"
+    }
+  ]
+}

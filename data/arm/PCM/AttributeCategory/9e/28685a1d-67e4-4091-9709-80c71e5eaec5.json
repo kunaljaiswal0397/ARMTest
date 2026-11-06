@@ -1,0 +1,10 @@
+{
+  "globalKey": "28685a1d-67e4-4091-9709-80c71e5eaec5",
+  "object": "AttributeCategory",
+  "record": {
+    "Code": "SP001",
+    "Description": null,
+    "GlobalKey__c": "28685a1d-67e4-4091-9709-80c71e5eaec5",
+    "Name": "Support"
+  }
+}
