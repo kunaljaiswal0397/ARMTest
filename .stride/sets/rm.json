@@ -1,0 +1,72 @@
+{
+  "slug": "rm",
+  "name": "rm",
+  "createdAt": "2026-11-06T13:49:16.048Z",
+  "updatedAt": "2026-11-06T13:49:16.048Z",
+  "version": 1,
+  "lanes": {
+    "arm": {
+      "selections": [
+        {
+          "object": "BindingObjectCustomExt",
+          "intent": "picked",
+          "records": [
+            "50f51418-9d54-4a8f-9d86-c88ba92a152e"
+          ]
+        },
+        {
+          "object": "RateAdjustmentByTier",
+          "intent": "picked",
+          "records": [
+            "DT-RAT-1"
+          ]
+        },
+        {
+          "object": "RateCard",
+          "intent": "picked",
+          "records": [
+            "b562ec9b-2e5b-467b-ac61-f55b59bf6c44",
+            "DT-RC-TIER-1"
+          ]
+        },
+        {
+          "object": "RateCardEntry",
+          "intent": "picked",
+          "records": [
+            "DT-RCE-TIER-1"
+          ]
+        },
+        {
+          "object": "RatingFrequencyPolicy",
+          "intent": "picked",
+          "records": [
+            "63949d65-4f21-4a81-831c-7cd45ef5da7d"
+          ]
+        }
+      ],
+      "includedDeps": [],
+      "deployScope": "complete",
+      "configData": {
+        "objects": [
+          "BindingObjectCustomExt",
+          "RateAdjustmentByTier",
+          "RateCard",
+          "RateCardEntry",
+          "RatingFrequencyPolicy"
+        ]
+      }
+    }
+  },
+  "branch": "feature/rm",
+  "baseBranch": "main",
+  "writtenPaths": [
+    ".stride/sets/rm.json",
+    "data/arm/RateManagement/BindingObjectCustomExt/21/50f51418-9d54-4a8f-9d86-c88ba92a152e.json",
+    "data/arm/RateManagement/RateAdjustmentByTier/5a/DT-RAT-1.json",
+    "data/arm/RateManagement/RateCard/4a/DT-RC-TIER-1.json",
+    "data/arm/RateManagement/RateCard/96/b562ec9b-2e5b-467b-ac61-f55b59bf6c44.json",
+    "data/arm/RateManagement/RateCardEntry/c0/DT-RCE-TIER-1.json",
+    "data/arm/RateManagement/RatingFrequencyPolicy/3d/63949d65-4f21-4a81-831c-7cd45ef5da7d.json",
+    "data/arm/manifests/deploytest-binding-ext.50f51418-9d54-4a8f-9d86-c88ba92a152e.json"
+  ]
+}
