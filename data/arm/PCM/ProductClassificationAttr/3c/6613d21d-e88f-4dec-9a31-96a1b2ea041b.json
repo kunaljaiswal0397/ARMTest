@@ -1,0 +1,29 @@
+{
+  "globalKey": "6613d21d-e88f-4dec-9a31-96a1b2ea041b",
+  "object": "ProductClassificationAttr",
+  "record": {
+    "AttributeCategory.GlobalKey__c": "959dcdc3-ba72-4808-9c70-8f4c52747caa",
+    "AttributeDefinition.GlobalKey__c": "49858442-d50f-4448-9b56-6f56e6bd07fb",
+    "AttributeNameOverride": "Screen Size",
+    "DefaultValue": null,
+    "Description": null,
+    "DisplayType": null,
+    "GlobalKey__c": "6613d21d-e88f-4dec-9a31-96a1b2ea041b",
+    "HelpText": null,
+    "IsHidden": false,
+    "IsPriceImpacting": false,
+    "IsReadOnly": false,
+    "IsRequired": true,
+    "MaximumCharacterCount": null,
+    "MaximumValue": null,
+    "MinimumCharacterCount": null,
+    "MinimumValue": null,
+    "Name": "Screen Size",
+    "OverriddenInheritedAttribute": null,
+    "ProductClassification.GlobalKey__c": "cf5e8837-b83c-41d9-ba7f-51a18858cb98",
+    "Sequence": null,
+    "Status": "Active",
+    "StepValue": null,
+    "ValueDescription": null
+  }
+}

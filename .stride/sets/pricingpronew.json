@@ -1,0 +1,28 @@
+{
+  "slug": "pricingpronew",
+  "name": "pricingpronew",
+  "createdAt": "2026-08-21T08:18:47.200Z",
+  "updatedAt": "2026-08-21T08:18:47.200Z",
+  "version": 1,
+  "lanes": {
+    "pricing": {
+      "procedures": [
+        {
+          "esdDeveloperName": "Rev_Mgmt_Default_Pricing_Procedure2_New",
+          "usageType": "DefaultPricing",
+          "version": 1
+        }
+      ]
+    },
+    "decisionTables": {
+      "tables": [
+        {
+          "developerName": "Location_Pricing",
+          "sourceObject": "Price_List_Entry__c"
+        }
+      ]
+    }
+  },
+  "branch": "feature/pricingpronew",
+  "baseBranch": "main"
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "decisiontabledeployment",
+  "name": "decisiontabledeployment",
+  "createdAt": "2026-08-17T16:47:53.683Z",
+  "updatedAt": "2026-08-17T16:47:53.683Z",
+  "version": 1,
+  "lanes": {
+    "metadata": {
+      "components": [
+        {
+          "type": "CustomObject",
+          "fullName": "Price_List_Entry__c"
+        }
+      ]
+    },
+    "decisionTables": {
+      "tables": [
+        {
+          "developerName": "Location_Pricing",
+          "sourceObject": "Price_List_Entry__c"
+        }
+      ]
+    }
+  },
+  "branch": "feature/decisiontabledeployment",
+  "baseBranch": "main"
+}

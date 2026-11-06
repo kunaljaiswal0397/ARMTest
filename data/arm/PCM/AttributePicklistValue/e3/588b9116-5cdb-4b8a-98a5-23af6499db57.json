@@ -1,0 +1,16 @@
+{
+  "globalKey": "588b9116-5cdb-4b8a-98a5-23af6499db57",
+  "object": "AttributePicklistValue",
+  "record": {
+    "Abbreviation": null,
+    "Code": "SSD Hard Drive 256GB",
+    "DisplayValue": "SSD Hard Drive 256GB",
+    "GlobalKey__c": "588b9116-5cdb-4b8a-98a5-23af6499db57",
+    "IsDefault": false,
+    "Name": "SSD Hard Drive 256GB",
+    "Picklist.GlobalKey__c": "8fb600f9-f80e-416f-a197-b81710f6d9bd",
+    "Sequence": 1,
+    "Status": "Active",
+    "Value": "SSD Hard Drive 256GB"
+  }
+}

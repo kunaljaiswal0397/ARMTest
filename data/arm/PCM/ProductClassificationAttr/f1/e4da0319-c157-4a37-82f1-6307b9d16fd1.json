@@ -1,0 +1,29 @@
+{
+  "globalKey": "e4da0319-c157-4a37-82f1-6307b9d16fd1",
+  "object": "ProductClassificationAttr",
+  "record": {
+    "AttributeCategory.GlobalKey__c": "f4a8fd61-16a2-4ab0-b1e6-74ec874b7516",
+    "AttributeDefinition.GlobalKey__c": "4c19febb-9516-498f-a424-1a88c979e6e4",
+    "AttributeNameOverride": "Storage",
+    "DefaultValue": null,
+    "Description": null,
+    "DisplayType": null,
+    "GlobalKey__c": "e4da0319-c157-4a37-82f1-6307b9d16fd1",
+    "HelpText": null,
+    "IsHidden": false,
+    "IsPriceImpacting": false,
+    "IsReadOnly": false,
+    "IsRequired": true,
+    "MaximumCharacterCount": null,
+    "MaximumValue": null,
+    "MinimumCharacterCount": null,
+    "MinimumValue": null,
+    "Name": "Storage",
+    "OverriddenInheritedAttribute": null,
+    "ProductClassification.GlobalKey__c": "cf5e8837-b83c-41d9-ba7f-51a18858cb98",
+    "Sequence": null,
+    "Status": "Active",
+    "StepValue": null,
+    "ValueDescription": null
+  }
+}

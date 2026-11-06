@@ -1,0 +1,237 @@
+{
+  "slug": "ratemanagement",
+  "name": "RateManagement",
+  "createdAt": "2026-11-06T10:37:58.171Z",
+  "updatedAt": "2026-11-06T10:37:58.171Z",
+  "version": 1,
+  "lanes": {
+    "arm": {
+      "selections": [
+        {
+          "object": "BindingObjectCustomExt",
+          "intent": "picked",
+          "records": [
+            "50f51418-9d54-4a8f-9d86-c88ba92a152e"
+          ]
+        },
+        {
+          "object": "RateAdjustmentByTier",
+          "intent": "picked",
+          "records": [
+            "DT-RAT-1"
+          ]
+        },
+        {
+          "object": "RateCard",
+          "intent": "picked",
+          "records": [
+            "b562ec9b-2e5b-467b-ac61-f55b59bf6c44",
+            "DT-RC-TIER-1",
+            "e0589247-1772-44ec-82c6-8f603b2feab5",
+            "8d039ec0-6fb7-46b4-a05b-d23bf0241511"
+          ]
+        },
+        {
+          "object": "RateCardEntry",
+          "intent": "picked",
+          "records": [
+            "DT-RCE-TIER-1"
+          ]
+        },
+        {
+          "object": "RatingFrequencyPolicy",
+          "intent": "picked",
+          "records": [
+            "63949d65-4f21-4a81-831c-7cd45ef5da7d"
+          ]
+        },
+        {
+          "object": "Product2",
+          "intent": "picked",
+          "records": [
+            "dd51a791-57b4-4b3b-af52-9c76ccd20ad3",
+            "71a99140-5c6f-4386-beea-f47686fa0fd8"
+          ]
+        },
+        {
+          "object": "UsageResource",
+          "intent": "picked",
+          "records": [
+            "5f1e90f2-2c4f-44a5-a090-4604ef3f9f43",
+            "07da5740-d005-4e59-93af-a445551c0c18",
+            "d49a5559-5d72-429f-a785-085c7d6326cc",
+            "851c9fb4-0b41-4446-b29a-fdd0b78ca101",
+            "aef9ac91-857c-457a-801b-3c0dedf54387"
+          ]
+        },
+        {
+          "object": "PriceBookRateCard",
+          "intent": "picked",
+          "records": [
+            "5d09645d-f563-44c6-9077-5946e1c1659f"
+          ]
+        }
+      ],
+      "includedDeps": [],
+      "deployScope": "complete",
+      "configData": {
+        "objects": [
+          "BindingObjectCustomExt",
+          "PriceBookRateCard",
+          "Product2",
+          "RateAdjustmentByTier",
+          "RateCard",
+          "RateCardEntry",
+          "RatingFrequencyPolicy",
+          "UsageResource"
+        ]
+      }
+    }
+  },
+  "branch": "feature/ratemanagement",
+  "baseBranch": "main",
+  "writtenPaths": [
+    ".stride/sets/ratemanagement.json",
+    "data/arm/Billing/BillingPolicy/8e/fcddf175-78ca-49ba-bb82-0b2110b3ead4.json",
+    "data/arm/Billing/BillingTreatment/42/796c9318-599b-44b1-8a39-e67afb0f15b3.json",
+    "data/arm/Billing/BillingTreatmentItem/42/796c9318-599b-44b1-8a39-e67afb0f15b3.42f08dd6.json",
+    "data/arm/Billing/LegalEntity/d0/d843f930-5d8f-47c6-bbfa-8bfd2c468487.json",
+    "data/arm/Billing/TaxPolicy/dc/c0f3cc68-446c-4ea6-917e-d4699573ac71.json",
+    "data/arm/Billing/TaxTreatment/9d/20f912c6-288e-4039-a392-d8913ffd57ba.json",
+    "data/arm/PCM/AttributeCategory/2a/583cdd1b-eacd-43a3-9d20-c637d659bd64.json",
+    "data/arm/PCM/AttributeCategory/3f/959dcdc3-ba72-4808-9c70-8f4c52747caa.json",
+    "data/arm/PCM/AttributeCategory/5c/9648a08c-1274-4922-9431-6eeea32f6cca.json",
+    "data/arm/PCM/AttributeCategory/8d/3ed3c96c-8d67-4113-ab08-83e0d4c7a013.json",
+    "data/arm/PCM/AttributeCategory/bc/f4a8fd61-16a2-4ab0-b1e6-74ec874b7516.json",
+    "data/arm/PCM/AttributeCategoryAttribute/43/19c10bb7-2ec8-4356-9551-79fdcca6b185.json",
+    "data/arm/PCM/AttributeCategoryAttribute/66/d1e6343f-48d7-4054-a594-686f68dc3656.json",
+    "data/arm/PCM/AttributeCategoryAttribute/6d/05740ffc-fd4b-4c88-8e51-bf7b85a86bca.json",
+    "data/arm/PCM/AttributeCategoryAttribute/98/e67df556-b2e8-4dc1-ba03-0bf401c3fe89.json",
+    "data/arm/PCM/AttributeCategoryAttribute/d2/71223427-641c-4246-a49a-b261810f116f.json",
+    "data/arm/PCM/AttributeCategoryAttribute/f6/65b61d3f-da34-43a5-8daa-b91c1225a350.json",
+    "data/arm/PCM/AttributeDefinition/51/59d25c39-ba51-43c3-a29a-79fe5a2eaa2d.json",
+    "data/arm/PCM/AttributeDefinition/6a/180adfe0-9abb-47b2-814b-8ac3445579e5.json",
+    "data/arm/PCM/AttributeDefinition/7d/5042dabc-5c57-4117-a953-bbcffb8c06ec.json",
+    "data/arm/PCM/AttributeDefinition/d1/a1fe521a-ef7c-450a-8c38-4fa0c6803706.json",
+    "data/arm/PCM/AttributeDefinition/db/4c19febb-9516-498f-a424-1a88c979e6e4.json",
+    "data/arm/PCM/AttributeDefinition/fd/49858442-d50f-4448-9b56-6f56e6bd07fb.json",
+    "data/arm/PCM/AttributePicklist/00/65f7bfbc-76c1-4f26-81bc-703ff90bc687.json",
+    "data/arm/PCM/AttributePicklist/7a/8fb600f9-f80e-416f-a197-b81710f6d9bd.json",
+    "data/arm/PCM/AttributePicklist/90/3086042d-5aca-40c6-925c-937d57b1ac8c.json",
+    "data/arm/PCM/AttributePicklist/b7/9d2b195c-aaff-4ccc-b89f-928aee2bd218.json",
+    "data/arm/PCM/AttributePicklist/b7/bb8fb7cb-ec6b-45b1-99b8-b067291b3e0b.json",
+    "data/arm/PCM/AttributePicklist/de/bf9ebe9e-083a-4eec-b179-d2970f92858d.json",
+    "data/arm/PCM/AttributePicklistValue/00/b0c646cd-5805-400e-8de5-6c31d4849095.json",
+    "data/arm/PCM/AttributePicklistValue/17/1535d114-c4bd-4032-baf3-f1d48e5ec0ff.json",
+    "data/arm/PCM/AttributePicklistValue/1b/48ad7a86-c4f2-4f70-8aed-a957d0211222.json",
+    "data/arm/PCM/AttributePicklistValue/26/49c2aba5-1f97-4da7-9992-6b472f089653.json",
+    "data/arm/PCM/AttributePicklistValue/31/7af65685-038b-4ca4-ad8f-15f27de437b5.json",
+    "data/arm/PCM/AttributePicklistValue/3a/d77db0c5-6aad-4454-a651-1340e3b8e765.json",
+    "data/arm/PCM/AttributePicklistValue/3c/9567deb6-cae1-4713-87cc-c8ddb434b58e.json",
+    "data/arm/PCM/AttributePicklistValue/3c/f9fd2794-8693-41d4-9c7e-2240374981f9.json",
+    "data/arm/PCM/AttributePicklistValue/43/37efbc50-ab60-4b96-94db-ce0929665e0b.json",
+    "data/arm/PCM/AttributePicklistValue/50/717fffb0-e598-4b07-bf07-8879567da3c0.json",
+    "data/arm/PCM/AttributePicklistValue/5e/8c56fd45-ac79-45c7-be10-3554d5d91923.json",
+    "data/arm/PCM/AttributePicklistValue/7c/a1ff8228-e5df-4eea-a709-991ffc7462e5.json",
+    "data/arm/PCM/AttributePicklistValue/93/5f08217c-8e91-4bd1-b6c2-7b51ce4429b3.json",
+    "data/arm/PCM/AttributePicklistValue/9d/902c1117-9822-4adf-8d6f-3c4c06b5cbc4.json",
+    "data/arm/PCM/AttributePicklistValue/b5/6a6411b5-9e9a-472b-9138-91c3d5df7a97.json",
+    "data/arm/PCM/AttributePicklistValue/c4/7eaf515f-9c67-487c-a679-5b6fe914b2ca.json",
+    "data/arm/PCM/AttributePicklistValue/da/58ea53da-be7b-4a4b-b8a3-c9e061d60b5c.json",
+    "data/arm/PCM/AttributePicklistValue/db/83fd75dd-ce42-4c7a-bb33-53f39a549e45.json",
+    "data/arm/PCM/AttributePicklistValue/e3/588b9116-5cdb-4b8a-98a5-23af6499db57.json",
+    "data/arm/PCM/AttributePicklistValue/e9/a5204305-d016-4098-ae3e-56ae75e5b824.json",
+    "data/arm/PCM/AttributePicklistValue/fd/6d447ad5-3863-4ff9-88d9-f9612f40bc1d.json",
+    "data/arm/PCM/AttributePicklistValue/fe/685b8383-4084-473b-a7c4-68655b8502f0.json",
+    "data/arm/PCM/Product2/af/dd51a791-57b4-4b3b-af52-9c76ccd20ad3.json",
+    "data/arm/PCM/Product2/f5/ddabee8e-7452-4f8f-8a45-9cc5f369c89d.json",
+    "data/arm/PCM/Product2/fa/71a99140-5c6f-4386-beea-f47686fa0fd8.json",
+    "data/arm/PCM/ProductAttributeDefinition/17/11646019-20f7-46ef-b7d3-55cd0eecbb74.json",
+    "data/arm/PCM/ProductAttributeDefinition/1f/768f7c58-9f0b-43a2-a324-66f53d918ac3.json",
+    "data/arm/PCM/ProductAttributeDefinition/4a/f852260b-a23f-4228-9442-6425cd130e09.json",
+    "data/arm/PCM/ProductAttributeDefinition/a3/646e04bd-aa08-4fba-8355-f61e47f15478.json",
+    "data/arm/PCM/ProductAttributeDefinition/c5/83a6b61a-3254-42cf-a039-a861478ff08e.json",
+    "data/arm/PCM/ProductAttributeDefinition/d6/333fea45-e0eb-4812-8488-4494216e8539.json",
+    "data/arm/PCM/ProductCatalog/9c/9e020545-b5f0-4c20-a274-90bab2e03f60.json",
+    "data/arm/PCM/ProductCatalog/d8/1f9b28ba-240a-4212-b6f2-b2a8862e347c.json",
+    "data/arm/PCM/ProductCategory/39/4ee45f3c-ed8f-4fb0-8f67-fcb2a32896ac.json",
+    "data/arm/PCM/ProductCategory/e2/bc0a7d39-27c6-4e27-ba2a-c520c9210834.json",
+    "data/arm/PCM/ProductCategoryProduct/b9/8e91f455-c2e9-49ef-ac69-9fe83e796d28.json",
+    "data/arm/PCM/ProductCategoryProduct/c2/abb67888-b61b-4132-b489-4a2d60079cd9.json",
+    "data/arm/PCM/ProductClassificationAttr/09/4b0505e9-ac48-4896-b661-0df8781ef4d2.json",
+    "data/arm/PCM/ProductClassificationAttr/0b/ecf819e1-ad43-4d90-bed1-53928afa8424.json",
+    "data/arm/PCM/ProductClassificationAttr/1e/cd1ba1d9-c6ca-4d59-844f-1c5384989ce3.json",
+    "data/arm/PCM/ProductClassificationAttr/3c/6613d21d-e88f-4dec-9a31-96a1b2ea041b.json",
+    "data/arm/PCM/ProductClassificationAttr/8a/91f66e06-767e-47eb-9b74-17b6fde0c978.json",
+    "data/arm/PCM/ProductClassificationAttr/f1/e4da0319-c157-4a37-82f1-6307b9d16fd1.json",
+    "data/arm/Pricing/PricebookEntry/20/b6d49059-0841-4b4d-be33-bff5b4de1d97.json",
+    "data/arm/Pricing/PricebookEntry/23/68428157-5998-41c7-9d05-e2c7ab6ed807.json",
+    "data/arm/Pricing/PricebookEntry/45/7880015c-2f85-4b32-9189-8107947826c5.json",
+    "data/arm/Pricing/PricebookEntry/a4/2793b0ab-8a1d-40ac-9ee4-15822dbe33fb.json",
+    "data/arm/Pricing/ProductSellingModelOption/0f/DEF001_Term_Based_-_Monthly.0fd83795.json",
+    "data/arm/Pricing/ProductSellingModelOption/2d/CLOUD00910_Term_Based_-_Monthly.2d2d9f49.json",
+    "data/arm/Pricing/ProductSellingModelOption/93/CLOUD00910_Term_Based_-_Yearly.93eb7c37.json",
+    "data/arm/Pricing/ProductSellingModelOption/e0/LP001_One_Time.e0cd9c09.json",
+    "data/arm/RateManagement/BindingObjectCustomExt/21/50f51418-9d54-4a8f-9d86-c88ba92a152e.json",
+    "data/arm/RateManagement/PriceBookRateCard/06/c22829b0-6ecd-4c9a-9cf2-ad0e21cb19ee.json",
+    "data/arm/RateManagement/PriceBookRateCard/1d/5d09645d-f563-44c6-9077-5946e1c1659f.json",
+    "data/arm/RateManagement/PriceBookRateCard/38/1a4b233e-a933-497e-9b14-709f943a4fc4.json",
+    "data/arm/RateManagement/PriceBookRateCard/98/d765c9e6-a741-412f-87b8-1824d59578b1.json",
+    "data/arm/RateManagement/RateAdjustmentByTier/03/692a9df4-49d0-4a82-8f99-cb4488e37e23.json",
+    "data/arm/RateManagement/RateAdjustmentByTier/0e/9a5f2635-b31a-47ca-8ba0-9342e54c06e3.json",
+    "data/arm/RateManagement/RateAdjustmentByTier/4e/2a750699-f3bc-48ce-83b5-aadc9c6ac3e0.json",
+    "data/arm/RateManagement/RateAdjustmentByTier/53/6ba5b4c1-43b8-4783-ab50-61ba8e549724.json",
+    "data/arm/RateManagement/RateAdjustmentByTier/5a/DT-RAT-1.json",
+    "data/arm/RateManagement/RateAdjustmentByTier/71/ca3f91f2-ed72-4af7-a157-42a60d696775.json",
+    "data/arm/RateManagement/RateAdjustmentByTier/88/0ea2b135-9db4-4e0d-9eb7-ec9205358dee.json",
+    "data/arm/RateManagement/RateAdjustmentByTier/ea/3a3dc28d-9c93-44e7-882a-e70648e3b0a4.json",
+    "data/arm/RateManagement/RateCard/4a/DT-RC-TIER-1.json",
+    "data/arm/RateManagement/RateCard/75/e0589247-1772-44ec-82c6-8f603b2feab5.json",
+    "data/arm/RateManagement/RateCard/96/b562ec9b-2e5b-467b-ac61-f55b59bf6c44.json",
+    "data/arm/RateManagement/RateCard/b4/8d039ec0-6fb7-46b4-a05b-d23bf0241511.json",
+    "data/arm/RateManagement/RateCardEntry/18/6ab89981-480d-481a-81fc-ba593169e372.json",
+    "data/arm/RateManagement/RateCardEntry/24/65ca3283-2490-4096-a103-520cd9dfd798.json",
+    "data/arm/RateManagement/RateCardEntry/4b/1bb73641-5a71-4a8c-897e-2c8e2ff3c54f.json",
+    "data/arm/RateManagement/RateCardEntry/62/097aaa34-681a-470a-a99a-37dc1ed050b9.json",
+    "data/arm/RateManagement/RateCardEntry/62/cae6220c-4671-4e24-b57c-3bebfd41ef01.json",
+    "data/arm/RateManagement/RateCardEntry/6a/d1ff4fb6-94aa-4e23-a00d-facc5bc8d713.json",
+    "data/arm/RateManagement/RateCardEntry/9e/dd9a4c3a-f44b-4a94-8020-8c59a04a4566.json",
+    "data/arm/RateManagement/RateCardEntry/a1/174234bd-7126-4a51-bd25-14cdf7705d56.json",
+    "data/arm/RateManagement/RateCardEntry/c0/DT-RCE-TIER-1.json",
+    "data/arm/RateManagement/RateCardEntry/e3/1b56e14b-4090-4ed5-9382-fb06fd9e1f3a.json",
+    "data/arm/RateManagement/RatingFrequencyPolicy/3d/63949d65-4f21-4a81-831c-7cd45ef5da7d.json",
+    "data/arm/RateManagement/RatingFrequencyPolicy/5d/4b8f1092-2386-4c31-a503-3cc40bc92807.json",
+    "data/arm/RateManagement/RatingFrequencyPolicy/72/9629f761-ec42-4284-85ff-181ffb089d20.json",
+    "data/arm/RateManagement/RatingFrequencyPolicy/8c/0dcf510c-bf68-41a0-977d-944c4b9d1679.json",
+    "data/arm/RateManagement/RatingFrequencyPolicy/aa/be3934e4-7ff9-49be-a3df-f0ee19b4aab7.json",
+    "data/arm/RateManagement/RatingFrequencyPolicy/ba/14d30192-110e-4c9f-ad71-e28830802768.json",
+    "data/arm/UsageManagement/ProductUsageGrant/1a/61acc243-dbce-4f89-9526-411664601621.json",
+    "data/arm/UsageManagement/ProductUsageGrant/32/309f9aab-74c6-4ae0-a2cf-a8aaa88cf48d.json",
+    "data/arm/UsageManagement/ProductUsageGrant/6c/a0601cf0-2e50-478c-9758-f106296a8cfb.json",
+    "data/arm/UsageManagement/ProductUsageGrant/bb/fa6cfb4b-1f96-4799-8560-49c26f6ef3e9.json",
+    "data/arm/UsageManagement/ProductUsageGrant/f3/de5ae068-b209-4574-97af-8e2b59da3751.json",
+    "data/arm/UsageManagement/ProductUsageResource/14/2a9dd8df-f295-4e61-8dbd-c4ce6f944385.json",
+    "data/arm/UsageManagement/ProductUsageResource/2f/45fac64a-47a8-407e-afe2-85486466acc2.json",
+    "data/arm/UsageManagement/ProductUsageResource/54/6cb67379-fbfb-4268-a245-679904c12586.json",
+    "data/arm/UsageManagement/ProductUsageResource/6e/6aedf677-f0a0-4b1d-9bdd-10264b175362.json",
+    "data/arm/UsageManagement/ProductUsageResource/c2/0b9847b3-a0f7-4fa4-9267-6f58e7658aea.json",
+    "data/arm/UsageManagement/ProductUsageResourcePolicy/7a/1639ceba-787a-4424-b956-6e1796cebe7f.json",
+    "data/arm/UsageManagement/ProductUsageResourcePolicy/ad/a8f0915d-d079-4286-9200-fffb17cade5f.json",
+    "data/arm/UsageManagement/ProductUsageResourcePolicy/bd/6d3ffaeb-70dd-48f1-9c02-1ff6ededcddf.json",
+    "data/arm/UsageManagement/ProductUsageResourcePolicy/c1/dfbfabc3-bff4-4471-bfa1-d885efe36fcf.json",
+    "data/arm/UsageManagement/ProductUsageResourcePolicy/fe/7fb713b5-d6f4-4989-be9b-570a9c8dae02.json",
+    "data/arm/UsageManagement/UsageCommitmentPolicy/cc/324b405e-43f4-40ba-85ed-4cdefacf3414.json",
+    "data/arm/UsageManagement/UsageOveragePolicy/81/65a5b330-4054-4a03-a788-c2fe1d25c7d7.json",
+    "data/arm/UsageManagement/UsageResource/0e/aef9ac91-857c-457a-801b-3c0dedf54387.json",
+    "data/arm/UsageManagement/UsageResource/6b/d49a5559-5d72-429f-a785-085c7d6326cc.json",
+    "data/arm/UsageManagement/UsageResource/a4/5f1e90f2-2c4f-44a5-a090-4604ef3f9f43.json",
+    "data/arm/UsageManagement/UsageResource/be/07da5740-d005-4e59-93af-a445551c0c18.json",
+    "data/arm/UsageManagement/UsageResource/d3/851c9fb4-0b41-4446-b29a-fdd0b78ca101.json",
+    "data/arm/UsageManagement/UsageResourcePolicy/3c/7de68052-f82e-479a-a5b9-f78cc945799c.json",
+    "data/arm/UsageManagement/UsageResourcePolicy/88/549a28ce-1a7e-4013-b3fc-0c8d55053f5b.json",
+    "data/arm/UsageManagement/UsageResourcePolicy/9f/a5add0b0-233d-43bf-a7ac-f2c1fc1e940a.json",
+    "data/arm/UsageManagement/UsageResourcePolicy/c1/7ec6dca7-d7e6-4655-beb2-508b2e2ad472.json",
+    "data/arm/UsageManagement/UsageResourcePolicy/d7/bb64adca-8587-4278-9ae3-925c38b0a478.json",
+    "data/arm/manifests/deploytest-binding-ext.50f51418-9d54-4a8f-9d86-c88ba92a152e.json"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "slug": "test",
+  "name": "test",
+  "createdAt": "2026-08-21T11:33:02.541Z",
+  "updatedAt": "2026-08-21T11:33:02.541Z",
+  "version": 1,
+  "lanes": {
+    "metadata": {
+      "components": [
+        {
+          "type": "PricingRecipe",
+          "fullName": "NGPDefaultRecipe"
+        }
+      ]
+    },
+    "pricing": {
+      "procedures": [
+        {
+          "esdDeveloperName": "Default_Discovery_Procedure_CLONE",
+          "usageType": "PricingDiscovery",
+          "version": 2
+        }
+      ]
+    },
+    "decisionTables": {
+      "tables": [
+        {
+          "developerName": "Location_Pricing",
+          "sourceObject": "Price_List_Entry__c"
+        }
+      ]
+    }
+  },
+  "branch": "feature/test",
+  "baseBranch": "main"
+}

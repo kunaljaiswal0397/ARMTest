@@ -1,0 +1,28 @@
+{
+  "slug": "pricing-procedure",
+  "name": "pricing-procedure",
+  "createdAt": "2026-08-20T09:38:40.037Z",
+  "updatedAt": "2026-08-20T09:38:40.037Z",
+  "version": 1,
+  "lanes": {
+    "pricing": {
+      "procedures": [
+        {
+          "esdDeveloperName": "Rev_Mgmt_Default_Pricing_Procedure2_CLONE",
+          "usageType": "DefaultPricing",
+          "version": 1
+        }
+      ]
+    },
+    "decisionTables": {
+      "tables": [
+        {
+          "developerName": "Location_Pricing",
+          "sourceObject": "Price_List_Entry__c"
+        }
+      ]
+    }
+  },
+  "branch": "feature/pricing-procedure",
+  "baseBranch": "main"
+}

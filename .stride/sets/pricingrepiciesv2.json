@@ -1,0 +1,27 @@
+{
+  "slug": "pricingrepiciesv2",
+  "name": "pricingrepiciesv2",
+  "createdAt": "2026-09-04T08:34:05.923Z",
+  "updatedAt": "2026-09-04T08:34:05.923Z",
+  "version": 1,
+  "lanes": {
+    "metadata": {
+      "components": [
+        {
+          "type": "PricingRecipe",
+          "fullName": "NGPDefaultRecipe"
+        }
+      ]
+    },
+    "decisionTables": {
+      "tables": [
+        {
+          "developerName": "Location_Pricing",
+          "sourceObject": "Price_List_Entry__c"
+        }
+      ]
+    }
+  },
+  "branch": "feature/pricingrepiciesv2",
+  "baseBranch": "main"
+}

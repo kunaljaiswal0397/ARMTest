@@ -1,0 +1,33 @@
+{
+  "slug": "pricingandrecepies",
+  "name": "pricingandrecepies",
+  "createdAt": "2026-09-24T08:08:54.325Z",
+  "updatedAt": "2026-09-24T08:08:54.325Z",
+  "version": 1,
+  "lanes": {
+    "metadata": {
+      "components": [
+        {
+          "type": "PricingRecipe",
+          "fullName": "NGPDefaultRecipe"
+        }
+      ]
+    },
+    "pricing": {
+      "procedures": [
+        {
+          "esdDeveloperName": "Rev_Mgmt_Default_Pricing_Procedure2_New_CLONE_v2",
+          "usageType": "DefaultPricing",
+          "version": 1
+        }
+      ]
+    }
+  },
+  "branch": "feature/pricingandrecepies",
+  "baseBranch": "main",
+  "writtenPaths": [
+    ".stride/sets/pricingandrecepies.json",
+    "data/arm/pricing/Rev_Mgmt_Default_Pricing_Procedure2_New_CLONE_v2.expressionSetDefinition-meta.xml",
+    "force-app/main/default/pricingRecipe/NGPDefaultRecipe.pricingRecipe-meta.xml"
+  ]
+}

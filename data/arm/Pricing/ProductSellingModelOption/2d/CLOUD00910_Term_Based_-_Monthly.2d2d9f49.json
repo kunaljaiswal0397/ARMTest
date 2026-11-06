@@ -1,0 +1,10 @@
+{
+  "globalKey": "CLOUD00910|Term Based - Monthly",
+  "object": "ProductSellingModelOption",
+  "record": {
+    "IsDefault": true,
+    "Product2.GlobalKey__c": "dd51a791-57b4-4b3b-af52-9c76ccd20ad3",
+    "ProductSellingModel.Name": "Term Based - Monthly",
+    "ProrationPolicy.Name": "Default Proration Policy"
+  }
+}

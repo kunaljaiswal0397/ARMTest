@@ -1,0 +1,35 @@
+{
+  "slug": "apexandtriggerdeployment",
+  "name": "apexandtriggerdeployment",
+  "createdAt": "2026-08-17T10:59:16.566Z",
+  "updatedAt": "2026-08-17T10:59:16.566Z",
+  "version": 1,
+  "lanes": {
+    "metadata": {
+      "components": [
+        {
+          "type": "ApexClass",
+          "fullName": "ARM_SampleService"
+        },
+        {
+          "type": "ApexClass",
+          "fullName": "ARM_SampleServiceTest"
+        },
+        {
+          "type": "ApexClass",
+          "fullName": "TestDeployment"
+        },
+        {
+          "type": "ApexTrigger",
+          "fullName": "ARM_SampleAccountTrigger"
+        },
+        {
+          "type": "ApexTrigger",
+          "fullName": "ARM_SampleContactTrigger"
+        }
+      ]
+    }
+  },
+  "branch": "feature/apexandtriggerdeployment",
+  "baseBranch": "main"
+}

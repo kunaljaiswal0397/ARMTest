@@ -1,0 +1,10 @@
+{
+  "globalKey": "LP001|One Time",
+  "object": "ProductSellingModelOption",
+  "record": {
+    "IsDefault": true,
+    "Product2.GlobalKey__c": "71a99140-5c6f-4386-beea-f47686fa0fd8",
+    "ProductSellingModel.Name": "One Time",
+    "ProrationPolicy": null
+  }
+}

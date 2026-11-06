@@ -1,0 +1,10 @@
+{
+  "globalKey": "9648a08c-1274-4922-9431-6eeea32f6cca",
+  "object": "AttributeCategory",
+  "record": {
+    "Code": "MEM",
+    "Description": null,
+    "GlobalKey__c": "9648a08c-1274-4922-9431-6eeea32f6cca",
+    "Name": "Memory"
+  }
+}

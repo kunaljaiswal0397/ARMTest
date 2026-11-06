@@ -1,0 +1,40 @@
+{
+  "slug": "expressionsetdef",
+  "name": "expressionsetdef",
+  "createdAt": "2026-08-17T18:43:52.011Z",
+  "updatedAt": "2026-08-17T18:43:52.011Z",
+  "version": 1,
+  "lanes": {
+    "metadata": {
+      "components": [
+        {
+          "type": "ExpressionSetDefinition",
+          "fullName": "Product_Discovery"
+        },
+        {
+          "type": "ExpressionSetDefinitionVersion",
+          "fullName": "Product_Discovery_V1"
+        }
+      ]
+    },
+    "pricing": {
+      "procedures": [
+        {
+          "esdDeveloperName": "Default_Discovery_Procedure",
+          "usageType": "PricingDiscovery",
+          "version": 2
+        }
+      ]
+    },
+    "decisionTables": {
+      "tables": [
+        {
+          "developerName": "Location_Pricing",
+          "sourceObject": "Price_List_Entry__c"
+        }
+      ]
+    }
+  },
+  "branch": "feature/expressionsetdef",
+  "baseBranch": "main"
+}

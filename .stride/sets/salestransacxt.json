@@ -1,0 +1,23 @@
+{
+  "slug": "salestransacxt",
+  "name": "salestransacxt",
+  "createdAt": "2026-09-10T13:34:20.143Z",
+  "updatedAt": "2026-09-10T13:34:20.143Z",
+  "version": 1,
+  "lanes": {
+    "metadata": {
+      "components": [
+        {
+          "type": "ContextDefinition",
+          "fullName": "SalestransactionCxt"
+        }
+      ]
+    }
+  },
+  "branch": "feature/salestransacxt",
+  "baseBranch": "main",
+  "writtenPaths": [
+    ".stride/sets/salestransacxt.json",
+    "force-app/main/default/contextDefinitions/SalestransactionCxt.contextDefinition-meta.xml"
+  ]
+}

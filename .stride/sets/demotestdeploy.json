@@ -1,0 +1,34 @@
+{
+  "slug": "demotestdeploy",
+  "name": "demotestdeploy",
+  "createdAt": "2026-09-24T09:49:06.887Z",
+  "updatedAt": "2026-09-24T09:49:06.887Z",
+  "version": 1,
+  "lanes": {
+    "metadata": {
+      "components": [
+        {
+          "type": "ContextDefinition",
+          "fullName": "COMRec_Salestransaction_Ext"
+        }
+      ]
+    },
+    "cml": {
+      "versions": [
+        {
+          "esdDeveloperName": "PCMConstraintModel",
+          "developerName": "PCMConstraintModel_V1",
+          "version": 1
+        }
+      ]
+    }
+  },
+  "branch": "feature/demotestdeploy",
+  "baseBranch": "main",
+  "writtenPaths": [
+    ".stride/sets/demotestdeploy.json",
+    "data/arm/cml/PCMConstraintModel/PCMConstraintModel_V1.cml",
+    "data/arm/cml/PCMConstraintModel/PCMConstraintModel_V1.json",
+    "force-app/main/default/contextDefinitions/COMRec_Salestransaction_Ext.contextDefinition-meta.xml"
+  ]
+}
