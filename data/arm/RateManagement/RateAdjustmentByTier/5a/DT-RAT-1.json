@@ -1,0 +1,12 @@
+{
+  "globalKey": "DT-RAT-1",
+  "object": "RateAdjustmentByTier",
+  "record": {
+    "AdjustmentType": "Override",
+    "AdjustmentValue": 0.5,
+    "GlobalKey__c": "DT-RAT-1",
+    "LowerBound": 0,
+    "RateCardEntry.GlobalKey__c": "DT-RCE-TIER-1",
+    "UpperBound": 100
+  }
+}
