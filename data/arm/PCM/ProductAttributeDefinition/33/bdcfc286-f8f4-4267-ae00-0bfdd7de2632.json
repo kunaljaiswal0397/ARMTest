@@ -1,0 +1,31 @@
+{
+  "globalKey": "bdcfc286-f8f4-4267-ae00-0bfdd7de2632",
+  "object": "ProductAttributeDefinition",
+  "record": {
+    "AttributeCategory.GlobalKey__c": "28685a1d-67e4-4091-9709-80c71e5eaec5",
+    "AttributeDefinition.GlobalKey__c": "48559fd2-1e60-4c54-90e0-077c32fabb3e",
+    "AttributeNameOverride": "Support Level",
+    "DefaultValue": "Premium Support",
+    "Description": null,
+    "DisplayType": null,
+    "GlobalKey__c": "bdcfc286-f8f4-4267-ae00-0bfdd7de2632",
+    "HelpText": null,
+    "IsHidden": false,
+    "IsPriceImpacting": true,
+    "IsReadOnly": false,
+    "IsRequired": false,
+    "MaximumCharacterCount": null,
+    "MaximumValue": null,
+    "MinimumCharacterCount": null,
+    "MinimumValue": null,
+    "Name": "Support Level",
+    "OverriddenProductAttributeDefinition": null,
+    "OverrideContextId": null,
+    "Product2.GlobalKey__c": "4b870a95-db1d-497f-9337-ad0dd5665210",
+    "ProductClassificationAttribute.GlobalKey__c": "fd08fb23-7cb8-4c06-b497-921453e0e915",
+    "Sequence": 1,
+    "Status": "Active",
+    "StepValue": null,
+    "ValueDescription": null
+  }
+}
