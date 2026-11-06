@@ -1,0 +1,9 @@
+{
+  "globalKey": "324b405e-43f4-40ba-85ed-4cdefacf3414",
+  "object": "UsageCommitmentPolicy",
+  "record": {
+    "CommitmentRate": "Lowest Commitment Rate",
+    "GlobalKey__c": "324b405e-43f4-40ba-85ed-4cdefacf3414",
+    "Name": "Default Commitment Policy"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "globalKey": "cae6220c-4671-4e24-b57c-3bebfd41ef01",
+  "object": "RateCardEntry",
+  "record": {
+    "EffectiveFrom": "2025-01-01T08:00:00.000+0000",
+    "EffectiveTo": null,
+    "GlobalKey__c": "cae6220c-4671-4e24-b57c-3bebfd41ef01",
+    "Product.GlobalKey__c": "dd51a791-57b4-4b3b-af52-9c76ccd20ad3",
+    "ProductSellingModel.Name": "Term Based - Monthly",
+    "Rate": 0.056789,
+    "RateCard.GlobalKey__c": "e0589247-1772-44ec-82c6-8f603b2feab5",
+    "RateNegotiation": "Negotiable",
+    "RateUnitOfMeasure.GlobalKey__c": "7243c671-b16e-4dc3-86e1-b61b66ddd27a",
+    "Status": "Active",
+    "UsageResource.GlobalKey__c": "aef9ac91-857c-457a-801b-3c0dedf54387"
+  }
+}

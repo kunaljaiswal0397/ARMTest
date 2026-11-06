@@ -1,0 +1,16 @@
+{
+  "globalKey": "8c56fd45-ac79-45c7-be10-3554d5d91923",
+  "object": "AttributePicklistValue",
+  "record": {
+    "Abbreviation": null,
+    "Code": "RAM 32GB",
+    "DisplayValue": "RAM 32GB",
+    "GlobalKey__c": "8c56fd45-ac79-45c7-be10-3554d5d91923",
+    "IsDefault": true,
+    "Name": "RAM 32GB",
+    "Picklist.GlobalKey__c": "bf9ebe9e-083a-4eec-b179-d2970f92858d",
+    "Sequence": 3,
+    "Status": "Active",
+    "Value": "RAM 32GB"
+  }
+}

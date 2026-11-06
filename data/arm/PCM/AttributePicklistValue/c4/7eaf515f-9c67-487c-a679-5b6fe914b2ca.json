@@ -1,0 +1,16 @@
+{
+  "globalKey": "7eaf515f-9c67-487c-a679-5b6fe914b2ca",
+  "object": "AttributePicklistValue",
+  "record": {
+    "Abbreviation": null,
+    "Code": "CSE - 6TB",
+    "DisplayValue": "Cloud Storage Enterprise - 6 TB",
+    "GlobalKey__c": "7eaf515f-9c67-487c-a679-5b6fe914b2ca",
+    "IsDefault": false,
+    "Name": "Cloud Storage Enterprise - 6 TB",
+    "Picklist.GlobalKey__c": "8fb600f9-f80e-416f-a197-b81710f6d9bd",
+    "Sequence": 6,
+    "Status": "Active",
+    "Value": "Cloud Storage Enterprise - 6 TB"
+  }
+}

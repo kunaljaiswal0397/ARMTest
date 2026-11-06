@@ -1,0 +1,13 @@
+{
+  "globalKey": "be3934e4-7ff9-49be-a3df-f0ee19b4aab7",
+  "object": "RatingFrequencyPolicy",
+  "record": {
+    "GlobalKey__c": "be3934e4-7ff9-49be-a3df-f0ee19b4aab7",
+    "Name": "RFP-00000006",
+    "Product.GlobalKey__c": "dd51a791-57b4-4b3b-af52-9c76ccd20ad3",
+    "RatingDelayDuration": null,
+    "RatingDelayDurationUnit": null,
+    "RatingPeriod": "Daily",
+    "UsageResource.GlobalKey__c": "851c9fb4-0b41-4446-b29a-fdd0b78ca101"
+  }
+}

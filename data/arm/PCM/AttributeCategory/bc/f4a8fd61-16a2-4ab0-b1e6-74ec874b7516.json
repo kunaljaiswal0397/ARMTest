@@ -1,0 +1,10 @@
+{
+  "globalKey": "f4a8fd61-16a2-4ab0-b1e6-74ec874b7516",
+  "object": "AttributeCategory",
+  "record": {
+    "Code": "STO",
+    "Description": null,
+    "GlobalKey__c": "f4a8fd61-16a2-4ab0-b1e6-74ec874b7516",
+    "Name": "Storage"
+  }
+}

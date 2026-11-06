@@ -1,0 +1,12 @@
+{
+  "globalKey": "b562ec9b-2e5b-467b-ac61-f55b59bf6c44",
+  "object": "RateCard",
+  "record": {
+    "Description": "Created by Claude to test cross-org deployability",
+    "EffectiveFrom": "2025-12-31T20:00:00.000+0000",
+    "EffectiveTo": null,
+    "GlobalKey__c": "b562ec9b-2e5b-467b-ac61-f55b59bf6c44",
+    "Name": "DeployTest Attribute Rate Card",
+    "Type": "Attribute"
+  }
+}

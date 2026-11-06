@@ -1,0 +1,14 @@
+{
+  "globalKey": "bc0a7d39-27c6-4e27-ba2a-c520c9210834",
+  "object": "ProductCategory",
+  "record": {
+    "Catalog.GlobalKey__c": "1f9b28ba-240a-4212-b6f2-b2a8862e347c",
+    "Code": null,
+    "Description": null,
+    "GlobalKey__c": "bc0a7d39-27c6-4e27-ba2a-c520c9210834",
+    "IsNavigational": true,
+    "Name": "Cloud Services",
+    "ParentCategory": null,
+    "SortOrder": null
+  }
+}

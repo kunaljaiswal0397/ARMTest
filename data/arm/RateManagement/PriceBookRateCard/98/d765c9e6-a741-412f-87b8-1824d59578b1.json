@@ -1,0 +1,9 @@
+{
+  "globalKey": "d765c9e6-a741-412f-87b8-1824d59578b1",
+  "object": "PriceBookRateCard",
+  "record": {
+    "GlobalKey__c": "d765c9e6-a741-412f-87b8-1824d59578b1",
+    "PriceBook.Name": "Standard Price Book",
+    "RateCard.GlobalKey__c": "e0589247-1772-44ec-82c6-8f603b2feab5"
+  }
+}
