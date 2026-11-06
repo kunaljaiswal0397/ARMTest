@@ -1,0 +1,17 @@
+{
+  "globalKey": "d49a5559-5d72-429f-a785-085c7d6326cc",
+  "object": "UsageResource",
+  "record": {
+    "Category": "Usage",
+    "Code": "API004",
+    "DefaultUnitOfMeasure.GlobalKey__c": "b6fbe1c0-77ac-4f5a-b09d-efc7d107fe5f",
+    "Description": null,
+    "GlobalKey__c": "d49a5559-5d72-429f-a785-085c7d6326cc",
+    "Name": "Error Logs",
+    "Status": "Active",
+    "TokenResource": null,
+    "UnitOfMeasureClass.GlobalKey__c": "cd76cd76-1bee-45de-9fd6-4e46c9e646e9",
+    "UsageDefinitionProduct": null,
+    "UsageResourceBillingPolicy.GlobalKey__c": "02043505-8235-4ced-bfb2-9c9ed947d08b"
+  }
+}

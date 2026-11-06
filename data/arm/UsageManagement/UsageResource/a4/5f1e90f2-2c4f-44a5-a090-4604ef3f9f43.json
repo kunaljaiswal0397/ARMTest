@@ -1,0 +1,17 @@
+{
+  "globalKey": "5f1e90f2-2c4f-44a5-a090-4604ef3f9f43",
+  "object": "UsageResource",
+  "record": {
+    "Category": "Usage",
+    "Code": "API001",
+    "DefaultUnitOfMeasure.GlobalKey__c": "f41959f7-7965-42dc-8c6d-34eb0afe33b8",
+    "Description": null,
+    "GlobalKey__c": "5f1e90f2-2c4f-44a5-a090-4604ef3f9f43",
+    "Name": "API Calls",
+    "Status": "Active",
+    "TokenResource": null,
+    "UnitOfMeasureClass.GlobalKey__c": "cd76cd76-1bee-45de-9fd6-4e46c9e646e9",
+    "UsageDefinitionProduct": null,
+    "UsageResourceBillingPolicy.GlobalKey__c": "02043505-8235-4ced-bfb2-9c9ed947d08b"
+  }
+}

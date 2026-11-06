@@ -1,0 +1,16 @@
+{
+  "globalKey": "6d447ad5-3863-4ff9-88d9-f9612f40bc1d",
+  "object": "AttributePicklistValue",
+  "record": {
+    "Abbreviation": null,
+    "Code": "i5-CPU 4.4GHz",
+    "DisplayValue": "i5-CPU 4.4GHz",
+    "GlobalKey__c": "6d447ad5-3863-4ff9-88d9-f9612f40bc1d",
+    "IsDefault": true,
+    "Name": "i5-CPU 4.4GHz",
+    "Picklist.GlobalKey__c": "bb8fb7cb-ec6b-45b1-99b8-b067291b3e0b",
+    "Sequence": 1,
+    "Status": "Active",
+    "Value": "i5-CPU 4.4GHz"
+  }
+}

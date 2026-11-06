@@ -1,0 +1,13 @@
+{
+  "globalKey": "9d2b195c-aaff-4ccc-b89f-928aee2bd218",
+  "object": "AttributePicklist",
+  "record": {
+    "Code": "GRA001",
+    "DataType": "Text",
+    "Description": null,
+    "GlobalKey__c": "9d2b195c-aaff-4ccc-b89f-928aee2bd218",
+    "Name": "Graphics Picklist",
+    "Status": "Active",
+    "UnitOfMeasure": null
+  }
+}

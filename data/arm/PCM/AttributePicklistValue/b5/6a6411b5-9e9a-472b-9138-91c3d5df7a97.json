@@ -1,0 +1,16 @@
+{
+  "globalKey": "6a6411b5-9e9a-472b-9138-91c3d5df7a97",
+  "object": "AttributePicklistValue",
+  "record": {
+    "Abbreviation": null,
+    "Code": "RAM 64GB",
+    "DisplayValue": "RAM 64GB",
+    "GlobalKey__c": "6a6411b5-9e9a-472b-9138-91c3d5df7a97",
+    "IsDefault": false,
+    "Name": "RAM 64GB",
+    "Picklist.GlobalKey__c": "bf9ebe9e-083a-4eec-b179-d2970f92858d",
+    "Sequence": 4,
+    "Status": "Active",
+    "Value": "RAM 64GB"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "globalKey": "9e020545-b5f0-4c20-a274-90bab2e03f60",
+  "object": "ProductCatalog",
+  "record": {
+    "CatalogType": "Sales",
+    "Code": null,
+    "Description": null,
+    "EffectiveEndDate": null,
+    "EffectiveStartDate": null,
+    "GlobalKey__c": "9e020545-b5f0-4c20-a274-90bab2e03f60",
+    "Name": "Hardware Catalog"
+  }
+}

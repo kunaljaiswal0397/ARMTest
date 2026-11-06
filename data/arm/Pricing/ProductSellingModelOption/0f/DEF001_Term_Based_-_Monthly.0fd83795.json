@@ -1,0 +1,10 @@
+{
+  "globalKey": "DEF001|Term Based - Monthly",
+  "object": "ProductSellingModelOption",
+  "record": {
+    "IsDefault": true,
+    "Product2.GlobalKey__c": "ddabee8e-7452-4f8f-8a45-9cc5f369c89d",
+    "ProductSellingModel.Name": "Term Based - Monthly",
+    "ProrationPolicy.Name": "Default Proration Policy"
+  }
+}

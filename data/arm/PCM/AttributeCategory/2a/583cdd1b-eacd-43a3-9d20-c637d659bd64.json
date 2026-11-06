@@ -1,0 +1,10 @@
+{
+  "globalKey": "583cdd1b-eacd-43a3-9d20-c637d659bd64",
+  "object": "AttributeCategory",
+  "record": {
+    "Code": "PRO",
+    "Description": null,
+    "GlobalKey__c": "583cdd1b-eacd-43a3-9d20-c637d659bd64",
+    "Name": "Processor"
+  }
+}

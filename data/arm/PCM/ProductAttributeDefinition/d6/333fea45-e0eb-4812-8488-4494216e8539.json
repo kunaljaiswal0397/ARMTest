@@ -1,0 +1,31 @@
+{
+  "globalKey": "333fea45-e0eb-4812-8488-4494216e8539",
+  "object": "ProductAttributeDefinition",
+  "record": {
+    "AttributeCategory.GlobalKey__c": "959dcdc3-ba72-4808-9c70-8f4c52747caa",
+    "AttributeDefinition.GlobalKey__c": "5042dabc-5c57-4117-a953-bbcffb8c06ec",
+    "AttributeNameOverride": "Display",
+    "DefaultValue": "1080p Built-in Display",
+    "Description": null,
+    "DisplayType": null,
+    "GlobalKey__c": "333fea45-e0eb-4812-8488-4494216e8539",
+    "HelpText": null,
+    "IsHidden": false,
+    "IsPriceImpacting": true,
+    "IsReadOnly": false,
+    "IsRequired": true,
+    "MaximumCharacterCount": null,
+    "MaximumValue": null,
+    "MinimumCharacterCount": null,
+    "MinimumValue": null,
+    "Name": "Display",
+    "OverriddenProductAttributeDefinition": null,
+    "OverrideContextId": null,
+    "Product2.GlobalKey__c": "71a99140-5c6f-4386-beea-f47686fa0fd8",
+    "ProductClassificationAttribute.GlobalKey__c": "91f66e06-767e-47eb-9b74-17b6fde0c978",
+    "Sequence": 0,
+    "Status": "Active",
+    "StepValue": null,
+    "ValueDescription": null
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "globalKey": "aef9ac91-857c-457a-801b-3c0dedf54387",
+  "object": "UsageResource",
+  "record": {
+    "Category": "Usage",
+    "Code": "API003",
+    "DefaultUnitOfMeasure.GlobalKey__c": "844e0c87-2249-499b-a31f-1225f7333132",
+    "Description": null,
+    "GlobalKey__c": "aef9ac91-857c-457a-801b-3c0dedf54387",
+    "Name": "User Sessions",
+    "Status": "Active",
+    "TokenResource": null,
+    "UnitOfMeasureClass.GlobalKey__c": "cd76cd76-1bee-45de-9fd6-4e46c9e646e9",
+    "UsageDefinitionProduct": null,
+    "UsageResourceBillingPolicy.GlobalKey__c": "02043505-8235-4ced-bfb2-9c9ed947d08b"
+  }
+}
