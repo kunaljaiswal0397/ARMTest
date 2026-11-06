@@ -1,0 +1,50 @@
+{
+  "slug": "rmattr",
+  "name": "rmattr",
+  "createdAt": "2026-11-06T21:03:45.756Z",
+  "updatedAt": "2026-11-06T21:03:45.756Z",
+  "version": 1,
+  "lanes": {
+    "arm": {
+      "selections": [
+        {
+          "object": "RateAdjustmentByAttribute",
+          "intent": "picked",
+          "records": [
+            "DT-RABA-1",
+            "DT-RABA-2"
+          ]
+        }
+      ],
+      "includedDeps": [],
+      "deployScope": "complete",
+      "configData": {
+        "objects": [
+          "RateAdjustmentByAttribute"
+        ]
+      }
+    }
+  },
+  "branch": "feature/rmattr",
+  "baseBranch": "main",
+  "writtenPaths": [
+    ".stride/sets/rmattr.json",
+    "data/arm/PCM/AttributeCategory/9e/28685a1d-67e4-4091-9709-80c71e5eaec5.json",
+    "data/arm/PCM/AttributeCategoryAttribute/3f/3b6e524a-2aef-4b31-b725-85f9f9924699.json",
+    "data/arm/PCM/AttributeDefinition/78/48559fd2-1e60-4c54-90e0-077c32fabb3e.json",
+    "data/arm/PCM/AttributePicklist/35/35013429-65f7-4e18-ab76-2b6ab3682814.json",
+    "data/arm/PCM/AttributePicklistValue/03/06625385-4840-4f36-b3cf-0c8696d74fa4.json",
+    "data/arm/PCM/AttributePicklistValue/3a/aa2015f8-ceca-46d4-9ca2-e23f8f001229.json",
+    "data/arm/PCM/ProductAttributeDefinition/33/bdcfc286-f8f4-4267-ae00-0bfdd7de2632.json",
+    "data/arm/PCM/ProductClassificationAttr/04/fd08fb23-7cb8-4c06-b497-921453e0e915.json",
+    "data/arm/Pricing/AttributeAdjustmentCondition/6e/DT-AAC-1.json",
+    "data/arm/Pricing/AttributeAdjustmentCondition/bc/DT-AAC-2.json",
+    "data/arm/Pricing/AttributeBasedAdjRule/37/DT-ABAR-2.json",
+    "data/arm/Pricing/AttributeBasedAdjRule/46/DT-ABAR-1.json",
+    "data/arm/RateManagement/RateAdjustmentByAttribute/50/DT-RABA-1.json",
+    "data/arm/RateManagement/RateAdjustmentByAttribute/9a/DT-RABA-2.json",
+    "data/arm/RateManagement/RateCardEntry/da/DT-RCE-ATTR-1.json",
+    "data/arm/UsageManagement/UsageResource/14/DT-UR-ATTR-1.json",
+    "data/arm/manifests/raa-00000001.DT-RABA-1.json"
+  ]
+}
