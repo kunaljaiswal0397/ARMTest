@@ -1,0 +1,11 @@
+{
+  "globalKey": "DT-RABA-2",
+  "object": "RateAdjustmentByAttribute",
+  "record": {
+    "AdjustmentType": "Amount",
+    "AdjustmentValue": 0.02,
+    "AttributeBasedAdjRule.GlobalKey__c": "DT-ABAR-2",
+    "GlobalKey__c": "DT-RABA-2",
+    "RateCardEntry.GlobalKey__c": "DT-RCE-ATTR-1"
+  }
+}

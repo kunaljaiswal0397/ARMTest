@@ -1,0 +1,13 @@
+{
+  "globalKey": "35013429-65f7-4e18-ab76-2b6ab3682814",
+  "object": "AttributePicklist",
+  "record": {
+    "Code": "SP001",
+    "DataType": "Text",
+    "Description": null,
+    "GlobalKey__c": "35013429-65f7-4e18-ab76-2b6ab3682814",
+    "Name": "Support Level Picklist",
+    "Status": "Active",
+    "UnitOfMeasure": null
+  }
+}
