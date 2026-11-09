@@ -1,0 +1,14 @@
+{
+  "globalKey": "4ee45f3c-ed8f-4fb0-8f67-fcb2a32896ac",
+  "object": "ProductCategory",
+  "record": {
+    "Catalog.GlobalKey__c": "9e020545-b5f0-4c20-a274-90bab2e03f60",
+    "Code": null,
+    "Description": null,
+    "GlobalKey__c": "4ee45f3c-ed8f-4fb0-8f67-fcb2a32896ac",
+    "IsNavigational": true,
+    "Name": "Laptops",
+    "ParentCategory": null,
+    "SortOrder": null
+  }
+}

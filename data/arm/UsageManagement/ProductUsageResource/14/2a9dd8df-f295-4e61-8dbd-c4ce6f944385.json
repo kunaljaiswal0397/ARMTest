@@ -1,0 +1,14 @@
+{
+  "globalKey": "2a9dd8df-f295-4e61-8dbd-c4ce6f944385",
+  "object": "ProductUsageResource",
+  "record": {
+    "EffectiveEndDate": null,
+    "EffectiveStartDate": "2025-01-01T08:00:00.000+0000",
+    "GlobalKey__c": "2a9dd8df-f295-4e61-8dbd-c4ce6f944385",
+    "IsOptional": false,
+    "Product.GlobalKey__c": "dd51a791-57b4-4b3b-af52-9c76ccd20ad3",
+    "Status": "Active",
+    "TokenResource": null,
+    "UsageResource.GlobalKey__c": "aef9ac91-857c-457a-801b-3c0dedf54387"
+  }
+}

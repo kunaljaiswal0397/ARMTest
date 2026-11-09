@@ -1,0 +1,17 @@
+{
+  "globalKey": "dd9a4c3a-f44b-4a94-8020-8c59a04a4566",
+  "object": "RateCardEntry",
+  "record": {
+    "EffectiveFrom": "2026-01-01T00:00:00.000+0000",
+    "EffectiveTo": null,
+    "GlobalKey__c": "dd9a4c3a-f44b-4a94-8020-8c59a04a4566",
+    "Product.GlobalKey__c": "71a99140-5c6f-4386-beea-f47686fa0fd8",
+    "ProductSellingModel": null,
+    "Rate": null,
+    "RateCard.GlobalKey__c": "DT-RC-TIER-1",
+    "RateNegotiation": "Negotiable",
+    "RateUnitOfMeasure.GlobalKey__c": "7243c671-b16e-4dc3-86e1-b61b66ddd27a",
+    "Status": "Draft",
+    "UsageResource.GlobalKey__c": "07da5740-d005-4e59-93af-a445551c0c18"
+  }
+}

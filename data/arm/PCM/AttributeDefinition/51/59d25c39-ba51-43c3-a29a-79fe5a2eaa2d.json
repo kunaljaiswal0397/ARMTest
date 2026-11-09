@@ -1,0 +1,21 @@
+{
+  "globalKey": "59d25c39-ba51-43c3-a29a-79fe5a2eaa2d",
+  "object": "AttributeDefinition",
+  "record": {
+    "Code": null,
+    "DataType": "Picklist",
+    "DefaultHelpText": null,
+    "DefaultValue": null,
+    "Description": null,
+    "DeveloperName": "Graphics",
+    "GlobalKey__c": "59d25c39-ba51-43c3-a29a-79fe5a2eaa2d",
+    "IsActive": true,
+    "IsRequired": false,
+    "Label": "Graphics",
+    "Name": "Graphics",
+    "Picklist.GlobalKey__c": "9d2b195c-aaff-4ccc-b89f-928aee2bd218",
+    "SourceSystemIdentifier": null,
+    "UnitOfMeasure": null,
+    "ValueDescription": null
+  }
+}

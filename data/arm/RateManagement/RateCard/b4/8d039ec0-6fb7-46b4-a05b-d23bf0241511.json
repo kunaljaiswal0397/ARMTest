@@ -1,0 +1,12 @@
+{
+  "globalKey": "8d039ec0-6fb7-46b4-a05b-d23bf0241511",
+  "object": "RateCard",
+  "record": {
+    "Description": "Tier Rate Card for Data Transfers",
+    "EffectiveFrom": "2025-01-01T08:00:00.000+0000",
+    "EffectiveTo": null,
+    "GlobalKey__c": "8d039ec0-6fb7-46b4-a05b-d23bf0241511",
+    "Name": "API Access Premium Tier Rate Card",
+    "Type": "Tier"
+  }
+}

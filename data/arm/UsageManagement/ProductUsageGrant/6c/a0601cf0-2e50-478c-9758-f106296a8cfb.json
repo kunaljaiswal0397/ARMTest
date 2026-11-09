@@ -1,0 +1,24 @@
+{
+  "globalKey": "a0601cf0-2e50-478c-9758-f106296a8cfb",
+  "object": "ProductUsageGrant",
+  "record": {
+    "DrawdownOrder": "ExpiringFirst",
+    "EffectiveEndDate": null,
+    "EffectiveStartDate": "2025-01-01T08:00:00.000+0000",
+    "GlobalKey__c": "a0601cf0-2e50-478c-9758-f106296a8cfb",
+    "Label": "Error Log Grant",
+    "OverageChargeable": "Yes",
+    "ProductSellingModel": null,
+    "ProductUsageResource.GlobalKey__c": "0b9847b3-a0f7-4fa4-9267-6f58e7658aea",
+    "Quantity": 200,
+    "RenewalPolicy": null,
+    "RolloverPolicy": null,
+    "Status": "Active",
+    "Type": "Grant",
+    "UnitOfMeasure.GlobalKey__c": "b6fbe1c0-77ac-4f5a-b09d-efc7d107fe5f",
+    "UnitOfMeasureClass.GlobalKey__c": "cd76cd76-1bee-45de-9fd6-4e46c9e646e9",
+    "UsageDefinitionProduct.GlobalKey__c": "ddabee8e-7452-4f8f-8a45-9cc5f369c89d",
+    "ValidityPeriodTerm": null,
+    "ValidityPeriodUnit": "None"
+  }
+}

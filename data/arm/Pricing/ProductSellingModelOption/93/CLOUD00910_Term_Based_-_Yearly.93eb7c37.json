@@ -1,0 +1,10 @@
+{
+  "globalKey": "CLOUD00910|Term Based - Yearly",
+  "object": "ProductSellingModelOption",
+  "record": {
+    "IsDefault": false,
+    "Product2.GlobalKey__c": "dd51a791-57b4-4b3b-af52-9c76ccd20ad3",
+    "ProductSellingModel.Name": "Term Based - Yearly",
+    "ProrationPolicy.Name": "Default Proration Policy"
+  }
+}
