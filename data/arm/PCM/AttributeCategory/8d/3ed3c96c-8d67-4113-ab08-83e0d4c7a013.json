@@ -1,0 +1,10 @@
+{
+  "globalKey": "3ed3c96c-8d67-4113-ab08-83e0d4c7a013",
+  "object": "AttributeCategory",
+  "record": {
+    "Code": "GRA",
+    "Description": null,
+    "GlobalKey__c": "3ed3c96c-8d67-4113-ab08-83e0d4c7a013",
+    "Name": "Graphics"
+  }
+}

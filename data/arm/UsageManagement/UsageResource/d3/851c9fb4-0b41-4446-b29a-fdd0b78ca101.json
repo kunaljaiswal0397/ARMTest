@@ -1,0 +1,17 @@
+{
+  "globalKey": "851c9fb4-0b41-4446-b29a-fdd0b78ca101",
+  "object": "UsageResource",
+  "record": {
+    "Category": "Usage",
+    "Code": "API005",
+    "DefaultUnitOfMeasure.GlobalKey__c": "b6def9bc-fc13-4b90-a928-49f728af43da",
+    "Description": null,
+    "GlobalKey__c": "851c9fb4-0b41-4446-b29a-fdd0b78ca101",
+    "Name": "Rate Limits",
+    "Status": "Active",
+    "TokenResource": null,
+    "UnitOfMeasureClass.GlobalKey__c": "cd76cd76-1bee-45de-9fd6-4e46c9e646e9",
+    "UsageDefinitionProduct": null,
+    "UsageResourceBillingPolicy.GlobalKey__c": "02043505-8235-4ced-bfb2-9c9ed947d08b"
+  }
+}

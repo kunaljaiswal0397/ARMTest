@@ -1,0 +1,8 @@
+{
+  "globalKey": "50f51418-9d54-4a8f-9d86-c88ba92a152e",
+  "object": "BindingObjectCustomExt",
+  "record": {
+    "GlobalKey__c": "50f51418-9d54-4a8f-9d86-c88ba92a152e",
+    "Name": "DeployTest Binding Ext"
+  }
+}

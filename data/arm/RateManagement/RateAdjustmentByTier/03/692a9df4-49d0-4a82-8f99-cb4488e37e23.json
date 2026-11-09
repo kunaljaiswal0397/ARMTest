@@ -1,0 +1,12 @@
+{
+  "globalKey": "692a9df4-49d0-4a82-8f99-cb4488e37e23",
+  "object": "RateAdjustmentByTier",
+  "record": {
+    "AdjustmentType": "Override",
+    "AdjustmentValue": 0.075,
+    "GlobalKey__c": "692a9df4-49d0-4a82-8f99-cb4488e37e23",
+    "LowerBound": 301,
+    "RateCardEntry.GlobalKey__c": "1bb73641-5a71-4a8c-897e-2c8e2ff3c54f",
+    "UpperBound": 400
+  }
+}

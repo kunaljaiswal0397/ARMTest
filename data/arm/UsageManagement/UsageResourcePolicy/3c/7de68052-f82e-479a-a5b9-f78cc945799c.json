@@ -1,0 +1,12 @@
+{
+  "globalKey": "7de68052-f82e-479a-a5b9-f78cc945799c",
+  "object": "UsageResourcePolicy",
+  "record": {
+    "GlobalKey__c": "7de68052-f82e-479a-a5b9-f78cc945799c",
+    "RatingFrequencyPolicy.GlobalKey__c": "9629f761-ec42-4284-85ff-181ffb089d20",
+    "UsageAggregationPolicy.GlobalKey__c": "02043505-8235-4ced-bfb2-9c9ed947d08b",
+    "UsageCommitmentPolicy.GlobalKey__c": "324b405e-43f4-40ba-85ed-4cdefacf3414",
+    "UsageOveragePolicy.GlobalKey__c": "65a5b330-4054-4a03-a788-c2fe1d25c7d7",
+    "UsageResource.GlobalKey__c": "aef9ac91-857c-457a-801b-3c0dedf54387"
+  }
+}

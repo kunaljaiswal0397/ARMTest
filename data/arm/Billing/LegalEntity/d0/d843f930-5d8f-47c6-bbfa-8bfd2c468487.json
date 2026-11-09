@@ -1,0 +1,21 @@
+{
+  "globalKey": "d843f930-5d8f-47c6-bbfa-8bfd2c468487",
+  "object": "LegalEntity",
+  "record": {
+    "CompanyName": null,
+    "Description": null,
+    "EmailTemplate": null,
+    "GlobalKey__c": "d843f930-5d8f-47c6-bbfa-8bfd2c468487",
+    "LegalEntityCity": null,
+    "LegalEntityCountry": null,
+    "LegalEntityGeocodeAccuracy": null,
+    "LegalEntityLatitude": null,
+    "LegalEntityLongitude": null,
+    "LegalEntityPostalCode": null,
+    "LegalEntityState": null,
+    "LegalEntityStreet": null,
+    "Name": "Default Legal Entity - US",
+    "ShouldAttachInvoiceDocToEmail": false,
+    "Status": "Active"
+  }
+}

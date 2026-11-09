@@ -1,0 +1,207 @@
+{
+  "component": "deploytest-binding-ext",
+  "componentGlobalKey": "50f51418-9d54-4a8f-9d86-c88ba92a152e",
+  "componentObject": "BindingObjectCustomExt",
+  "edges": [
+    {
+      "direction": "forward",
+      "field": "RateCardId",
+      "from": "RateAdjustmentByTier:DT-RAT-1",
+      "required": false,
+      "to": "RateCard:DT-RC-TIER-1"
+    },
+    {
+      "direction": "forward",
+      "field": "RateCardEntryId",
+      "from": "RateAdjustmentByTier:DT-RAT-1",
+      "required": true,
+      "to": "RateCardEntry:DT-RCE-TIER-1"
+    },
+    {
+      "direction": "reverse",
+      "field": "RateCardEntryId",
+      "from": "RateAdjustmentByTier:DT-RAT-1",
+      "required": true,
+      "to": "RateCardEntry:DT-RCE-TIER-1"
+    },
+    {
+      "direction": "forward",
+      "field": "RateCardId",
+      "from": "RateCardEntry:DT-RCE-TIER-1",
+      "required": true,
+      "to": "RateCard:DT-RC-TIER-1"
+    },
+    {
+      "direction": "reverse",
+      "field": "RateCardId",
+      "from": "RateCardEntry:DT-RCE-TIER-1",
+      "required": true,
+      "to": "RateCard:DT-RC-TIER-1"
+    }
+  ],
+  "leaves": [
+    {
+      "fromGlobalKey": "2793b0ab-8a1d-40ac-9ee4-15822dbe33fb",
+      "fromObject": "PricebookEntry",
+      "reason": "byName",
+      "ref": "Standard Price Book",
+      "targetObject": "Pricebook2"
+    },
+    {
+      "fromGlobalKey": "2793b0ab-8a1d-40ac-9ee4-15822dbe33fb",
+      "fromObject": "PricebookEntry",
+      "reason": "byName",
+      "ref": "Term Based - Yearly",
+      "targetObject": "ProductSellingModel"
+    },
+    {
+      "fromGlobalKey": "b6d49059-0841-4b4d-be33-bff5b4de1d97",
+      "fromObject": "PricebookEntry",
+      "reason": "byName",
+      "ref": "Standard Price Book",
+      "targetObject": "Pricebook2"
+    },
+    {
+      "fromGlobalKey": "b6d49059-0841-4b4d-be33-bff5b4de1d97",
+      "fromObject": "PricebookEntry",
+      "reason": "byName",
+      "ref": "Term Based - Monthly",
+      "targetObject": "ProductSellingModel"
+    },
+    {
+      "fromGlobalKey": "1a4b233e-a933-497e-9b14-709f943a4fc4",
+      "fromObject": "PriceBookRateCard",
+      "reason": "byName",
+      "ref": "Standard Price Book",
+      "targetObject": "Pricebook2"
+    },
+    {
+      "fromGlobalKey": "dd51a791-57b4-4b3b-af52-9c76ccd20ad3",
+      "fromObject": "Product2",
+      "reason": "recordType",
+      "ref": "Commercial"
+    },
+    {
+      "fromGlobalKey": "ddabee8e-7452-4f8f-8a45-9cc5f369c89d",
+      "fromObject": "Product2",
+      "reason": "recordType",
+      "ref": "Commercial"
+    },
+    {
+      "fromGlobalKey": "0b9847b3-a0f7-4fa4-9267-6f58e7658aea",
+      "fromObject": "ProductUsageResource",
+      "reason": "unkeyed-required",
+      "ref": "TokenResourceId",
+      "targetObject": "UsageResource"
+    },
+    {
+      "fromGlobalKey": "2a9dd8df-f295-4e61-8dbd-c4ce6f944385",
+      "fromObject": "ProductUsageResource",
+      "reason": "unkeyed-required",
+      "ref": "TokenResourceId",
+      "targetObject": "UsageResource"
+    },
+    {
+      "fromGlobalKey": "45fac64a-47a8-407e-afe2-85486466acc2",
+      "fromObject": "ProductUsageResource",
+      "reason": "unkeyed-required",
+      "ref": "TokenResourceId",
+      "targetObject": "UsageResource"
+    },
+    {
+      "fromGlobalKey": "6aedf677-f0a0-4b1d-9bdd-10264b175362",
+      "fromObject": "ProductUsageResource",
+      "reason": "unkeyed-required",
+      "ref": "TokenResourceId",
+      "targetObject": "UsageResource"
+    },
+    {
+      "fromGlobalKey": "6cb67379-fbfb-4268-a245-679904c12586",
+      "fromObject": "ProductUsageResource",
+      "reason": "unkeyed-required",
+      "ref": "TokenResourceId",
+      "targetObject": "UsageResource"
+    },
+    {
+      "fromGlobalKey": "DT-RAT-1",
+      "fromObject": "RateAdjustmentByTier",
+      "reason": "byName",
+      "ref": "Term Based - Monthly",
+      "targetObject": "ProductSellingModel"
+    },
+    {
+      "fromGlobalKey": "1b56e14b-4090-4ed5-9382-fb06fd9e1f3a",
+      "fromObject": "RateCardEntry",
+      "reason": "byName",
+      "ref": "Term Based - Monthly",
+      "targetObject": "ProductSellingModel"
+    },
+    {
+      "fromGlobalKey": "DT-RCE-TIER-1",
+      "fromObject": "RateCardEntry",
+      "reason": "byName",
+      "ref": "Term Based - Monthly",
+      "targetObject": "ProductSellingModel"
+    }
+  ],
+  "nodes": [
+    {
+      "globalKey": "50f51418-9d54-4a8f-9d86-c88ba92a152e",
+      "label": "DeployTest Binding Ext",
+      "object": "BindingObjectCustomExt"
+    },
+    {
+      "displayLabel": "RCE-00000010 ↔ DeployTest_Tier_Card ↔ Data Transfers ↔ API Access Premium ↔ USD",
+      "globalKey": "DT-RAT-1",
+      "label": "RAT-00000008",
+      "object": "RateAdjustmentByTier"
+    },
+    {
+      "globalKey": "b562ec9b-2e5b-467b-ac61-f55b59bf6c44",
+      "label": "DeployTest Attribute Rate Card",
+      "object": "RateCard"
+    },
+    {
+      "globalKey": "DT-RC-TIER-1",
+      "label": "DeployTest_Tier_Card",
+      "object": "RateCard"
+    },
+    {
+      "displayLabel": "DeployTest_Tier_Card ↔ USD ↔ Currency ↔ Data Transfers ↔ API Access Premium ↔ Data ↔ GB",
+      "globalKey": "DT-RCE-TIER-1",
+      "label": "RCE-00000010",
+      "object": "RateCardEntry"
+    },
+    {
+      "globalKey": "63949d65-4f21-4a81-831c-7cd45ef5da7d",
+      "label": "DeployTest RFP Daily",
+      "object": "RatingFrequencyPolicy"
+    }
+  ],
+  "roots": [
+    {
+      "globalKey": "50f51418-9d54-4a8f-9d86-c88ba92a152e",
+      "object": "BindingObjectCustomExt"
+    },
+    {
+      "globalKey": "DT-RAT-1",
+      "object": "RateAdjustmentByTier"
+    },
+    {
+      "globalKey": "b562ec9b-2e5b-467b-ac61-f55b59bf6c44",
+      "object": "RateCard"
+    },
+    {
+      "globalKey": "DT-RC-TIER-1",
+      "object": "RateCard"
+    },
+    {
+      "globalKey": "DT-RCE-TIER-1",
+      "object": "RateCardEntry"
+    },
+    {
+      "globalKey": "63949d65-4f21-4a81-831c-7cd45ef5da7d",
+      "object": "RatingFrequencyPolicy"
+    }
+  ]
+}

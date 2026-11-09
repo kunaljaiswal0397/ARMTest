@@ -1,0 +1,13 @@
+{
+  "globalKey": "1f9b28ba-240a-4212-b6f2-b2a8862e347c",
+  "object": "ProductCatalog",
+  "record": {
+    "CatalogType": "Sales",
+    "Code": null,
+    "Description": null,
+    "EffectiveEndDate": null,
+    "EffectiveStartDate": null,
+    "GlobalKey__c": "1f9b28ba-240a-4212-b6f2-b2a8862e347c",
+    "Name": "Service Catalog"
+  }
+}

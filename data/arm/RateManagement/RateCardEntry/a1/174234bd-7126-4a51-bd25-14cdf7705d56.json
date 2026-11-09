@@ -1,0 +1,17 @@
+{
+  "globalKey": "174234bd-7126-4a51-bd25-14cdf7705d56",
+  "object": "RateCardEntry",
+  "record": {
+    "EffectiveFrom": "2026-01-01T00:00:00.000+0000",
+    "EffectiveTo": null,
+    "GlobalKey__c": "174234bd-7126-4a51-bd25-14cdf7705d56",
+    "Product.GlobalKey__c": "dd51a791-57b4-4b3b-af52-9c76ccd20ad3",
+    "ProductSellingModel.Name": "Term Based - Monthly",
+    "Rate": null,
+    "RateCard.GlobalKey__c": "DT-RC-TIER-1",
+    "RateNegotiation": "Negotiable",
+    "RateUnitOfMeasure.GlobalKey__c": "7243c671-b16e-4dc3-86e1-b61b66ddd27a",
+    "Status": "Draft",
+    "UsageResource.GlobalKey__c": "07da5740-d005-4e59-93af-a445551c0c18"
+  }
+}

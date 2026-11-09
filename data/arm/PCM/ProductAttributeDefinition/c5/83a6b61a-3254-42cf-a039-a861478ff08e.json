@@ -1,0 +1,31 @@
+{
+  "globalKey": "83a6b61a-3254-42cf-a039-a861478ff08e",
+  "object": "ProductAttributeDefinition",
+  "record": {
+    "AttributeCategory.GlobalKey__c": "9648a08c-1274-4922-9431-6eeea32f6cca",
+    "AttributeDefinition.GlobalKey__c": "180adfe0-9abb-47b2-814b-8ac3445579e5",
+    "AttributeNameOverride": "Memory",
+    "DefaultValue": "RAM 8GB",
+    "Description": null,
+    "DisplayType": null,
+    "GlobalKey__c": "83a6b61a-3254-42cf-a039-a861478ff08e",
+    "HelpText": null,
+    "IsHidden": false,
+    "IsPriceImpacting": false,
+    "IsReadOnly": false,
+    "IsRequired": true,
+    "MaximumCharacterCount": null,
+    "MaximumValue": null,
+    "MinimumCharacterCount": null,
+    "MinimumValue": null,
+    "Name": "Memory",
+    "OverriddenProductAttributeDefinition": null,
+    "OverrideContextId": null,
+    "Product2.GlobalKey__c": "71a99140-5c6f-4386-beea-f47686fa0fd8",
+    "ProductClassificationAttribute.GlobalKey__c": "ecf819e1-ad43-4d90-bed1-53928afa8424",
+    "Sequence": 0,
+    "Status": "Active",
+    "StepValue": null,
+    "ValueDescription": null
+  }
+}
