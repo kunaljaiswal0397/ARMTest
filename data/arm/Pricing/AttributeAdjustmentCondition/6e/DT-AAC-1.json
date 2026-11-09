@@ -1,0 +1,17 @@
+{
+  "globalKey": "DT-AAC-1",
+  "object": "AttributeAdjustmentCondition",
+  "record": {
+    "AttributeBasedAdjRule.GlobalKey__c": "DT-ABAR-1",
+    "AttributeDefinition.GlobalKey__c": "48559fd2-1e60-4c54-90e0-077c32fabb3e",
+    "BooleanValue": null,
+    "DateTimeValue": null,
+    "DateValue": null,
+    "DoubleValue": null,
+    "GlobalKey__c": "DT-AAC-1",
+    "IntegerValue": null,
+    "Operator": "equals",
+    "Product.GlobalKey__c": "4b870a95-db1d-497f-9337-ad0dd5665210",
+    "StringValue": "Premium Support"
+  }
+}
