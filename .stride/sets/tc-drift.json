@@ -1,0 +1,25 @@
+{
+  "slug": "tc-drift",
+  "name": "tc-drift",
+  "createdAt": "2026-11-15T10:21:50.755Z",
+  "updatedAt": "2026-11-15T10:21:50.755Z",
+  "version": 1,
+  "lanes": {
+    "metadata": {
+      "components": [
+        {
+          "type": "ApexClass",
+          "fullName": "TestDeployment"
+        }
+      ]
+    }
+  },
+  "branch": "feature/tc-drift",
+  "baseBranch": "org/arm-source-org",
+  "description": "TC07 drift",
+  "writtenPaths": [
+    ".stride/sets/tc-drift.json",
+    "force-app/main/default/classes/TestDeployment.cls",
+    "force-app/main/default/classes/TestDeployment.cls-meta.xml"
+  ]
+}
