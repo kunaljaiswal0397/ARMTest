@@ -1,0 +1,25 @@
+{
+  "slug": "tc-cml2",
+  "name": "tc-cml2",
+  "createdAt": "2026-11-15T13:26:28.904Z",
+  "updatedAt": "2026-11-15T13:26:28.904Z",
+  "version": 1,
+  "lanes": {
+    "cml": {
+      "versions": [
+        {
+          "esdDeveloperName": "PCMConstraintModel",
+          "developerName": "PCMConstraintModel_V1",
+          "version": 1
+        }
+      ]
+    }
+  },
+  "branch": "feature/tc-cml2",
+  "baseBranch": "org/arm-source-org",
+  "writtenPaths": [
+    ".stride/sets/tc-cml2.json",
+    "data/arm/cml/PCMConstraintModel/PCMConstraintModel_V1.cml",
+    "data/arm/cml/PCMConstraintModel/PCMConstraintModel_V1.json"
+  ]
+}
