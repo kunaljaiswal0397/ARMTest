@@ -1,3 +1,5 @@
 InputData,OutputData
-"{""Province"":""Dubai""}","{""UnitPrice"":78}"
-"{""Province"":""London""}","{""UnitPrice"":34}"
+"{""Province"":""Dubai""}","{""UnitPrice"":85}"
+"{""Province"":""London""}","{""UnitPrice"":39}"
+"{""Province"":""Mumbai""}","{""UnitPrice"":52}"
+"{""Province"":""Paris""}","{""UnitPrice"":61}"
