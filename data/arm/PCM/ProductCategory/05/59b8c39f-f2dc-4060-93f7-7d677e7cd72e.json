@@ -1,0 +1,14 @@
+{
+  "globalKey": "59b8c39f-f2dc-4060-93f7-7d677e7cd72e",
+  "object": "ProductCategory",
+  "record": {
+    "Catalog.GlobalKey__c": "1f9b28ba-240a-4212-b6f2-b2a8862e347c",
+    "Code": null,
+    "Description": null,
+    "GlobalKey__c": "59b8c39f-f2dc-4060-93f7-7d677e7cd72e",
+    "IsNavigational": true,
+    "Name": "Support",
+    "ParentCategory": null,
+    "SortOrder": null
+  }
+}

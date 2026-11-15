@@ -1,0 +1,14 @@
+{
+  "globalKey": "bd205cbb-c126-43c9-ae78-f7ac0723e50e",
+  "object": "ProductCategory",
+  "record": {
+    "Catalog.GlobalKey__c": "1f9b28ba-240a-4212-b6f2-b2a8862e347c",
+    "Code": null,
+    "Description": null,
+    "GlobalKey__c": "bd205cbb-c126-43c9-ae78-f7ac0723e50e",
+    "IsNavigational": true,
+    "Name": "Warranty",
+    "ParentCategory": null,
+    "SortOrder": null
+  }
+}
