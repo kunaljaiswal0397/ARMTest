@@ -1,0 +1,24 @@
+{
+  "slug": "tc-label",
+  "name": "tc-label",
+  "createdAt": "2026-11-15T10:12:27.084Z",
+  "updatedAt": "2026-11-15T10:12:27.084Z",
+  "version": 1,
+  "lanes": {
+    "metadata": {
+      "components": [
+        {
+          "type": "CustomLabel",
+          "fullName": "ARM_Sample_Label_Two"
+        }
+      ]
+    }
+  },
+  "branch": "feature/tc-label",
+  "baseBranch": "org/arm-source-org",
+  "description": "TC04 label direct deploy",
+  "writtenPaths": [
+    ".stride/sets/tc-label.json",
+    "force-app/main/default/labels/CustomLabels.labels-meta.xml"
+  ]
+}
