@@ -1,0 +1,16 @@
+{
+  "globalKey": "aa2015f8-ceca-46d4-9ca2-e23f8f001229",
+  "object": "AttributePicklistValue",
+  "record": {
+    "Abbreviation": null,
+    "Code": "Premium Support",
+    "DisplayValue": "Premium Support",
+    "GlobalKey__c": "aa2015f8-ceca-46d4-9ca2-e23f8f001229",
+    "IsDefault": true,
+    "Name": "Premium Support",
+    "Picklist.GlobalKey__c": "35013429-65f7-4e18-ab76-2b6ab3682814",
+    "Sequence": 1,
+    "Status": "Active",
+    "Value": "Premium Support"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "globalKey": "48559fd2-1e60-4c54-90e0-077c32fabb3e",
+  "object": "AttributeDefinition",
+  "record": {
+    "Code": null,
+    "DataType": "Picklist",
+    "DefaultHelpText": null,
+    "DefaultValue": null,
+    "Description": null,
+    "DeveloperName": "Support_Level",
+    "GlobalKey__c": "48559fd2-1e60-4c54-90e0-077c32fabb3e",
+    "IsActive": true,
+    "IsRequired": false,
+    "Label": "Support Level",
+    "Name": "Support Level",
+    "Picklist.GlobalKey__c": "35013429-65f7-4e18-ab76-2b6ab3682814",
+    "SourceSystemIdentifier": null,
+    "UnitOfMeasure": null,
+    "ValueDescription": null
+  }
+}

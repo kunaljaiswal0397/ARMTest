@@ -1,0 +1,17 @@
+{
+  "globalKey": "4e42a70d-0be8-4f56-9d3b-55389fc630e3",
+  "object": "UnitOfMeasure",
+  "record": {
+    "ConversionFactor": 1,
+    "Description": null,
+    "GlobalKey__c": "4e42a70d-0be8-4f56-9d3b-55389fc630e3",
+    "Name": "MB",
+    "RoundingMethod": null,
+    "Scale": null,
+    "Sequence": 1,
+    "Status": "Active",
+    "Type": "Memory",
+    "UnitCode": "MB",
+    "UnitOfMeasureClass.GlobalKey__c": "ca48e193-fb91-4cce-8cfd-4d02facdf84e"
+  }
+}

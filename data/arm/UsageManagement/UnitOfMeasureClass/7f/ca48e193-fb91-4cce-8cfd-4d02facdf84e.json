@@ -1,0 +1,14 @@
+{
+  "globalKey": "ca48e193-fb91-4cce-8cfd-4d02facdf84e",
+  "object": "UnitOfMeasureClass",
+  "record": {
+    "BaseUnitOfMeasure.GlobalKey__c": "4e42a70d-0be8-4f56-9d3b-55389fc630e3",
+    "Code": "DAT005",
+    "DefaultUnitOfMeasure.GlobalKey__c": "4e42a70d-0be8-4f56-9d3b-55389fc630e3",
+    "Description": null,
+    "GlobalKey__c": "ca48e193-fb91-4cce-8cfd-4d02facdf84e",
+    "Name": "Data",
+    "Status": "Active",
+    "Type": "Usage"
+  }
+}
