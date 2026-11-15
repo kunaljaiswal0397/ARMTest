@@ -2,8 +2,8 @@
   "slug": "tc-apex",
   "name": "tc-apex",
   "createdAt": "2026-11-15T10:04:24.178Z",
-  "updatedAt": "2026-11-15T10:04:24.178Z",
-  "version": 1,
+  "updatedAt": "2026-11-15T10:10:35.848Z",
+  "version": 2,
   "lanes": {
     "metadata": {
       "components": [
@@ -14,18 +14,15 @@
         {
           "type": "ApexClass",
           "fullName": "ARM_SampleServiceTest"
+        },
+        {
+          "type": "ApexTrigger",
+          "fullName": "ARM_SampleAccountTrigger"
         }
       ]
     }
   },
   "branch": "feature/tc-apex",
   "baseBranch": "main",
-  "description": "TC02 Apex change",
-  "writtenPaths": [
-    ".stride/sets/tc-apex.json",
-    "force-app/main/default/classes/ARM_SampleService.cls",
-    "force-app/main/default/classes/ARM_SampleService.cls-meta.xml",
-    "force-app/main/default/classes/ARM_SampleServiceTest.cls",
-    "force-app/main/default/classes/ARM_SampleServiceTest.cls-meta.xml"
-  ]
+  "description": "TC02 Apex change"
 }
