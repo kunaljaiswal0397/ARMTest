@@ -2,7 +2,7 @@
   "globalKey": "20f912c6-288e-4039-a392-d8913ffd57ba",
   "object": "TaxTreatment",
   "record": {
-    "Description": null,
+    "Description": "TC-D5 TaxTreatment updated via Stride CLI 2026-11-15",
     "GlobalKey__c": "20f912c6-288e-4039-a392-d8913ffd57ba",
     "IsTaxable": false,
     "LegalEntity.GlobalKey__c": "d843f930-5d8f-47c6-bbfa-8bfd2c468487",
