@@ -1,5 +1,6 @@
 // PCMConstraintModel V1 - sample constraint model
 // Emits an informational message based on line item count.
+// TC-CML: updated in ARMSource and promoted via Stride CLI (2026-11-15)
 @(virtual = true)
 type PCMSampleModel {
     @(sourceContextNode = "SalesTransaction.SalesTransactionItem")
@@ -9,12 +10,14 @@ type PCMSampleModel {
 
     constraint(lineItemCount == lineItems[PCMSampleItem]);
 
-    message(lineItemCount > 3, "PCMConstraintModel V1: this quote has %d line items Test for the deployment.", lineItemCount, "Info");
+    message(lineItemCount > 2, "PCMConstraintModel V1 (TC-CML via Stride CLI): this quote has %d line items.", lineItemCount, "Info");
+
+    message(lineItemCount > 50, "PCMConstraintModel V1 (TC-CML): more than 50 line items, consider splitting the quote.", "Warning");
 
 }
 
 type PCMSampleItem {
-    int quantity = [1..999];
+    int quantity = [1..500];
 
 }
 
