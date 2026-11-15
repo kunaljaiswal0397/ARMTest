@@ -1,0 +1,17 @@
+{
+  "globalKey": "844e0c87-2249-499b-a31f-1225f7333132",
+  "object": "UnitOfMeasure",
+  "record": {
+    "ConversionFactor": 1,
+    "Description": null,
+    "GlobalKey__c": "844e0c87-2249-499b-a31f-1225f7333132",
+    "Name": "SESH",
+    "RoundingMethod": null,
+    "Scale": null,
+    "Sequence": 5,
+    "Status": "Active",
+    "Type": "Count",
+    "UnitCode": "SESH",
+    "UnitOfMeasureClass.GlobalKey__c": "cd76cd76-1bee-45de-9fd6-4e46c9e646e9"
+  }
+}

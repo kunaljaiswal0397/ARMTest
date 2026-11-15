@@ -1,0 +1,17 @@
+{
+  "globalKey": "b6def9bc-fc13-4b90-a928-49f728af43da",
+  "object": "UnitOfMeasure",
+  "record": {
+    "ConversionFactor": 1,
+    "Description": null,
+    "GlobalKey__c": "b6def9bc-fc13-4b90-a928-49f728af43da",
+    "Name": "TPS",
+    "RoundingMethod": null,
+    "Scale": null,
+    "Sequence": 6,
+    "Status": "Active",
+    "Type": "Count",
+    "UnitCode": "TPS",
+    "UnitOfMeasureClass.GlobalKey__c": "cd76cd76-1bee-45de-9fd6-4e46c9e646e9"
+  }
+}

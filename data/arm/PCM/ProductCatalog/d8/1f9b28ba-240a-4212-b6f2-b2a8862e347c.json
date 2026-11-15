@@ -4,7 +4,7 @@
   "record": {
     "CatalogType": "Sales",
     "Code": null,
-    "Description": null,
+    "Description": "Stride TC-D1 PCM - Service Catalog updated via Stride CLI",
     "EffectiveEndDate": null,
     "EffectiveStartDate": null,
     "GlobalKey__c": "1f9b28ba-240a-4212-b6f2-b2a8862e347c",
