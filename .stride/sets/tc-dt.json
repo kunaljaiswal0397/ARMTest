@@ -1,0 +1,23 @@
+{
+  "slug": "tc-dt",
+  "name": "tc-dt",
+  "createdAt": "2026-11-15T10:34:10.571Z",
+  "updatedAt": "2026-11-15T10:34:10.571Z",
+  "version": 1,
+  "lanes": {
+    "decisionTables": {
+      "tables": [
+        {
+          "developerName": "Location_Pricing",
+          "sourceObject": "Price_List_Entry__c"
+        }
+      ]
+    }
+  },
+  "branch": "feature/tc-dt",
+  "baseBranch": "org/arm-source-org",
+  "writtenPaths": [
+    ".stride/sets/tc-dt.json",
+    "data/arm/decisionTables/Location_Pricing.decisionTable.json"
+  ]
+}
