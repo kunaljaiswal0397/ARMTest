@@ -1,0 +1,14 @@
+{
+  "globalKey": "8dab113b-05d8-421c-8dd9-fbc42c9dd5be",
+  "object": "ProductCategory",
+  "record": {
+    "Catalog.GlobalKey__c": "1f9b28ba-240a-4212-b6f2-b2a8862e347c",
+    "Code": null,
+    "Description": null,
+    "GlobalKey__c": "8dab113b-05d8-421c-8dd9-fbc42c9dd5be",
+    "IsNavigational": true,
+    "Name": "Training",
+    "ParentCategory": null,
+    "SortOrder": null
+  }
+}

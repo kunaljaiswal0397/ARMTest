@@ -1,0 +1,17 @@
+{
+  "globalKey": "2aac77db-f6d2-4733-b364-fd2b96b0ce40",
+  "object": "UnitOfMeasure",
+  "record": {
+    "ConversionFactor": 1,
+    "Description": null,
+    "GlobalKey__c": "2aac77db-f6d2-4733-b364-fd2b96b0ce40",
+    "Name": "XFER",
+    "RoundingMethod": null,
+    "Scale": null,
+    "Sequence": 1,
+    "Status": "Active",
+    "Type": "Count",
+    "UnitCode": "XFER",
+    "UnitOfMeasureClass.GlobalKey__c": "cd76cd76-1bee-45de-9fd6-4e46c9e646e9"
+  }
+}
