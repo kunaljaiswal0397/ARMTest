@@ -2,7 +2,7 @@
   "globalKey": "83fd75dd-ce42-4c7a-bb33-53f39a549e45",
   "object": "AttributePicklistValue",
   "record": {
-    "Abbreviation": null,
+    "Abbreviation": "T5-IntelCor",
     "Code": "IC5.2",
     "DisplayValue": "Intel Core i9 5.2 GHz",
     "GlobalKey__c": "83fd75dd-ce42-4c7a-bb33-53f39a549e45",
