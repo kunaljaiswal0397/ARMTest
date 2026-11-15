@@ -1,0 +1,11 @@
+{
+  "globalKey": "cf5e8837-b83c-41d9-ba7f-51a18858cb98",
+  "object": "ProductClassification",
+  "record": {
+    "Code": "CMP001",
+    "GlobalKey__c": "cf5e8837-b83c-41d9-ba7f-51a18858cb98",
+    "Name": "Computer",
+    "ParentProductClassification": null,
+    "Status": "Active"
+  }
+}
