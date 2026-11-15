@@ -6,7 +6,7 @@
     "AttributeDefinition.GlobalKey__c": "49858442-d50f-4448-9b56-6f56e6bd07fb",
     "AttributeNameOverride": "Screen Size",
     "DefaultValue": "13 Inch",
-    "Description": null,
+    "Description": "TC-D5 ProductAttributeDefinition updated via Stride CLI 2026-11-15",
     "DisplayType": null,
     "GlobalKey__c": "11646019-20f7-46ef-b7d3-55cd0eecbb74",
     "HelpText": null,

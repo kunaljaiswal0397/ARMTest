@@ -2,7 +2,7 @@
   "globalKey": "588b9116-5cdb-4b8a-98a5-23af6499db57",
   "object": "AttributePicklistValue",
   "record": {
-    "Abbreviation": null,
+    "Abbreviation": "T5-SSDHardD",
     "Code": "SSD Hard Drive 256GB",
     "DisplayValue": "SSD Hard Drive 256GB",
     "GlobalKey__c": "588b9116-5cdb-4b8a-98a5-23af6499db57",

@@ -6,7 +6,7 @@
     "AttributeDefinition.GlobalKey__c": "5042dabc-5c57-4117-a953-bbcffb8c06ec",
     "AttributeNameOverride": "Display",
     "DefaultValue": "1080p Built-in Display",
-    "Description": null,
+    "Description": "TC-D5 ProductAttributeDefinition updated via Stride CLI 2026-11-15",
     "DisplayType": null,
     "GlobalKey__c": "333fea45-e0eb-4812-8488-4494216e8539",
     "HelpText": null,

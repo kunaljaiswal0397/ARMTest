@@ -4,7 +4,7 @@
   "record": {
     "Catalog.GlobalKey__c": "9e020545-b5f0-4c20-a274-90bab2e03f60",
     "Code": null,
-    "Description": null,
+    "Description": "TC-D5 ProductCategory updated via Stride CLI 2026-11-15",
     "GlobalKey__c": "4ee45f3c-ed8f-4fb0-8f67-fcb2a32896ac",
     "IsNavigational": true,
     "Name": "Laptops",

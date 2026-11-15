@@ -2,7 +2,7 @@
   "globalKey": "1535d114-c4bd-4032-baf3-f1d48e5ec0ff",
   "object": "AttributePicklistValue",
   "record": {
-    "Abbreviation": null,
+    "Abbreviation": "T5-2kBuilti",
     "Code": "2k Built-in Display",
     "DisplayValue": "2k Built-in Display",
     "GlobalKey__c": "1535d114-c4bd-4032-baf3-f1d48e5ec0ff",
