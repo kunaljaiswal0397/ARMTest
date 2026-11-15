@@ -1,0 +1,30 @@
+{
+  "slug": "tc-pricing",
+  "name": "tc-pricing",
+  "createdAt": "2026-11-15T10:34:49.701Z",
+  "updatedAt": "2026-11-15T10:34:49.701Z",
+  "version": 1,
+  "lanes": {
+    "pricing": {
+      "procedures": [
+        {
+          "esdDeveloperName": "Rev_Mgmt_Default_Pricing_Procedure2_New",
+          "usageType": "DefaultPricing",
+          "version": 1
+        },
+        {
+          "esdDeveloperName": "Default_Discovery_Procedure_CLONE",
+          "usageType": "PricingDiscovery",
+          "version": 2
+        }
+      ]
+    }
+  },
+  "branch": "feature/tc-pricing",
+  "baseBranch": "org/arm-source-org",
+  "writtenPaths": [
+    ".stride/sets/tc-pricing.json",
+    "data/arm/pricing/Default_Discovery_Procedure_CLONE.expressionSetDefinition-meta.xml",
+    "data/arm/pricing/Rev_Mgmt_Default_Pricing_Procedure2_New.expressionSetDefinition-meta.xml"
+  ]
+}
