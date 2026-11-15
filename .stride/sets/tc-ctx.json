@@ -1,0 +1,28 @@
+{
+  "slug": "tc-ctx",
+  "name": "tc-ctx",
+  "createdAt": "2026-11-15T10:36:09.487Z",
+  "updatedAt": "2026-11-15T10:36:09.487Z",
+  "version": 1,
+  "lanes": {
+    "metadata": {
+      "components": [
+        {
+          "type": "ContextDefinition",
+          "fullName": "COMProductDiscoveryExt"
+        },
+        {
+          "type": "ContextDefinition",
+          "fullName": "SalesTransactionCnxt"
+        }
+      ]
+    }
+  },
+  "branch": "feature/tc-ctx",
+  "baseBranch": "org/arm-source-org",
+  "writtenPaths": [
+    ".stride/sets/tc-ctx.json",
+    "force-app/main/default/contextDefinitions/COMProductDiscoveryExt.contextDefinition-meta.xml",
+    "force-app/main/default/contextDefinitions/SalesTransactionCnxt.contextDefinition-meta.xml"
+  ]
+}
