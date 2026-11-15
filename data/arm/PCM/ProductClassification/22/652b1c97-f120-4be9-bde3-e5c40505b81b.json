@@ -1,0 +1,11 @@
+{
+  "globalKey": "652b1c97-f120-4be9-bde3-e5c40505b81b",
+  "object": "ProductClassification",
+  "record": {
+    "Code": "SL001",
+    "GlobalKey__c": "652b1c97-f120-4be9-bde3-e5c40505b81b",
+    "Name": "Support",
+    "ParentProductClassification": null,
+    "Status": "Active"
+  }
+}

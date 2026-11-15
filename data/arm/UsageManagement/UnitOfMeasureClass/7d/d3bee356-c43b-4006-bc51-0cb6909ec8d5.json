@@ -1,0 +1,14 @@
+{
+  "globalKey": "d3bee356-c43b-4006-bc51-0cb6909ec8d5",
+  "object": "UnitOfMeasureClass",
+  "record": {
+    "BaseUnitOfMeasure.GlobalKey__c": "7243c671-b16e-4dc3-86e1-b61b66ddd27a",
+    "Code": "CURR004",
+    "DefaultUnitOfMeasure.GlobalKey__c": "7243c671-b16e-4dc3-86e1-b61b66ddd27a",
+    "Description": null,
+    "GlobalKey__c": "d3bee356-c43b-4006-bc51-0cb6909ec8d5",
+    "Name": "Currency",
+    "Status": "Active",
+    "Type": "Currency"
+  }
+}

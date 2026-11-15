@@ -1,0 +1,16 @@
+{
+  "globalKey": "06625385-4840-4f36-b3cf-0c8696d74fa4",
+  "object": "AttributePicklistValue",
+  "record": {
+    "Abbreviation": null,
+    "Code": "Premium Plus Support",
+    "DisplayValue": "Premium Plus Support",
+    "GlobalKey__c": "06625385-4840-4f36-b3cf-0c8696d74fa4",
+    "IsDefault": false,
+    "Name": "Premium Plus Support",
+    "Picklist.GlobalKey__c": "35013429-65f7-4e18-ab76-2b6ab3682814",
+    "Sequence": 2,
+    "Status": "Active",
+    "Value": "Premium Plus Support"
+  }
+}

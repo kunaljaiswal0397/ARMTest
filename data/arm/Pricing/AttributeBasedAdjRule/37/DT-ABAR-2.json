@@ -1,0 +1,9 @@
+{
+  "globalKey": "DT-ABAR-2",
+  "object": "AttributeBasedAdjRule",
+  "record": {
+    "GlobalKey__c": "DT-ABAR-2",
+    "Name": "DeployTest_Support_PremiumPlus",
+    "UsageType": "Rating"
+  }
+}
