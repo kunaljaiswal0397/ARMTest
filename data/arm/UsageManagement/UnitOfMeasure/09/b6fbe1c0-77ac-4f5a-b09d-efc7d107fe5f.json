@@ -1,0 +1,17 @@
+{
+  "globalKey": "b6fbe1c0-77ac-4f5a-b09d-efc7d107fe5f",
+  "object": "UnitOfMeasure",
+  "record": {
+    "ConversionFactor": 1,
+    "Description": null,
+    "GlobalKey__c": "b6fbe1c0-77ac-4f5a-b09d-efc7d107fe5f",
+    "Name": "LOGS",
+    "RoundingMethod": null,
+    "Scale": null,
+    "Sequence": 3,
+    "Status": "Active",
+    "Type": "Count",
+    "UnitCode": "LOGS",
+    "UnitOfMeasureClass.GlobalKey__c": "cd76cd76-1bee-45de-9fd6-4e46c9e646e9"
+  }
+}

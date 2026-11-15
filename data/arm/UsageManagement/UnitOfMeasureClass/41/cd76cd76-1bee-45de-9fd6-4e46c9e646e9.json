@@ -1,0 +1,14 @@
+{
+  "globalKey": "cd76cd76-1bee-45de-9fd6-4e46c9e646e9",
+  "object": "UnitOfMeasureClass",
+  "record": {
+    "BaseUnitOfMeasure.GlobalKey__c": "2aac77db-f6d2-4733-b364-fd2b96b0ce40",
+    "Code": "COUNT003",
+    "DefaultUnitOfMeasure.GlobalKey__c": "2aac77db-f6d2-4733-b364-fd2b96b0ce40",
+    "Description": null,
+    "GlobalKey__c": "cd76cd76-1bee-45de-9fd6-4e46c9e646e9",
+    "Name": "Count",
+    "Status": "Active",
+    "Type": "Usage"
+  }
+}
