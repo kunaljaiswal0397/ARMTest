@@ -1,0 +1,121 @@
+{
+  "component": "billing-policy-advance",
+  "componentGlobalKey": "fcddf175-78ca-49ba-bb82-0b2110b3ead4",
+  "componentObject": "BillingPolicy",
+  "edges": [
+    {
+      "direction": "forward",
+      "field": "DefaultBillingTreatmentId",
+      "from": "BillingPolicy:fcddf175-78ca-49ba-bb82-0b2110b3ead4",
+      "required": true,
+      "to": "BillingTreatment:796c9318-599b-44b1-8a39-e67afb0f15b3"
+    },
+    {
+      "direction": "forward",
+      "field": "BillingPolicyId",
+      "from": "BillingTreatment:796c9318-599b-44b1-8a39-e67afb0f15b3",
+      "required": false,
+      "to": "BillingPolicy:fcddf175-78ca-49ba-bb82-0b2110b3ead4"
+    },
+    {
+      "direction": "reverse",
+      "field": "BillingPolicyId",
+      "from": "BillingTreatment:796c9318-599b-44b1-8a39-e67afb0f15b3",
+      "required": true,
+      "to": "BillingPolicy:fcddf175-78ca-49ba-bb82-0b2110b3ead4"
+    },
+    {
+      "direction": "forward",
+      "field": "LegalEntityId",
+      "from": "BillingTreatment:796c9318-599b-44b1-8a39-e67afb0f15b3",
+      "required": false,
+      "to": "LegalEntity:d843f930-5d8f-47c6-bbfa-8bfd2c468487"
+    },
+    {
+      "direction": "forward",
+      "field": "DefaultTaxTreatmentId",
+      "from": "TaxPolicy:c0f3cc68-446c-4ea6-917e-d4699573ac71",
+      "required": true,
+      "to": "TaxTreatment:20f912c6-288e-4039-a392-d8913ffd57ba"
+    },
+    {
+      "direction": "forward",
+      "field": "LegalEntityId",
+      "from": "TaxTreatment:20f912c6-288e-4039-a392-d8913ffd57ba",
+      "required": false,
+      "to": "LegalEntity:d843f930-5d8f-47c6-bbfa-8bfd2c468487"
+    },
+    {
+      "direction": "forward",
+      "field": "TaxPolicyId",
+      "from": "TaxTreatment:20f912c6-288e-4039-a392-d8913ffd57ba",
+      "required": false,
+      "to": "TaxPolicy:c0f3cc68-446c-4ea6-917e-d4699573ac71"
+    },
+    {
+      "direction": "reverse",
+      "field": "TaxPolicyId",
+      "from": "TaxTreatment:20f912c6-288e-4039-a392-d8913ffd57ba",
+      "required": true,
+      "to": "TaxPolicy:c0f3cc68-446c-4ea6-917e-d4699573ac71"
+    }
+  ],
+  "leaves": [
+    {
+      "fromGlobalKey": "796c9318-599b-44b1-8a39-e67afb0f15b3",
+      "fromObject": "BillingTreatment",
+      "reason": "unkeyed-required",
+      "ref": "BillingTreatmentId",
+      "targetObject": "BillingTreatmentItem"
+    }
+  ],
+  "nodes": [
+    {
+      "globalKey": "fcddf175-78ca-49ba-bb82-0b2110b3ead4",
+      "label": "Billing Policy - Advance",
+      "object": "BillingPolicy"
+    },
+    {
+      "globalKey": "796c9318-599b-44b1-8a39-e67afb0f15b3",
+      "label": "Billing Treatment - Advance",
+      "object": "BillingTreatment"
+    },
+    {
+      "globalKey": "d843f930-5d8f-47c6-bbfa-8bfd2c468487",
+      "label": "Default Legal Entity - US",
+      "object": "LegalEntity"
+    },
+    {
+      "globalKey": "c0f3cc68-446c-4ea6-917e-d4699573ac71",
+      "label": "Tax Policy for LE",
+      "object": "TaxPolicy"
+    },
+    {
+      "globalKey": "20f912c6-288e-4039-a392-d8913ffd57ba",
+      "label": "Tax Treatment for US LE",
+      "object": "TaxTreatment"
+    }
+  ],
+  "roots": [
+    {
+      "globalKey": "fcddf175-78ca-49ba-bb82-0b2110b3ead4",
+      "object": "BillingPolicy"
+    },
+    {
+      "globalKey": "796c9318-599b-44b1-8a39-e67afb0f15b3",
+      "object": "BillingTreatment"
+    },
+    {
+      "globalKey": "d843f930-5d8f-47c6-bbfa-8bfd2c468487",
+      "object": "LegalEntity"
+    },
+    {
+      "globalKey": "c0f3cc68-446c-4ea6-917e-d4699573ac71",
+      "object": "TaxPolicy"
+    },
+    {
+      "globalKey": "20f912c6-288e-4039-a392-d8913ffd57ba",
+      "object": "TaxTreatment"
+    }
+  ]
+}
