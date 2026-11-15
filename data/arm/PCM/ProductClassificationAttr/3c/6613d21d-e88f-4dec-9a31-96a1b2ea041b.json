@@ -6,7 +6,7 @@
     "AttributeDefinition.GlobalKey__c": "49858442-d50f-4448-9b56-6f56e6bd07fb",
     "AttributeNameOverride": "Screen Size",
     "DefaultValue": null,
-    "Description": "TC-D5 ProductClassificationAttr updated via Stride CLI 2026-11-15",
+    "Description": null,
     "DisplayType": null,
     "GlobalKey__c": "6613d21d-e88f-4dec-9a31-96a1b2ea041b",
     "HelpText": null,

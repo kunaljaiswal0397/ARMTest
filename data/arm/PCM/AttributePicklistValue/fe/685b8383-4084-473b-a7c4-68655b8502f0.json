@@ -2,7 +2,7 @@
   "globalKey": "685b8383-4084-473b-a7c4-68655b8502f0",
   "object": "AttributePicklistValue",
   "record": {
-    "Abbreviation": "T5-CloudSto",
+    "Abbreviation": null,
     "Code": "CSE-TB",
     "DisplayValue": "Cloud Storage Enterprise - 2 TB",
     "GlobalKey__c": "685b8383-4084-473b-a7c4-68655b8502f0",

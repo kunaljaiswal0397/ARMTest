@@ -6,7 +6,7 @@
     "DataType": "Picklist",
     "DefaultHelpText": null,
     "DefaultValue": null,
-    "Description": "TC-D5 AttributeDefinition updated via Stride CLI 2026-11-15",
+    "Description": null,
     "DeveloperName": "Storage",
     "GlobalKey__c": "4c19febb-9516-498f-a424-1a88c979e6e4",
     "IsActive": true,

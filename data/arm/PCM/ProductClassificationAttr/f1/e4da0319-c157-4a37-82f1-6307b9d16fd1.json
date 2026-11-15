@@ -6,7 +6,7 @@
     "AttributeDefinition.GlobalKey__c": "4c19febb-9516-498f-a424-1a88c979e6e4",
     "AttributeNameOverride": "Storage",
     "DefaultValue": null,
-    "Description": "TC-D5 ProductClassificationAttr updated via Stride CLI 2026-11-15",
+    "Description": null,
     "DisplayType": null,
     "GlobalKey__c": "e4da0319-c157-4a37-82f1-6307b9d16fd1",
     "HelpText": null,

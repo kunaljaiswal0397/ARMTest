@@ -4,7 +4,7 @@
   "record": {
     "CatalogType": "Sales",
     "Code": null,
-    "Description": "TC-D5 ProductCatalog updated via Stride CLI 2026-11-15",
+    "Description": null,
     "EffectiveEndDate": null,
     "EffectiveStartDate": null,
     "GlobalKey__c": "9e020545-b5f0-4c20-a274-90bab2e03f60",

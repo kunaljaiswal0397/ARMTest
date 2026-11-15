@@ -6,7 +6,7 @@
     "AttributeDefinition.GlobalKey__c": "a1fe521a-ef7c-450a-8c38-4fa0c6803706",
     "AttributeNameOverride": "Processor",
     "DefaultValue": "i5-CPU 4.4GHz",
-    "Description": "TC-D5 ProductClassificationAttr updated via Stride CLI 2026-11-15",
+    "Description": null,
     "DisplayType": null,
     "GlobalKey__c": "cd1ba1d9-c6ca-4d59-844f-1c5384989ce3",
     "HelpText": null,

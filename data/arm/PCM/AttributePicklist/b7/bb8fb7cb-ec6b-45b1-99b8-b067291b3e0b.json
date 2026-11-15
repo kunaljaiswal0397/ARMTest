@@ -4,7 +4,7 @@
   "record": {
     "Code": "PRO001",
     "DataType": "Text",
-    "Description": "TC-D5 AttributePicklist updated via Stride CLI 2026-11-15",
+    "Description": null,
     "GlobalKey__c": "bb8fb7cb-ec6b-45b1-99b8-b067291b3e0b",
     "Name": "Processor Picklist",
     "Status": "Active",

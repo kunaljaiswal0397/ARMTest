@@ -6,7 +6,7 @@
     "DataType": "Picklist",
     "DefaultHelpText": null,
     "DefaultValue": null,
-    "Description": "TC-D5 AttributeDefinition updated via Stride CLI 2026-11-15",
+    "Description": null,
     "DeveloperName": "Screen_Size",
     "GlobalKey__c": "49858442-d50f-4448-9b56-6f56e6bd07fb",
     "IsActive": true,

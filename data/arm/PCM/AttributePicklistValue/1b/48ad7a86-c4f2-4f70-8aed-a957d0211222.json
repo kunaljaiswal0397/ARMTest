@@ -2,7 +2,7 @@
   "globalKey": "48ad7a86-c4f2-4f70-8aed-a957d0211222",
   "object": "AttributePicklistValue",
   "record": {
-    "Abbreviation": "T5-24Inch",
+    "Abbreviation": null,
     "Code": "24IN",
     "DisplayValue": "24 Inch",
     "GlobalKey__c": "48ad7a86-c4f2-4f70-8aed-a957d0211222",

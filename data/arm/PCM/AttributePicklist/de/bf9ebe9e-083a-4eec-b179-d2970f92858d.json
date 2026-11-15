@@ -4,7 +4,7 @@
   "record": {
     "Code": "MEM001",
     "DataType": "Text",
-    "Description": "TC-D5 AttributePicklist updated via Stride CLI 2026-11-15",
+    "Description": null,
     "GlobalKey__c": "bf9ebe9e-083a-4eec-b179-d2970f92858d",
     "Name": "Memory Picklist",
     "Status": "Active",

@@ -2,7 +2,7 @@
   "globalKey": "58ea53da-be7b-4a4b-b8a3-c9e061d60b5c",
   "object": "AttributePicklistValue",
   "record": {
-    "Abbreviation": "T5-4kBuilti",
+    "Abbreviation": null,
     "Code": "4k Built-in Display",
     "DisplayValue": "4k Built-in Display",
     "GlobalKey__c": "58ea53da-be7b-4a4b-b8a3-c9e061d60b5c",
