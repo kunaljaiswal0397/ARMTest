@@ -6,7 +6,7 @@
     "EffectiveEndDate": null,
     "EffectiveStartDate": "2025-01-01T08:00:00.000+0000",
     "GlobalKey__c": "61acc243-dbce-4f89-9526-411664601621",
-    "Label": "Rate Limit Grant",
+    "Label": "Rate Limit Grant (TC-D5)",
     "OverageChargeable": "Yes",
     "ProductSellingModel": null,
     "ProductUsageResource.GlobalKey__c": "45fac64a-47a8-407e-afe2-85486466acc2",
