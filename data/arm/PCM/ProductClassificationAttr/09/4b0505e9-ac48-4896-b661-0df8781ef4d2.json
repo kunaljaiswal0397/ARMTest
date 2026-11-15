@@ -6,7 +6,7 @@
     "AttributeDefinition.GlobalKey__c": "59d25c39-ba51-43c3-a29a-79fe5a2eaa2d",
     "AttributeNameOverride": "Graphics",
     "DefaultValue": null,
-    "Description": null,
+    "Description": "TC-D5 ProductClassificationAttr updated via Stride CLI 2026-11-15",
     "DisplayType": null,
     "GlobalKey__c": "4b0505e9-ac48-4896-b661-0df8781ef4d2",
     "HelpText": null,

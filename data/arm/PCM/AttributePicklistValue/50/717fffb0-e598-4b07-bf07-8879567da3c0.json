@@ -2,7 +2,7 @@
   "globalKey": "717fffb0-e598-4b07-bf07-8879567da3c0",
   "object": "AttributePicklistValue",
   "record": {
-    "Abbreviation": null,
+    "Abbreviation": "T5-1080pBui",
     "Code": "1080p Built-in Display",
     "DisplayValue": "1080p Built-in Display",
     "GlobalKey__c": "717fffb0-e598-4b07-bf07-8879567da3c0",

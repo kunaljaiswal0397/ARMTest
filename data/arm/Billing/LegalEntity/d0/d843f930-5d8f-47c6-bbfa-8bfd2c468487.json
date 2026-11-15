@@ -3,7 +3,7 @@
   "object": "LegalEntity",
   "record": {
     "CompanyName": null,
-    "Description": "Stride TC-D2 Billing - legal entity updated via Stride CLI",
+    "Description": "TC-D5 LegalEntity updated via Stride CLI 2026-11-15",
     "EmailTemplate": null,
     "GlobalKey__c": "d843f930-5d8f-47c6-bbfa-8bfd2c468487",
     "LegalEntityCity": null,
