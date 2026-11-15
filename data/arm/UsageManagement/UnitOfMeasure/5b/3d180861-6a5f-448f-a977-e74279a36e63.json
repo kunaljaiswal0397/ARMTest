@@ -1,0 +1,17 @@
+{
+  "globalKey": "3d180861-6a5f-448f-a977-e74279a36e63",
+  "object": "UnitOfMeasure",
+  "record": {
+    "ConversionFactor": 0.001,
+    "Description": null,
+    "GlobalKey__c": "3d180861-6a5f-448f-a977-e74279a36e63",
+    "Name": "GB",
+    "RoundingMethod": null,
+    "Scale": null,
+    "Sequence": 2,
+    "Status": "Active",
+    "Type": "Memory",
+    "UnitCode": "GB",
+    "UnitOfMeasureClass.GlobalKey__c": "ca48e193-fb91-4cce-8cfd-4d02facdf84e"
+  }
+}

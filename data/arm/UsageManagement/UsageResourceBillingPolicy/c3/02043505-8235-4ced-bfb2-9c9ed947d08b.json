@@ -1,0 +1,12 @@
+{
+  "globalKey": "02043505-8235-4ced-bfb2-9c9ed947d08b",
+  "object": "UsageResourceBillingPolicy",
+  "record": {
+    "Code": "DefaultUsageResourceBillingPolicy",
+    "GlobalKey__c": "02043505-8235-4ced-bfb2-9c9ed947d08b",
+    "Name": "Default Usage Resource Billing Policy",
+    "Status": "Active",
+    "UsageAccumulationMethod": "Sum",
+    "UsageAccumulationPeriod": "Daily"
+  }
+}

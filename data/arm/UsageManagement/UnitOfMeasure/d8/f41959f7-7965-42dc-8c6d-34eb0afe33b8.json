@@ -1,0 +1,17 @@
+{
+  "globalKey": "f41959f7-7965-42dc-8c6d-34eb0afe33b8",
+  "object": "UnitOfMeasure",
+  "record": {
+    "ConversionFactor": 1,
+    "Description": null,
+    "GlobalKey__c": "f41959f7-7965-42dc-8c6d-34eb0afe33b8",
+    "Name": "CALLS",
+    "RoundingMethod": null,
+    "Scale": null,
+    "Sequence": 4,
+    "Status": "Active",
+    "Type": "Count",
+    "UnitCode": "CALLS",
+    "UnitOfMeasureClass.GlobalKey__c": "cd76cd76-1bee-45de-9fd6-4e46c9e646e9"
+  }
+}
