@@ -2,7 +2,7 @@
   "globalKey": "5f08217c-8e91-4bd1-b6c2-7b51ce4429b3",
   "object": "AttributePicklistValue",
   "record": {
-    "Abbreviation": null,
+    "Abbreviation": "T5-RAM8GB",
     "Code": "RAM 8GB",
     "DisplayValue": "RAM 8GB",
     "GlobalKey__c": "5f08217c-8e91-4bd1-b6c2-7b51ce4429b3",

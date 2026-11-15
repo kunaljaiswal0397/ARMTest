@@ -2,7 +2,7 @@
   "globalKey": "b0c646cd-5805-400e-8de5-6c31d4849095",
   "object": "AttributePicklistValue",
   "record": {
-    "Abbreviation": null,
+    "Abbreviation": "T5-RAM16GB",
     "Code": "RAM 16GB",
     "DisplayValue": "RAM 16GB",
     "GlobalKey__c": "b0c646cd-5805-400e-8de5-6c31d4849095",

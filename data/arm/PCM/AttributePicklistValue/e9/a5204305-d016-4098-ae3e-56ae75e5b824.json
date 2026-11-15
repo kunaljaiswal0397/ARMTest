@@ -2,7 +2,7 @@
   "globalKey": "a5204305-d016-4098-ae3e-56ae75e5b824",
   "object": "AttributePicklistValue",
   "record": {
-    "Abbreviation": null,
+    "Abbreviation": "T5-13Inch",
     "Code": "13IN",
     "DisplayValue": "13 Inch",
     "GlobalKey__c": "a5204305-d016-4098-ae3e-56ae75e5b824",

@@ -2,7 +2,7 @@
   "globalKey": "37efbc50-ab60-4b96-94db-ce0929665e0b",
   "object": "AttributePicklistValue",
   "record": {
-    "Abbreviation": null,
+    "Abbreviation": "T5-MSIGamin",
     "Code": "MSI Gaming GeForce RTX 3060",
     "DisplayValue": "MSI Gaming GeForce RTX 3060",
     "GlobalKey__c": "37efbc50-ab60-4b96-94db-ce0929665e0b",

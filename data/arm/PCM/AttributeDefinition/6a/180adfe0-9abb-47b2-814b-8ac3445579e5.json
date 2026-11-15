@@ -6,7 +6,7 @@
     "DataType": "Picklist",
     "DefaultHelpText": null,
     "DefaultValue": null,
-    "Description": "Stride TC-D1 PCM - Memory attribute updated via Stride CLI",
+    "Description": "TC-D5 AttributeDefinition updated via Stride CLI 2026-11-15",
     "DeveloperName": "Memory",
     "GlobalKey__c": "180adfe0-9abb-47b2-814b-8ac3445579e5",
     "IsActive": true,
