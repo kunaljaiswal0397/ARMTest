@@ -3,7 +3,7 @@
   "object": "AttributeCategory",
   "record": {
     "Code": "STO",
-    "Description": "TC-D5 AttributeCategory updated via Stride CLI 2026-11-15",
+    "Description": null,
     "GlobalKey__c": "f4a8fd61-16a2-4ab0-b1e6-74ec874b7516",
     "Name": "Storage"
   }

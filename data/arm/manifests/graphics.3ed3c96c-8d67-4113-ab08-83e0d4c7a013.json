@@ -2635,7 +2635,7 @@
     },
     {
       "globalKey": "cf5e8837-b83c-41d9-ba7f-51a18858cb98",
-      "label": "Computer (TC-D5)",
+      "label": "Computer",
       "object": "ProductClassification"
     },
     {
@@ -2719,27 +2719,27 @@
       "object": "ProductUsageResource"
     },
     {
-      "displayLabel": "API Access Premium ↔ Data Transfers ↔ Overage Chargeable - Yes (TC-D5) ↔ RFP-00000003 ↔ Default Usage Resource Billing Policy",
+      "displayLabel": "API Access Premium ↔ Data Transfers ↔ Overage Chargeable - Yes ↔ RFP-00000003 ↔ Default Usage Resource Billing Policy",
       "globalKey": "1639ceba-787a-4424-b956-6e1796cebe7f",
       "object": "ProductUsageResourcePolicy"
     },
     {
-      "displayLabel": "API Access Premium ↔ User Sessions ↔ Overage Chargeable - Yes (TC-D5) ↔ RFP-00000005 ↔ Default Usage Resource Billing Policy",
+      "displayLabel": "API Access Premium ↔ User Sessions ↔ Overage Chargeable - Yes ↔ RFP-00000005 ↔ Default Usage Resource Billing Policy",
       "globalKey": "6d3ffaeb-70dd-48f1-9c02-1ff6ededcddf",
       "object": "ProductUsageResourcePolicy"
     },
     {
-      "displayLabel": "API Access Premium ↔ Error Logs ↔ Overage Chargeable - Yes (TC-D5) ↔ RFP-00000004 ↔ Default Usage Resource Billing Policy",
+      "displayLabel": "API Access Premium ↔ Error Logs ↔ Overage Chargeable - Yes ↔ RFP-00000004 ↔ Default Usage Resource Billing Policy",
       "globalKey": "7fb713b5-d6f4-4989-be9b-570a9c8dae02",
       "object": "ProductUsageResourcePolicy"
     },
     {
-      "displayLabel": "API Access Premium ↔ Rate Limits ↔ Overage Chargeable - Yes (TC-D5) ↔ RFP-00000006 ↔ Default Usage Resource Billing Policy",
+      "displayLabel": "API Access Premium ↔ Rate Limits ↔ Overage Chargeable - Yes ↔ RFP-00000006 ↔ Default Usage Resource Billing Policy",
       "globalKey": "a8f0915d-d079-4286-9200-fffb17cade5f",
       "object": "ProductUsageResourcePolicy"
     },
     {
-      "displayLabel": "API Access Premium ↔ API Calls ↔ Overage Chargeable - Yes (TC-D5) ↔ RFP-00000002 ↔ Default Usage Resource Billing Policy",
+      "displayLabel": "API Access Premium ↔ API Calls ↔ Overage Chargeable - Yes ↔ RFP-00000002 ↔ Default Usage Resource Billing Policy",
       "globalKey": "dfbfabc3-bff4-4471-bfa1-d885efe36fcf",
       "object": "ProductUsageResourcePolicy"
     },
@@ -2825,12 +2825,12 @@
     },
     {
       "globalKey": "324b405e-43f4-40ba-85ed-4cdefacf3414",
-      "label": "Default Commitment Policy (TC-D5)",
+      "label": "Default Commitment Policy",
       "object": "UsageCommitmentPolicy"
     },
     {
       "globalKey": "65a5b330-4054-4a03-a788-c2fe1d25c7d7",
-      "label": "Overage Chargeable - Yes (TC-D5)",
+      "label": "Overage Chargeable - Yes",
       "object": "UsageOveragePolicy"
     },
     {
@@ -2864,27 +2864,27 @@
       "object": "UsageResourceBillingPolicy"
     },
     {
-      "displayLabel": "Error Logs ↔ Overage Chargeable - Yes (TC-D5) ↔ RFP-00000004 ↔ Default Usage Resource Billing Policy ↔ Default Commitment Policy (TC-D5)",
+      "displayLabel": "Error Logs ↔ Overage Chargeable - Yes ↔ RFP-00000004 ↔ Default Usage Resource Billing Policy ↔ Default Commitment Policy",
       "globalKey": "549a28ce-1a7e-4013-b3fc-0c8d55053f5b",
       "object": "UsageResourcePolicy"
     },
     {
-      "displayLabel": "User Sessions ↔ Overage Chargeable - Yes (TC-D5) ↔ RFP-00000005 ↔ Default Usage Resource Billing Policy ↔ Default Commitment Policy (TC-D5)",
+      "displayLabel": "User Sessions ↔ Overage Chargeable - Yes ↔ RFP-00000005 ↔ Default Usage Resource Billing Policy ↔ Default Commitment Policy",
       "globalKey": "7de68052-f82e-479a-a5b9-f78cc945799c",
       "object": "UsageResourcePolicy"
     },
     {
-      "displayLabel": "Rate Limits ↔ Overage Chargeable - Yes (TC-D5) ↔ RFP-00000006 ↔ Default Usage Resource Billing Policy ↔ Default Commitment Policy (TC-D5)",
+      "displayLabel": "Rate Limits ↔ Overage Chargeable - Yes ↔ RFP-00000006 ↔ Default Usage Resource Billing Policy ↔ Default Commitment Policy",
       "globalKey": "7ec6dca7-d7e6-4655-beb2-508b2e2ad472",
       "object": "UsageResourcePolicy"
     },
     {
-      "displayLabel": "API Calls ↔ Overage Chargeable - Yes (TC-D5) ↔ RFP-00000002 ↔ Default Usage Resource Billing Policy ↔ Default Commitment Policy (TC-D5)",
+      "displayLabel": "API Calls ↔ Overage Chargeable - Yes ↔ RFP-00000002 ↔ Default Usage Resource Billing Policy ↔ Default Commitment Policy",
       "globalKey": "a5add0b0-233d-43bf-a7ac-f2c1fc1e940a",
       "object": "UsageResourcePolicy"
     },
     {
-      "displayLabel": "Data Transfers ↔ Overage Chargeable - Yes (TC-D5) ↔ RFP-00000003 ↔ Default Usage Resource Billing Policy ↔ Default Commitment Policy (TC-D5)",
+      "displayLabel": "Data Transfers ↔ Overage Chargeable - Yes ↔ RFP-00000003 ↔ Default Usage Resource Billing Policy ↔ Default Commitment Policy",
       "globalKey": "bb64adca-8587-4278-9ae3-925c38b0a478",
       "object": "UsageResourcePolicy"
     }

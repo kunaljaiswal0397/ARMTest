@@ -6,7 +6,7 @@
     "DataType": "Picklist",
     "DefaultHelpText": null,
     "DefaultValue": null,
-    "Description": "TC-D5 AttributeDefinition updated via Stride CLI 2026-11-15",
+    "Description": null,
     "DeveloperName": "Processor",
     "GlobalKey__c": "a1fe521a-ef7c-450a-8c38-4fa0c6803706",
     "IsActive": true,

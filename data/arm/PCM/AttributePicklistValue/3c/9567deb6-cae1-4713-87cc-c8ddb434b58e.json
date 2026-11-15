@@ -2,7 +2,7 @@
   "globalKey": "9567deb6-cae1-4713-87cc-c8ddb434b58e",
   "object": "AttributePicklistValue",
   "record": {
-    "Abbreviation": "T5-i7CPU47G",
+    "Abbreviation": null,
     "Code": "i7-CPU 4.7GHz",
     "DisplayValue": "i7-CPU 4.7GHz",
     "GlobalKey__c": "9567deb6-cae1-4713-87cc-c8ddb434b58e",

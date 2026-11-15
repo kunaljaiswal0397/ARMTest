@@ -2,7 +2,7 @@
   "globalKey": "902c1117-9822-4adf-8d6f-3c4c06b5cbc4",
   "object": "AttributePicklistValue",
   "record": {
-    "Abbreviation": "T5-15Inch",
+    "Abbreviation": null,
     "Code": "15IN",
     "DisplayValue": "15 Inch",
     "GlobalKey__c": "902c1117-9822-4adf-8d6f-3c4c06b5cbc4",

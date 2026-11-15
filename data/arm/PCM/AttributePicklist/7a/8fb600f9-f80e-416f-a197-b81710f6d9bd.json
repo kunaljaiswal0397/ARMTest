@@ -4,7 +4,7 @@
   "record": {
     "Code": "STR001",
     "DataType": "Text",
-    "Description": "TC-D5 AttributePicklist updated via Stride CLI 2026-11-15",
+    "Description": null,
     "GlobalKey__c": "8fb600f9-f80e-416f-a197-b81710f6d9bd",
     "Name": "Storage Picklist",
     "Status": "Active",

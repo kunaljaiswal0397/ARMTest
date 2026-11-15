@@ -3,7 +3,7 @@
   "object": "AttributeCategory",
   "record": {
     "Code": "PRO",
-    "Description": "TC-D5 AttributeCategory updated via Stride CLI 2026-11-15",
+    "Description": null,
     "GlobalKey__c": "583cdd1b-eacd-43a3-9d20-c637d659bd64",
     "Name": "Processor"
   }

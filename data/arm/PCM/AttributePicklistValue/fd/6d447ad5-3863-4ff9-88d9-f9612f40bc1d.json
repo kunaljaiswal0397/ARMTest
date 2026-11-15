@@ -2,7 +2,7 @@
   "globalKey": "6d447ad5-3863-4ff9-88d9-f9612f40bc1d",
   "object": "AttributePicklistValue",
   "record": {
-    "Abbreviation": "T5-i5CPU44G",
+    "Abbreviation": null,
     "Code": "i5-CPU 4.4GHz",
     "DisplayValue": "i5-CPU 4.4GHz",
     "GlobalKey__c": "6d447ad5-3863-4ff9-88d9-f9612f40bc1d",
