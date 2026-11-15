@@ -1,0 +1,17 @@
+{
+  "globalKey": "7243c671-b16e-4dc3-86e1-b61b66ddd27a",
+  "object": "UnitOfMeasure",
+  "record": {
+    "ConversionFactor": 1,
+    "Description": null,
+    "GlobalKey__c": "7243c671-b16e-4dc3-86e1-b61b66ddd27a",
+    "Name": "USD",
+    "RoundingMethod": null,
+    "Scale": null,
+    "Sequence": 1,
+    "Status": "Active",
+    "Type": "Cost",
+    "UnitCode": "USD",
+    "UnitOfMeasureClass.GlobalKey__c": "d3bee356-c43b-4006-bc51-0cb6909ec8d5"
+  }
+}
