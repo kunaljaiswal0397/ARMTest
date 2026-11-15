@@ -1,0 +1,108 @@
+{
+  "slug": "tc-d5-usage",
+  "name": "tc-d5-usage",
+  "createdAt": "2026-11-15T13:29:00.284Z",
+  "updatedAt": "2026-11-15T13:29:00.284Z",
+  "version": 1,
+  "lanes": {
+    "arm": {
+      "selections": [
+        {
+          "object": "UsageCommitmentPolicy",
+          "intent": "picked",
+          "records": [
+            "324b405e-43f4-40ba-85ed-4cdefacf3414"
+          ]
+        },
+        {
+          "object": "UsageOveragePolicy",
+          "intent": "picked",
+          "records": [
+            "65a5b330-4054-4a03-a788-c2fe1d25c7d7"
+          ]
+        },
+        {
+          "object": "UsageResource",
+          "intent": "picked",
+          "records": [
+            "5f1e90f2-2c4f-44a5-a090-4604ef3f9f43",
+            "07da5740-d005-4e59-93af-a445551c0c18",
+            "d49a5559-5d72-429f-a785-085c7d6326cc",
+            "851c9fb4-0b41-4446-b29a-fdd0b78ca101",
+            "aef9ac91-857c-457a-801b-3c0dedf54387"
+          ]
+        }
+      ],
+      "includedDeps": [],
+      "deployScope": "complete",
+      "configData": {
+        "objects": [
+          "UsageCommitmentPolicy",
+          "UsageOveragePolicy",
+          "UsageResource"
+        ]
+      }
+    }
+  },
+  "branch": "feature/tc-d5-usage",
+  "baseBranch": "org/arm-source-org",
+  "writtenPaths": [
+    ".stride/sets/tc-d5-usage.json",
+    "data/arm/Billing/LegalEntity/d0/d843f930-5d8f-47c6-bbfa-8bfd2c468487.json",
+    "data/arm/Billing/TaxPolicy/dc/c0f3cc68-446c-4ea6-917e-d4699573ac71.json",
+    "data/arm/Billing/TaxTreatment/9d/20f912c6-288e-4039-a392-d8913ffd57ba.json",
+    "data/arm/PCM/Product2/af/dd51a791-57b4-4b3b-af52-9c76ccd20ad3.json",
+    "data/arm/PCM/Product2/f5/ddabee8e-7452-4f8f-8a45-9cc5f369c89d.json",
+    "data/arm/PCM/ProductCatalog/d8/1f9b28ba-240a-4212-b6f2-b2a8862e347c.json",
+    "data/arm/PCM/ProductCategory/e2/bc0a7d39-27c6-4e27-ba2a-c520c9210834.json",
+    "data/arm/PCM/ProductCategoryProduct/b9/8e91f455-c2e9-49ef-ac69-9fe83e796d28.json",
+    "data/arm/Pricing/PricebookEntry/20/b6d49059-0841-4b4d-be33-bff5b4de1d97.json",
+    "data/arm/Pricing/PricebookEntry/a4/2793b0ab-8a1d-40ac-9ee4-15822dbe33fb.json",
+    "data/arm/Pricing/ProductSellingModelOption/0f/DEF001_Term_Based_-_Monthly.0fd83795.json",
+    "data/arm/Pricing/ProductSellingModelOption/2d/CLOUD00910_Term_Based_-_Monthly.2d2d9f49.json",
+    "data/arm/Pricing/ProductSellingModelOption/93/CLOUD00910_Term_Based_-_Yearly.93eb7c37.json",
+    "data/arm/RateManagement/RatingFrequencyPolicy/5d/4b8f1092-2386-4c31-a503-3cc40bc92807.json",
+    "data/arm/RateManagement/RatingFrequencyPolicy/72/9629f761-ec42-4284-85ff-181ffb089d20.json",
+    "data/arm/RateManagement/RatingFrequencyPolicy/8c/0dcf510c-bf68-41a0-977d-944c4b9d1679.json",
+    "data/arm/RateManagement/RatingFrequencyPolicy/aa/be3934e4-7ff9-49be-a3df-f0ee19b4aab7.json",
+    "data/arm/RateManagement/RatingFrequencyPolicy/ba/14d30192-110e-4c9f-ad71-e28830802768.json",
+    "data/arm/UsageManagement/ProductUsageGrant/1a/61acc243-dbce-4f89-9526-411664601621.json",
+    "data/arm/UsageManagement/ProductUsageGrant/32/309f9aab-74c6-4ae0-a2cf-a8aaa88cf48d.json",
+    "data/arm/UsageManagement/ProductUsageGrant/6c/a0601cf0-2e50-478c-9758-f106296a8cfb.json",
+    "data/arm/UsageManagement/ProductUsageGrant/bb/fa6cfb4b-1f96-4799-8560-49c26f6ef3e9.json",
+    "data/arm/UsageManagement/ProductUsageGrant/f3/de5ae068-b209-4574-97af-8e2b59da3751.json",
+    "data/arm/UsageManagement/ProductUsageResource/14/2a9dd8df-f295-4e61-8dbd-c4ce6f944385.json",
+    "data/arm/UsageManagement/ProductUsageResource/2f/45fac64a-47a8-407e-afe2-85486466acc2.json",
+    "data/arm/UsageManagement/ProductUsageResource/54/6cb67379-fbfb-4268-a245-679904c12586.json",
+    "data/arm/UsageManagement/ProductUsageResource/6e/6aedf677-f0a0-4b1d-9bdd-10264b175362.json",
+    "data/arm/UsageManagement/ProductUsageResource/c2/0b9847b3-a0f7-4fa4-9267-6f58e7658aea.json",
+    "data/arm/UsageManagement/ProductUsageResourcePolicy/7a/1639ceba-787a-4424-b956-6e1796cebe7f.json",
+    "data/arm/UsageManagement/ProductUsageResourcePolicy/ad/a8f0915d-d079-4286-9200-fffb17cade5f.json",
+    "data/arm/UsageManagement/ProductUsageResourcePolicy/bd/6d3ffaeb-70dd-48f1-9c02-1ff6ededcddf.json",
+    "data/arm/UsageManagement/ProductUsageResourcePolicy/c1/dfbfabc3-bff4-4471-bfa1-d885efe36fcf.json",
+    "data/arm/UsageManagement/ProductUsageResourcePolicy/fe/7fb713b5-d6f4-4989-be9b-570a9c8dae02.json",
+    "data/arm/UsageManagement/UnitOfMeasure/09/b6fbe1c0-77ac-4f5a-b09d-efc7d107fe5f.json",
+    "data/arm/UsageManagement/UnitOfMeasure/29/4e42a70d-0be8-4f56-9d3b-55389fc630e3.json",
+    "data/arm/UsageManagement/UnitOfMeasure/59/b6def9bc-fc13-4b90-a928-49f728af43da.json",
+    "data/arm/UsageManagement/UnitOfMeasure/5b/3d180861-6a5f-448f-a977-e74279a36e63.json",
+    "data/arm/UsageManagement/UnitOfMeasure/8e/2aac77db-f6d2-4733-b364-fd2b96b0ce40.json",
+    "data/arm/UsageManagement/UnitOfMeasure/c4/844e0c87-2249-499b-a31f-1225f7333132.json",
+    "data/arm/UsageManagement/UnitOfMeasure/d8/f41959f7-7965-42dc-8c6d-34eb0afe33b8.json",
+    "data/arm/UsageManagement/UnitOfMeasureClass/41/cd76cd76-1bee-45de-9fd6-4e46c9e646e9.json",
+    "data/arm/UsageManagement/UnitOfMeasureClass/7f/ca48e193-fb91-4cce-8cfd-4d02facdf84e.json",
+    "data/arm/UsageManagement/UsageCommitmentPolicy/cc/324b405e-43f4-40ba-85ed-4cdefacf3414.json",
+    "data/arm/UsageManagement/UsageOveragePolicy/81/65a5b330-4054-4a03-a788-c2fe1d25c7d7.json",
+    "data/arm/UsageManagement/UsageResource/0e/aef9ac91-857c-457a-801b-3c0dedf54387.json",
+    "data/arm/UsageManagement/UsageResource/6b/d49a5559-5d72-429f-a785-085c7d6326cc.json",
+    "data/arm/UsageManagement/UsageResource/a4/5f1e90f2-2c4f-44a5-a090-4604ef3f9f43.json",
+    "data/arm/UsageManagement/UsageResource/be/07da5740-d005-4e59-93af-a445551c0c18.json",
+    "data/arm/UsageManagement/UsageResource/d3/851c9fb4-0b41-4446-b29a-fdd0b78ca101.json",
+    "data/arm/UsageManagement/UsageResourceBillingPolicy/c3/02043505-8235-4ced-bfb2-9c9ed947d08b.json",
+    "data/arm/UsageManagement/UsageResourcePolicy/3c/7de68052-f82e-479a-a5b9-f78cc945799c.json",
+    "data/arm/UsageManagement/UsageResourcePolicy/88/549a28ce-1a7e-4013-b3fc-0c8d55053f5b.json",
+    "data/arm/UsageManagement/UsageResourcePolicy/9f/a5add0b0-233d-43bf-a7ac-f2c1fc1e940a.json",
+    "data/arm/UsageManagement/UsageResourcePolicy/c1/7ec6dca7-d7e6-4655-beb2-508b2e2ad472.json",
+    "data/arm/UsageManagement/UsageResourcePolicy/d7/bb64adca-8587-4278-9ae3-925c38b0a478.json",
+    "data/arm/manifests/default-commitment-policy-tc-d5.324b405e-43f4-40ba-85ed-4cdefacf3414.json"
+  ]
+}
