@@ -1,0 +1,23 @@
+{
+  "slug": "tc-recipe",
+  "name": "tc-recipe",
+  "createdAt": "2026-11-15T10:36:22.233Z",
+  "updatedAt": "2026-11-15T10:36:22.233Z",
+  "version": 1,
+  "lanes": {
+    "metadata": {
+      "components": [
+        {
+          "type": "PricingRecipe",
+          "fullName": "NGPDefaultRecipe"
+        }
+      ]
+    }
+  },
+  "branch": "feature/tc-recipe",
+  "baseBranch": "org/arm-source-org",
+  "writtenPaths": [
+    ".stride/sets/tc-recipe.json",
+    "force-app/main/default/pricingRecipe/NGPDefaultRecipe.pricingRecipe-meta.xml"
+  ]
+}
