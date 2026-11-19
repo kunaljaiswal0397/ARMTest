@@ -1,0 +1,24 @@
+{
+  "slug": "t025-drift2",
+  "name": "t025-drift2",
+  "createdAt": "2026-11-19T07:47:01.861Z",
+  "updatedAt": "2026-11-19T07:47:01.861Z",
+  "version": 1,
+  "lanes": {
+    "metadata": {
+      "components": [
+        {
+          "type": "ApexClass",
+          "fullName": "TestDeployment"
+        }
+      ]
+    }
+  },
+  "branch": "feature/t025-drift2",
+  "baseBranch": "org/arm-source-org",
+  "writtenPaths": [
+    ".stride/sets/t025-drift2.json",
+    "force-app/main/default/classes/TestDeployment.cls",
+    "force-app/main/default/classes/TestDeployment.cls-meta.xml"
+  ]
+}
