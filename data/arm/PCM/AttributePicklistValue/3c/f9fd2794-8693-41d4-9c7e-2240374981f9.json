@@ -2,7 +2,7 @@
   "globalKey": "f9fd2794-8693-41d4-9c7e-2240374981f9",
   "object": "AttributePicklistValue",
   "record": {
-    "Abbreviation": null,
+    "Abbreviation": "T5-IntelIri",
     "Code": "Intel Iris Xe Graphics",
     "DisplayValue": "Intel Iris Xe Graphics",
     "GlobalKey__c": "f9fd2794-8693-41d4-9c7e-2240374981f9",

@@ -2,7 +2,7 @@
   "globalKey": "6a6411b5-9e9a-472b-9138-91c3d5df7a97",
   "object": "AttributePicklistValue",
   "record": {
-    "Abbreviation": null,
+    "Abbreviation": "T5-RAM64GB",
     "Code": "RAM 64GB",
     "DisplayValue": "RAM 64GB",
     "GlobalKey__c": "6a6411b5-9e9a-472b-9138-91c3d5df7a97",
