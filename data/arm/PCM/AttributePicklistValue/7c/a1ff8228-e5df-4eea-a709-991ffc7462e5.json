@@ -2,7 +2,7 @@
   "globalKey": "a1ff8228-e5df-4eea-a709-991ffc7462e5",
   "object": "AttributePicklistValue",
   "record": {
-    "Abbreviation": null,
+    "Abbreviation": "T5-SSDHardD",
     "Code": "SSD Hard Drive 512GB",
     "DisplayValue": "SSD Hard Drive 512GB",
     "GlobalKey__c": "a1ff8228-e5df-4eea-a709-991ffc7462e5",

@@ -2,7 +2,7 @@
   "globalKey": "49c2aba5-1f97-4da7-9992-6b472f089653",
   "object": "AttributePicklistValue",
   "record": {
-    "Abbreviation": null,
+    "Abbreviation": "T5-27Inch",
     "Code": "27IN",
     "DisplayValue": "27 Inch",
     "GlobalKey__c": "49c2aba5-1f97-4da7-9992-6b472f089653",

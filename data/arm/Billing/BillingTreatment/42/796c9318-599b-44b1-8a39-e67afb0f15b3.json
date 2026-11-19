@@ -4,7 +4,7 @@
   "record": {
     "BillingPolicy.GlobalKey__c": "fcddf175-78ca-49ba-bb82-0b2110b3ead4",
     "CanChangeBillingFrequency": false,
-    "Description": null,
+    "Description": "TC-D5 BillingTreatment updated via Stride CLI 2026-11-15",
     "ExcludeFromBilling": "No",
     "GlobalKey__c": "796c9318-599b-44b1-8a39-e67afb0f15b3",
     "IsMilestoneBilling": false,

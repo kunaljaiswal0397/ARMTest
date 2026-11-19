@@ -3,7 +3,7 @@
   "object": "AttributeCategory",
   "record": {
     "Code": "GRA",
-    "Description": null,
+    "Description": "TC-D5 AttributeCategory updated via Stride CLI 2026-11-15",
     "GlobalKey__c": "3ed3c96c-8d67-4113-ab08-83e0d4c7a013",
     "Name": "Graphics"
   }

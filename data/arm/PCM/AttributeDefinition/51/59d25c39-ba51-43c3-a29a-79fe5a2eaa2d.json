@@ -6,7 +6,7 @@
     "DataType": "Picklist",
     "DefaultHelpText": null,
     "DefaultValue": null,
-    "Description": null,
+    "Description": "TC-D5 AttributeDefinition updated via Stride CLI 2026-11-15",
     "DeveloperName": "Graphics",
     "GlobalKey__c": "59d25c39-ba51-43c3-a29a-79fe5a2eaa2d",
     "IsActive": true,

@@ -6,7 +6,7 @@
     "AttributeDefinition.GlobalKey__c": "180adfe0-9abb-47b2-814b-8ac3445579e5",
     "AttributeNameOverride": "Memory",
     "DefaultValue": "RAM 8GB",
-    "Description": null,
+    "Description": "TC-D5 ProductAttributeDefinition updated via Stride CLI 2026-11-15",
     "DisplayType": null,
     "GlobalKey__c": "83a6b61a-3254-42cf-a039-a861478ff08e",
     "HelpText": null,
