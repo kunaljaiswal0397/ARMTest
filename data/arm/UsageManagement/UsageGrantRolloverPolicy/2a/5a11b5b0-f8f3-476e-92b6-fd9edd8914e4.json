@@ -1,0 +1,13 @@
+{
+  "globalKey": "5a11b5b0-f8f3-476e-92b6-fd9edd8914e4",
+  "object": "UsageGrantRolloverPolicy",
+  "record": {
+    "Code": "Monthly_Storage",
+    "GlobalKey__c": "5a11b5b0-f8f3-476e-92b6-fd9edd8914e4",
+    "IsRolloverAllowed": true,
+    "MaximumRolloverCount": null,
+    "Name": "Monthly Storage Rollover Allowed Policy",
+    "ShouldAllowRolloverExpiry": false,
+    "Status": "Active"
+  }
+}
