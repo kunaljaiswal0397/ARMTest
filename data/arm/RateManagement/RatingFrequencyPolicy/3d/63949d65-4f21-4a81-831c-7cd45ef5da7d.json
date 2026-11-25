@@ -5,7 +5,7 @@
     "GlobalKey__c": "63949d65-4f21-4a81-831c-7cd45ef5da7d",
     "Name": "DeployTest RFP Daily",
     "Product": null,
-    "RatingDelayDuration": 4,
+    "RatingDelayDuration": 5,
     "RatingDelayDurationUnit": "Hours",
     "RatingPeriod": "Daily",
     "UsageResource": null
