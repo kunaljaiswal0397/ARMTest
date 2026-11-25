@@ -5,7 +5,7 @@
     "GlobalKey__c": "4b8f1092-2386-4c31-a503-3cc40bc92807",
     "Name": "RFP-00000002",
     "Product.GlobalKey__c": "dd51a791-57b4-4b3b-af52-9c76ccd20ad3",
-    "RatingDelayDuration": 1,
+    "RatingDelayDuration": 2,
     "RatingDelayDurationUnit": "Hours",
     "RatingPeriod": "Monthly",
     "UsageResource.GlobalKey__c": "5f1e90f2-2c4f-44a5-a090-4604ef3f9f43"
