@@ -1,0 +1,23 @@
+{
+  "slug": "t027-twogit",
+  "name": "t027-twogit",
+  "createdAt": "2026-11-25T14:51:48.777Z",
+  "updatedAt": "2026-11-25T14:51:48.777Z",
+  "version": 1,
+  "lanes": {
+    "metadata": {
+      "components": [
+        {
+          "type": "CustomLabel",
+          "fullName": "ARM_Sample_Label_Two"
+        }
+      ]
+    }
+  },
+  "branch": "feature/t027-twogit",
+  "baseBranch": "org/arm-source-org",
+  "writtenPaths": [
+    ".stride/sets/t027-twogit.json",
+    "force-app/main/default/labels/CustomLabels.labels-meta.xml"
+  ]
+}
