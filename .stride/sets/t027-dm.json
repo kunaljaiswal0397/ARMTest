@@ -1,0 +1,28 @@
+{
+  "slug": "t027-dm",
+  "name": "t027-dm",
+  "createdAt": "2026-11-25T15:02:21.818Z",
+  "updatedAt": "2026-11-25T15:02:21.818Z",
+  "version": 1,
+  "lanes": {
+    "metadata": {
+      "components": [
+        {
+          "type": "DecisionMatrixDefinition",
+          "fullName": "Location_Based_Pricing"
+        },
+        {
+          "type": "DecisionMatrixDefinitionVersion",
+          "fullName": "Location_Based_Pricing_V1"
+        }
+      ]
+    }
+  },
+  "branch": "feature/t027-dm",
+  "baseBranch": "org/arm-source-org",
+  "writtenPaths": [
+    ".stride/sets/t027-dm.json",
+    "force-app/main/default/decisionMatrixDefinition/Location_Based_Pricing.decisionMatrixDefinition-meta.xml",
+    "force-app/main/default/decisionMatrixVersion/Location_Based_Pricing_V1.decisionMatrixVersion-meta.xml"
+  ]
+}
