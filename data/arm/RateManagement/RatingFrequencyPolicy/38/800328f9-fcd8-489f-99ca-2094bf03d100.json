@@ -1,0 +1,13 @@
+{
+  "globalKey": "800328f9-fcd8-489f-99ca-2094bf03d100",
+  "object": "RatingFrequencyPolicy",
+  "record": {
+    "GlobalKey__c": "800328f9-fcd8-489f-99ca-2094bf03d100",
+    "Name": "RFP-00000001",
+    "Product.GlobalKey__c": "89757625-13bf-4c76-8a40-8c6ad9684c4d",
+    "RatingDelayDuration": 1,
+    "RatingDelayDurationUnit": null,
+    "RatingPeriod": "Monthly",
+    "UsageResource.GlobalKey__c": "8bb513e3-dc55-42e5-a4d3-5dfe2b1678c3"
+  }
+}

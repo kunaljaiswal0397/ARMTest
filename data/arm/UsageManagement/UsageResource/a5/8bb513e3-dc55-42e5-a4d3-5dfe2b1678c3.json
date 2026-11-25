@@ -1,0 +1,17 @@
+{
+  "globalKey": "8bb513e3-dc55-42e5-a4d3-5dfe2b1678c3",
+  "object": "UsageResource",
+  "record": {
+    "Category": "Usage",
+    "Code": "Cloud_Storage",
+    "DefaultUnitOfMeasure.GlobalKey__c": "decf2c4a-3839-49e0-a748-c2d6250752ef",
+    "Description": null,
+    "GlobalKey__c": "8bb513e3-dc55-42e5-a4d3-5dfe2b1678c3",
+    "Name": "Cloud Storage Usage",
+    "Status": "Active",
+    "TokenResource": null,
+    "UnitOfMeasureClass.GlobalKey__c": "9ed56420-1868-4e3a-8b0a-1b657cd7e363",
+    "UsageDefinitionProduct.GlobalKey__c": "89757625-13bf-4c76-8a40-8c6ad9684c4d",
+    "UsageResourceBillingPolicy.GlobalKey__c": "02043505-8235-4ced-bfb2-9c9ed947d08b"
+  }
+}

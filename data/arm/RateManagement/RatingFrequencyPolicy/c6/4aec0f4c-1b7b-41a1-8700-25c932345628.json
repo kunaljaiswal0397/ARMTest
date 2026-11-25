@@ -1,0 +1,13 @@
+{
+  "globalKey": "4aec0f4c-1b7b-41a1-8700-25c932345628",
+  "object": "RatingFrequencyPolicy",
+  "record": {
+    "GlobalKey__c": "4aec0f4c-1b7b-41a1-8700-25c932345628",
+    "Name": "RFP-00000007",
+    "Product": null,
+    "RatingDelayDuration": 1,
+    "RatingDelayDurationUnit": null,
+    "RatingPeriod": "Monthly",
+    "UsageResource": null
+  }
+}
