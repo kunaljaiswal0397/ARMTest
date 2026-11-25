@@ -1,0 +1,14 @@
+{
+  "globalKey": "9ed56420-1868-4e3a-8b0a-1b657cd7e363",
+  "object": "UnitOfMeasureClass",
+  "record": {
+    "BaseUnitOfMeasure": null,
+    "Code": "STORAGE",
+    "DefaultUnitOfMeasure.GlobalKey__c": "decf2c4a-3839-49e0-a748-c2d6250752ef",
+    "Description": null,
+    "GlobalKey__c": "9ed56420-1868-4e3a-8b0a-1b657cd7e363",
+    "Name": "Storage",
+    "Status": "Active",
+    "Type": "Usage"
+  }
+}

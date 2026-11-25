@@ -1,0 +1,11 @@
+{
+  "globalKey": "4eb3dccd-f7ce-478a-9dfa-a32aa709b10c",
+  "object": "ProductClassification",
+  "record": {
+    "Code": "Cloud_Services",
+    "GlobalKey__c": "4eb3dccd-f7ce-478a-9dfa-a32aa709b10c",
+    "Name": "Cloud Services",
+    "ParentProductClassification": null,
+    "Status": "Active"
+  }
+}
