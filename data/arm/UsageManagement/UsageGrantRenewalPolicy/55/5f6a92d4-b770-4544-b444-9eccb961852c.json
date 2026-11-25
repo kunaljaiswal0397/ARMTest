@@ -1,0 +1,13 @@
+{
+  "globalKey": "5f6a92d4-b770-4544-b444-9eccb961852c",
+  "object": "UsageGrantRenewalPolicy",
+  "record": {
+    "Code": "Monthly_Storage",
+    "GlobalKey__c": "5f6a92d4-b770-4544-b444-9eccb961852c",
+    "IsRenewalAllowed": true,
+    "Name": "Monthly Storage Grant Policy",
+    "RenewalFrequency": 1,
+    "RenewalFrequencyUnit": "Month",
+    "Status": "Active"
+  }
+}

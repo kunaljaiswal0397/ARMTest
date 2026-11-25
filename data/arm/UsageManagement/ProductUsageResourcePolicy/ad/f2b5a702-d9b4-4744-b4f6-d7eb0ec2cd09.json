@@ -1,0 +1,13 @@
+{
+  "globalKey": "f2b5a702-d9b4-4744-b4f6-d7eb0ec2cd09",
+  "object": "ProductUsageResourcePolicy",
+  "record": {
+    "GlobalKey__c": "f2b5a702-d9b4-4744-b4f6-d7eb0ec2cd09",
+    "ProductSellingModel": null,
+    "ProductUsageResource.GlobalKey__c": "1530bdbd-04e9-453d-9c41-63a69a39d8b7",
+    "RatingFrequencyPolicy.GlobalKey__c": "800328f9-fcd8-489f-99ca-2094bf03d100",
+    "UsageAggregationPolicy.GlobalKey__c": "02043505-8235-4ced-bfb2-9c9ed947d08b",
+    "UsageCommitmentPolicy": null,
+    "UsageOveragePolicy.GlobalKey__c": "65a5b330-4054-4a03-a788-c2fe1d25c7d7"
+  }
+}
