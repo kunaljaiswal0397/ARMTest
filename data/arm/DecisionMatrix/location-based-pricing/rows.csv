@@ -3,3 +3,4 @@ InputData,OutputData
 "{""Province"":""London""}","{""UnitPrice"":39}"
 "{""Province"":""Mumbai""}","{""UnitPrice"":52}"
 "{""Province"":""Paris""}","{""UnitPrice"":61}"
+"{""Province"":""Tokyo""}","{""UnitPrice"":66}"
