@@ -4,7 +4,7 @@
     <processType>Bre</processType>
     <type>Standard</type>
     <versions>
-        <fullName>Location_Based_Pricing_V4</fullName>
+        <fullName>Location_Based_Pricing_V5</fullName>
         <columns>
             <columnType>Input</columnType>
             <dataType>Text</dataType>
@@ -20,10 +20,10 @@
             <name>UnitPrice</name>
         </columns>
         <decisionMatrixDefinition>Location_Based_Pricing</decisionMatrixDefinition>
-        <label>Location Based Pricing V4</label>
-        <rank>4</rank>
+        <label>Location Based Pricing V5</label>
+        <rank>5</rank>
         <startDate>2026-08-18T10:09:33.000Z</startDate>
         <status>Draft</status>
-        <versionNumber>4</versionNumber>
+        <versionNumber>5</versionNumber>
     </versions>
 </DecisionMatrixDefinition>
