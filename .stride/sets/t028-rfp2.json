@@ -1,0 +1,62 @@
+{
+  "slug": "t028-rfp2",
+  "name": "t028-rfp2",
+  "createdAt": "2026-11-27T10:39:40.176Z",
+  "updatedAt": "2026-11-27T10:39:40.176Z",
+  "version": 1,
+  "lanes": {
+    "arm": {
+      "selections": [
+        {
+          "object": "BindingObjectCustomExt",
+          "intent": "picked",
+          "records": [
+            "50f51418-9d54-4a8f-9d86-c88ba92a152e"
+          ]
+        },
+        {
+          "object": "RatingFrequencyPolicy",
+          "intent": "picked",
+          "records": [
+            "800328f9-fcd8-489f-99ca-2094bf03d100",
+            "4aec0f4c-1b7b-41a1-8700-25c932345628"
+          ]
+        }
+      ],
+      "includedDeps": [],
+      "deployScope": "complete",
+      "configData": {
+        "objects": [
+          "BindingObjectCustomExt",
+          "RatingFrequencyPolicy"
+        ]
+      }
+    }
+  },
+  "branch": "feature/t028-rfp2",
+  "baseBranch": "org/arm-source-org",
+  "writtenPaths": [
+    ".stride/sets/t028-rfp2.json",
+    "data/arm/Billing/LegalEntity/d0/d843f930-5d8f-47c6-bbfa-8bfd2c468487.json",
+    "data/arm/Billing/TaxPolicy/dc/c0f3cc68-446c-4ea6-917e-d4699573ac71.json",
+    "data/arm/Billing/TaxTreatment/9d/20f912c6-288e-4039-a392-d8913ffd57ba.json",
+    "data/arm/PCM/Product2/37/89757625-13bf-4c76-8a40-8c6ad9684c4d.json",
+    "data/arm/PCM/ProductClassification/73/4eb3dccd-f7ce-478a-9dfa-a32aa709b10c.json",
+    "data/arm/RateManagement/BindingObjectCustomExt/21/50f51418-9d54-4a8f-9d86-c88ba92a152e.json",
+    "data/arm/RateManagement/RatingFrequencyPolicy/38/800328f9-fcd8-489f-99ca-2094bf03d100.json",
+    "data/arm/RateManagement/RatingFrequencyPolicy/c6/4aec0f4c-1b7b-41a1-8700-25c932345628.json",
+    "data/arm/UsageManagement/ProductUsageGrant/29/ac45440d-1f83-49b8-ac1f-c0d045db1d85.json",
+    "data/arm/UsageManagement/ProductUsageResource/db/1530bdbd-04e9-453d-9c41-63a69a39d8b7.json",
+    "data/arm/UsageManagement/ProductUsageResourcePolicy/ad/f2b5a702-d9b4-4744-b4f6-d7eb0ec2cd09.json",
+    "data/arm/UsageManagement/UnitOfMeasure/72/decf2c4a-3839-49e0-a748-c2d6250752ef.json",
+    "data/arm/UsageManagement/UnitOfMeasureClass/01/9ed56420-1868-4e3a-8b0a-1b657cd7e363.json",
+    "data/arm/UsageManagement/UsageCommitmentPolicy/cc/324b405e-43f4-40ba-85ed-4cdefacf3414.json",
+    "data/arm/UsageManagement/UsageGrantRenewalPolicy/55/5f6a92d4-b770-4544-b444-9eccb961852c.json",
+    "data/arm/UsageManagement/UsageGrantRolloverPolicy/2a/5a11b5b0-f8f3-476e-92b6-fd9edd8914e4.json",
+    "data/arm/UsageManagement/UsageOveragePolicy/81/65a5b330-4054-4a03-a788-c2fe1d25c7d7.json",
+    "data/arm/UsageManagement/UsageResource/a5/8bb513e3-dc55-42e5-a4d3-5dfe2b1678c3.json",
+    "data/arm/UsageManagement/UsageResourceBillingPolicy/c3/02043505-8235-4ced-bfb2-9c9ed947d08b.json",
+    "data/arm/UsageManagement/UsageResourcePolicy/14/b0686d5f-51b1-455f-ae7b-e4004a1b4236.json",
+    "data/arm/manifests/deploytest-binding-ext-tc-d5.50f51418-9d54-4a8f-9d86-c88ba92a152e.json"
+  ]
+}
